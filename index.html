@@ -163,7 +163,7 @@
             tbody.appendChild(tr);
           });
 
-          if (bounds.length > 0) map.fitBounds(bounds, { padding: [40, 40] });
+          if (bounds.length > 0) map.fitBounds(bounds, { padding: [40, 40], maxZoom: 7 });
           else map.setView([54, -2], 6);
 
         } catch (e) {
