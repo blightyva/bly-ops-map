@@ -1,0 +1,179 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>BLY Live Ops (VATSIM)</title>
+
+  <!-- Leaflet -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <script defer src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+  <!-- Optional rotation plugin (safe if it fails) -->
+  <script defer src="https://unpkg.com/leaflet-rotatedmarker/leaflet.rotatedMarker.js"></script>
+
+  <style>
+    body { margin: 0; font-family: Arial, sans-serif; background: #fff; }
+    .wrap { max-width: 1200px; margin: 0 auto; padding: 14px; box-sizing: border-box; }
+    h2 { margin: 0 0 12px 0; text-align: center; }
+    #map { height: 600px; width: 100%; border: 1px solid #ccc; border-radius: 10px; overflow: hidden; }
+    .bar { display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; margin-top: 12px; }
+    table { width: 100%; border-collapse: collapse; margin-top: 10px; }
+    th, td { border: 1px solid #ccc; padding: 10px; text-align: center; }
+    th { background: #1e3a5f; color: #fff; }
+    tr:nth-child(even) { background: #f6f6f6; }
+    tr.clickable { cursor: pointer; }
+    .note { font-size: 12px; color: #555; margin-top: 8px; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h2>Blighty VA – Live Ops (VATSIM)</h2>
+
+    <div id="map"></div>
+
+    <div class="bar">
+      <div id="blyCount" style="font-weight:bold;">BLY flights online: …</div>
+      <div style="font-size:12px;color:#555;">Auto refresh: 30s</div>
+    </div>
+
+    <table id="blyTable">
+      <thead>
+        <tr>
+          <th>Callsign</th>
+          <th>Departure</th>
+          <th>Destination</th>
+          <th>Registration/Type</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+
+    <div class="note">
+      Data provided by VATSIM. “Registration/Type” comes from the VATSIM flight plan <code>aircraft</code> field (often aircraft type/ICAO).
+    </div>
+  </div>
+
+  <script>
+    // Run after deferred scripts load
+    window.addEventListener("load", () => {
+      if (typeof L === "undefined") {
+        document.getElementById("map").innerHTML =
+          "<div style='padding:12px;'>Leaflet failed to load. Check network/adblock.</div>";
+        return;
+      }
+
+      const map = L.map("map").setView([54, -2], 6);
+      L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+        attribution: "&copy; OpenStreetMap contributors"
+      }).addTo(map);
+
+      // Inline SVG aircraft icon (no external icon dependency)
+      const planeSvg = `
+        <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 64 64">
+          <path d="M32 4 L40 36 L58 44 L40 48 L32 60 L24 48 L6 44 L24 36 Z" fill="#111"/>
+        </svg>`;
+      const planeIconUrl = "data:image/svg+xml;base64," + btoa(planeSvg);
+
+      const aircraftIcon = L.icon({
+        iconUrl: planeIconUrl,
+        iconSize: [28, 28],
+        iconAnchor: [14, 14]
+      });
+
+      let markers = [];
+      const markerByCallsign = new Map();
+
+      const FEED = "https://data.vatsim.net/v3/vatsim-data.json";
+      const tbody = document.querySelector("#blyTable tbody");
+      const countEl = document.getElementById("blyCount");
+
+      function esc(v){
+        return String(v ?? "").replace(/[&<>"']/g, c => ({
+          "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"
+        }[c]));
+      }
+      function safe(v, fb="-"){ return (v===undefined||v===null||v==="") ? fb : v; }
+
+      async function refresh() {
+        try {
+          const res = await fetch(FEED, { cache: "no-store" });
+          const data = await res.json();
+
+          // clear old markers
+          markers.forEach(m => map.removeLayer(m));
+          markers = [];
+          markerByCallsign.clear();
+
+          // clear table
+          tbody.innerHTML = "";
+
+          const flights = (data.pilots || []).filter(p => p?.callsign?.startsWith("BLY"));
+          countEl.textContent = `BLY flights online: ${flights.length}`;
+
+          const bounds = [];
+
+          flights.forEach((p) => {
+            const fp = p.flight_plan || {};
+            const dep = safe(fp.departure);
+            const arr = safe(fp.arrival);
+            const regOrType = safe(fp.aircraft);
+
+            const hasPos = (typeof p.latitude === "number") && (typeof p.longitude === "number");
+            let marker = null;
+
+            if (hasPos) {
+              marker = L.marker([p.latitude, p.longitude], { icon: aircraftIcon }).addTo(map);
+
+              // rotate only if plugin is available
+              if (typeof marker.setRotationAngle === "function") {
+                marker.setRotationAngle(typeof p.heading === "number" ? p.heading : 0);
+                marker.setRotationOrigin("center center");
+              }
+
+              marker.bindPopup(
+                `<b>${esc(p.callsign)}</b><br>` +
+                `${esc(dep)} → ${esc(arr)}<br>` +
+                `FL${Math.round(((p.altitude || 0) / 100))} • ${esc(p.groundspeed ?? 0)} kts`
+              );
+
+              markers.push(marker);
+              markerByCallsign.set(p.callsign, marker);
+              bounds.push([p.latitude, p.longitude]);
+            }
+
+            const tr = document.createElement("tr");
+            if (marker) tr.classList.add("clickable");
+
+            tr.innerHTML =
+              `<td>${esc(p.callsign)}</td>` +
+              `<td>${esc(dep)}</td>` +
+              `<td>${esc(arr)}</td>` +
+              `<td>${esc(regOrType)}</td>`;
+
+            if (marker) {
+              tr.addEventListener("click", () => {
+                const m = markerByCallsign.get(p.callsign);
+                if (!m) return;
+                map.setView(m.getLatLng(), Math.max(map.getZoom(), 7), { animate: true });
+                m.openPopup();
+              });
+            }
+
+            tbody.appendChild(tr);
+          });
+
+          if (bounds.length > 0) map.fitBounds(bounds, { padding: [40, 40] });
+          else map.setView([54, -2], 6);
+
+        } catch (e) {
+          console.log("Refresh error:", e);
+        }
+      }
+
+      refresh();
+      setInterval(refresh, 30000);
+    });
+  </script>
+</body>
+</html>
