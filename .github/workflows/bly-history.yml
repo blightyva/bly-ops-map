@@ -34,25 +34,47 @@ jobs:
           now_iso = NOW.isoformat() + "Z"
           cutoff = NOW - datetime.timedelta(days=28)
 
+          SESSION_GAP_MINUTES = 30  # if flight disappears for >= this long, next appearance is a new "session"
+
           def parse_iso(s):
             try:
               return datetime.datetime.fromisoformat(s.replace("Z","+00:00")).replace(tzinfo=None)
             except Exception:
               return None
 
-          def make_key(callsign, dep, arr, aircraft):
-            raw = f"{callsign}|{dep}|{arr}|{aircraft}"
+          def make_base(callsign, dep, arr, aircraft):
+            return f"{callsign}|{dep}|{arr}|{aircraft}"
+
+          def make_key(base, session_start_iso):
+            raw = f"{base}|{session_start_iso}"
             return hashlib.sha1(raw.encode("utf-8")).hexdigest()
 
+          # Load current VATSIM snapshot + existing history
           with open("vatsim.json","r",encoding="utf-8") as f:
             vatsim = json.load(f)
 
           with open("history.json","r",encoding="utf-8") as f:
             hist = json.load(f)
 
-          existing = hist.get("flights", []) or []
-          by_key = {x.get("key"): x for x in existing if x.get("key")}
+          sessions = hist.get("flights", []) or []
 
+          # Index existing sessions by key
+          by_key = {x.get("key"): x for x in sessions if x.get("key")}
+
+          # Track the latest session for each base (callsign+route+aircraft)
+          latest_by_base = {}
+          for s in sessions:
+            base = s.get("base")
+            if not base:
+              continue
+            dt = parse_iso(s.get("last_seen_utc",""))
+            if dt is None:
+              continue
+            prev = latest_by_base.get(base)
+            if (prev is None) or (parse_iso(prev.get("last_seen_utc","")) < dt):
+              latest_by_base[base] = s
+
+          # Process current BLY pilots
           for p in (vatsim.get("pilots") or []):
             cs = p.get("callsign") or ""
             if not cs.startswith("BLY"):
@@ -63,11 +85,24 @@ jobs:
             arr = fp.get("arrival") or "-"
             aircraft = fp.get("aircraft") or "-"
 
-            key = make_key(cs, dep, arr, aircraft)
+            base = make_base(cs, dep, arr, aircraft)
 
-            if key not in by_key:
-              by_key[key] = {
+            existing = latest_by_base.get(base)
+            last_seen = parse_iso(existing.get("last_seen_utc","")) if existing else None
+
+            # Continue same session if it's been seen recently; otherwise start new session
+            start_new = True
+            if last_seen is not None:
+              gap = NOW - last_seen
+              if gap <= datetime.timedelta(minutes=SESSION_GAP_MINUTES):
+                start_new = False
+
+            if start_new:
+              session_start_iso = now_iso
+              key = make_key(base, session_start_iso)
+              record = {
                 "key": key,
+                "base": base,
                 "callsign": cs,
                 "departure": dep,
                 "destination": arr,
@@ -76,16 +111,21 @@ jobs:
                 "last_seen_utc": now_iso,
                 "seen_count": 1
               }
+              by_key[key] = record
+              latest_by_base[base] = record
             else:
-              by_key[key]["last_seen_utc"] = now_iso
-              by_key[key]["seen_count"] = int(by_key[key].get("seen_count", 0)) + 1
+              existing["last_seen_utc"] = now_iso
+              existing["seen_count"] = int(existing.get("seen_count", 0)) + 1
+              by_key[existing["key"]] = existing
 
+          # Prune anything older than 4 weeks (based on last_seen_utc)
           kept = []
           for item in by_key.values():
             dt = parse_iso(item.get("last_seen_utc",""))
             if dt and dt >= cutoff:
               kept.append(item)
 
+          # Sort newest first
           kept.sort(key=lambda x: x.get("last_seen_utc",""), reverse=True)
 
           out = {"updated_utc": now_iso, "flights": kept}
