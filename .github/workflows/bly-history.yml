@@ -1,0 +1,106 @@
+name: Update BLY flight history
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"   # every 5 minutes (UTC)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-history:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Fetch VATSIM + update history.json
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          FEED="https://data.vatsim.net/v3/vatsim-data.json"
+          curl -fsSL "$FEED" -o vatsim.json
+
+          if [ ! -f history.json ]; then
+            echo '{"updated_utc": null, "flights": []}' > history.json
+          fi
+
+          python3 - << 'PY'
+          import json, datetime, hashlib
+
+          NOW = datetime.datetime.utcnow().replace(microsecond=0)
+          now_iso = NOW.isoformat() + "Z"
+          cutoff = NOW - datetime.timedelta(days=28)
+
+          def parse_iso(s):
+            try:
+              return datetime.datetime.fromisoformat(s.replace("Z","+00:00")).replace(tzinfo=None)
+            except Exception:
+              return None
+
+          def make_key(callsign, dep, arr, aircraft):
+            raw = f"{callsign}|{dep}|{arr}|{aircraft}"
+            return hashlib.sha1(raw.encode("utf-8")).hexdigest()
+
+          with open("vatsim.json","r",encoding="utf-8") as f:
+            vatsim = json.load(f)
+
+          with open("history.json","r",encoding="utf-8") as f:
+            hist = json.load(f)
+
+          existing = hist.get("flights", []) or []
+          by_key = {x.get("key"): x for x in existing if x.get("key")}
+
+          for p in (vatsim.get("pilots") or []):
+            cs = p.get("callsign") or ""
+            if not cs.startswith("BLY"):
+              continue
+
+            fp = p.get("flight_plan") or {}
+            dep = fp.get("departure") or "-"
+            arr = fp.get("arrival") or "-"
+            aircraft = fp.get("aircraft") or "-"
+
+            key = make_key(cs, dep, arr, aircraft)
+
+            if key not in by_key:
+              by_key[key] = {
+                "key": key,
+                "callsign": cs,
+                "departure": dep,
+                "destination": arr,
+                "aircraft": aircraft,
+                "first_seen_utc": now_iso,
+                "last_seen_utc": now_iso,
+                "seen_count": 1
+              }
+            else:
+              by_key[key]["last_seen_utc"] = now_iso
+              by_key[key]["seen_count"] = int(by_key[key].get("seen_count", 0)) + 1
+
+          kept = []
+          for item in by_key.values():
+            dt = parse_iso(item.get("last_seen_utc",""))
+            if dt and dt >= cutoff:
+              kept.append(item)
+
+          kept.sort(key=lambda x: x.get("last_seen_utc",""), reverse=True)
+
+          out = {"updated_utc": now_iso, "flights": kept}
+          with open("history.json","w",encoding="utf-8") as f:
+            json.dump(out, f, indent=2)
+          PY
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git add history.json
+          git commit -m "Update BLY history"
+          git push
