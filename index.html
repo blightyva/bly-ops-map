@@ -24,6 +24,10 @@
     tr:nth-child(even) { background: #f6f6f6; }
     tr.clickable { cursor: pointer; }
     .note { font-size: 12px; color: #555; margin-top: 8px; }
+    #histTable { width: 100%; border-collapse: collapse; margin-top: 10px; }
+    #histTable th, #histTable td { border: 1px solid #ccc; padding: 10px; text-align: center; }
+    #histTable th { background: #1e3a5f; color: #fff; }
+    #histTable tr:nth-child(even) { background: #f6f6f6; }
   </style>
 </head>
 <body>
@@ -53,6 +57,24 @@
       Data provided by VATSIM. “Registration/Type” comes from the VATSIM flight plan <code>aircraft</code> field (often aircraft type/ICAO).
     </div>
   </div>
+
+  <h3 style="margin-top:18px;">Historical flights (last 4 weeks)</h3>
+
+<table id="histTable">
+  <thead>
+    <tr>
+      <th>Callsign</th>
+      <th>Departure</th>
+      <th>Destination</th>
+      <th>Registration/Type</th>
+      <th>First seen (UTC)</th>
+      <th>Last seen (UTC)</th>
+    </tr>
+  </thead>
+  <tbody></tbody>
+</table>
+
+<div id="histMeta" class="note"></div>
 
   <script>
     // Run after deferred scripts load
@@ -174,6 +196,35 @@
       refresh();
       setInterval(refresh, 30000);
     });
+    async function loadHistory() {
+  try {
+    const r = await fetch("./history.json", { cache: "no-store" });
+    const h = await r.json();
+
+    const tb = document.querySelector("#histTable tbody");
+    const meta = document.getElementById("histMeta");
+    tb.innerHTML = "";
+
+    (h.flights || []).forEach(f => {
+      const tr = document.createElement("tr");
+      tr.innerHTML =
+        `<td>${esc(f.callsign)}</td>` +
+        `<td>${esc(f.departure)}</td>` +
+        `<td>${esc(f.destination)}</td>` +
+        `<td>${esc(f.aircraft)}</td>` +
+        `<td>${esc(f.first_seen_utc)}</td>` +
+        `<td>${esc(f.last_seen_utc)}</td>`;
+      tb.appendChild(tr);
+    });
+
+    meta.textContent = `History updated (UTC): ${h.updated_utc || "unknown"} • Showing ${(h.flights || []).length} flights`;
+  } catch (e) {
+    console.log("History load error:", e);
+  }
+}
+
+loadHistory();
+setInterval(loadHistory, 120000); // optional: refresh the history view every 2 minutes
   </script>
 </body>
 </html>
