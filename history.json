@@ -1,4 +1,16 @@
 {
-  "updated_utc": "2026-03-06T01:30:20Z",
-  "flights": []
+  "updated_utc": "2026-03-06T01:38:15Z",
+  "flights": [
+    {
+      "key": "2855565891c8cd52d2d3376827d268c0915f0496",
+      "base": "BLY1107|EGAA|EGGP|RJ1H/M-SDFGIRWY/LB1",
+      "callsign": "BLY1107",
+      "departure": "EGAA",
+      "destination": "EGGP",
+      "aircraft": "RJ1H/M-SDFGIRWY/LB1",
+      "first_seen_utc": "2026-03-06T01:38:15Z",
+      "last_seen_utc": "2026-03-06T01:38:15Z",
+      "seen_count": 1
+    }
+  ]
 }
