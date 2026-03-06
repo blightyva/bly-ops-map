@@ -223,6 +223,16 @@
   }
 }
 
+function esc(v){
+  return String(v ?? "").replace(/[&<>"']/g, c => ({
+    "&":"&amp;",
+    "<":"&lt;",
+    ">":"&gt;",
+    '"':"&quot;",
+    "'":"&#039;"
+  }[c]));
+}
+
 loadHistory();
 setInterval(loadHistory, 120000); // optional: refresh the history view every 2 minutes
   </script>
