@@ -1,0 +1,66 @@
+name: Blighty ACARS Bridge
+
+on:
+  workflow_dispatch:
+
+jobs:
+  acars:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Poll Hoppie
+        id: poll
+        run: |
+          RESPONSE=$(curl -s "http://www.hoppie.nl/acars/system/connect.html?logon=BLY&type=poll")
+
+          echo "response=$RESPONSE"
+          echo "response=$RESPONSE" >> $GITHUB_OUTPUT
+
+      - name: Extract message
+        id: parse
+        if: contains(steps.poll.outputs.response, '{')
+        run: |
+          MESSAGE=$(echo '${{ steps.poll.outputs.response }}' | sed 's/.*{//;s/}//')
+
+          HASH=$(echo "$MESSAGE" | sha256sum | cut -d ' ' -f1)
+
+          echo "message=$MESSAGE" >> $GITHUB_OUTPUT
+          echo "hash=$HASH" >> $GITHUB_OUTPUT
+
+      - name: Load previous hash
+        id: previous
+        run: |
+          if [ -f last_message.txt ]; then
+            LAST=$(cat last_message.txt)
+          else
+            LAST=""
+          fi
+
+          echo "last=$LAST" >> $GITHUB_OUTPUT
+
+      - name: Send to Discord
+        if: steps.parse.outputs.hash != steps.previous.outputs.last
+        run: |
+          MESSAGE="${{ steps.parse.outputs.message }}"
+
+          curl -H "Content-Type: application/json" \
+          -d "{\"content\":\"✈️ **BLIGHTY ACARS MESSAGE**\n\`\`\`\n$MESSAGE\n\`\`\`\"}" \
+          ${{ secrets.DISCORD_WEBHOOK }}
+
+      - name: Save latest hash
+        if: steps.parse.outputs.hash != steps.previous.outputs.last
+        run: |
+          echo "${{ steps.parse.outputs.hash }}" > last_message.txt
+
+      - name: Commit state
+        if: steps.parse.outputs.hash != steps.previous.outputs.last
+        run: |
+          git config --global user.name "acars-bot"
+          git config --global user.email "bot@github"
+
+          git add last_message.txt
+          git commit -m "Update last ACARS message"
+          git push
