@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-03-06T20:10:15Z",
+  "updated_utc": "2026-03-06T20:15:16Z",
   "flights": [
+    {
+      "key": "1cd23f5f5b09b72c0c2366fdb66d2357a3a28937",
+      "base": "BLY2269|EGCC|EPGD|B38M/M-SDE1FGHILORVWXY/HB1",
+      "callsign": "BLY2269",
+      "departure": "EGCC",
+      "destination": "EPGD",
+      "aircraft": "B38M/M-SDE1FGHILORVWXY/HB1",
+      "first_seen_utc": "2026-03-06T20:15:16Z",
+      "last_seen_utc": "2026-03-06T20:15:16Z",
+      "seen_count": 1
+    },
     {
       "key": "d2e8e6f638ae3bda245de5eb2d1af6c20c393fcc",
       "base": "BLY1218|LEMG|EGGP|A20N/M-SDE2E3FGHIRWXY/LB1",
