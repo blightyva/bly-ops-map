@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-03-06T11:35:13Z",
+  "updated_utc": "2026-03-06T11:40:15Z",
   "flights": [
+    {
+      "key": "d2e8e6f638ae3bda245de5eb2d1af6c20c393fcc",
+      "base": "BLY1218|LEMG|EGGP|A20N/M-SDE2E3FGHIRWXY/LB1",
+      "callsign": "BLY1218",
+      "departure": "LEMG",
+      "destination": "EGGP",
+      "aircraft": "A20N/M-SDE2E3FGHIRWXY/LB1",
+      "first_seen_utc": "2026-03-06T11:40:15Z",
+      "last_seen_utc": "2026-03-06T11:40:15Z",
+      "seen_count": 1
+    },
     {
       "key": "2855565891c8cd52d2d3376827d268c0915f0496",
       "base": "BLY1107|EGAA|EGGP|RJ1H/M-SDFGIRWY/LB1",
