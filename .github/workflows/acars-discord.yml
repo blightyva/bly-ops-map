@@ -14,7 +14,7 @@ jobs:
       - name: Poll Hoppie
         id: poll
         run: |
-          RESPONSE=$(curl -s "http://www.hoppie.nl/acars/system/connect.html?logon=BLY&from=BLY&to=SERVER&type=poll")
+          RESPONSE=$(curl -s "http://www.hoppie.nl/acars/system/connect.html?logon=${{ secrets.HOPPIE_LOGON }}&from=BLY&to=SERVER&type=poll")
           echo "response=$RESPONSE"
           echo "response=$RESPONSE" >> $GITHUB_OUTPUT
 
