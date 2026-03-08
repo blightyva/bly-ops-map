@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-03-08T20:20:13Z",
+  "updated_utc": "2026-03-08T20:25:12Z",
   "flights": [
     {
       "key": "aaffc3a10e387c0e9ccb5cfb01e2781766202367",
@@ -9,8 +9,19 @@
       "destination": "EGCC",
       "aircraft": "A20N/M-SDE2E3FGHIRWXY/LB1",
       "first_seen_utc": "2026-03-08T19:45:15Z",
-      "last_seen_utc": "2026-03-08T20:20:13Z",
-      "seen_count": 10
+      "last_seen_utc": "2026-03-08T20:25:12Z",
+      "seen_count": 11
+    },
+    {
+      "key": "179dc7df0f730524ac5a78fc851214bcdbcea839",
+      "base": "BLY2204|EHAM|EGCC|B38M/M-SDE1FGHILORVWXY/HB1",
+      "callsign": "BLY2204",
+      "departure": "EHAM",
+      "destination": "EGCC",
+      "aircraft": "B38M/M-SDE1FGHILORVWXY/HB1",
+      "first_seen_utc": "2026-03-08T20:25:12Z",
+      "last_seen_utc": "2026-03-08T20:25:12Z",
+      "seen_count": 1
     },
     {
       "key": "2bcc6911f620db8bdccd8ad8e23d3694fa59edec",
