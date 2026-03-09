@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-03-09T10:05:13Z",
+  "updated_utc": "2026-03-09T10:10:15Z",
   "flights": [
     {
       "key": "734f7f39c36ca402b73faea58a47b34a3757bffe",
@@ -9,8 +9,8 @@
       "destination": "KSFO",
       "aircraft": "B772/H-SDE2E3FGHIJ5LORVWXY/LB1D1",
       "first_seen_utc": "2026-03-09T09:20:14Z",
-      "last_seen_utc": "2026-03-09T10:05:13Z",
-      "seen_count": 10
+      "last_seen_utc": "2026-03-09T10:10:15Z",
+      "seen_count": 11
     },
     {
       "key": "08068081778a3f5bad0ff0bcbb9c33069b718644",
