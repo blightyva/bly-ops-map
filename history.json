@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-03-10T19:40:15Z",
+  "updated_utc": "2026-03-10T19:45:16Z",
   "flights": [
+    {
+      "key": "7d99ad74a1b53feb6273cf764b2af07437ca399f",
+      "base": "BLY1213|EGGP|LEPA|B738/M-SDE2E3FGHIRWXY/LB1",
+      "callsign": "BLY1213",
+      "departure": "EGGP",
+      "destination": "LEPA",
+      "aircraft": "B738/M-SDE2E3FGHIRWXY/LB1",
+      "first_seen_utc": "2026-03-10T18:25:14Z",
+      "last_seen_utc": "2026-03-10T19:45:16Z",
+      "seen_count": 17
+    },
     {
       "key": "185182b65c94059b623b6ec1a7245086d71691df",
       "base": "BLY4165|EGJJ|EGPH|A20N/M-SDE2E3FGHIRWXY/LB1",
@@ -11,17 +22,6 @@
       "first_seen_utc": "2026-03-10T18:10:14Z",
       "last_seen_utc": "2026-03-10T19:40:15Z",
       "seen_count": 18
-    },
-    {
-      "key": "7d99ad74a1b53feb6273cf764b2af07437ca399f",
-      "base": "BLY1213|EGGP|LEPA|B738/M-SDE2E3FGHIRWXY/LB1",
-      "callsign": "BLY1213",
-      "departure": "EGGP",
-      "destination": "LEPA",
-      "aircraft": "B738/M-SDE2E3FGHIRWXY/LB1",
-      "first_seen_utc": "2026-03-10T18:25:14Z",
-      "last_seen_utc": "2026-03-10T19:40:15Z",
-      "seen_count": 16
     },
     {
       "key": "a96f31c8d8be9cdd37414c418ff6fccdb52b8088",
