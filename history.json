@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-03-10T21:05:13Z",
+  "updated_utc": "2026-03-10T21:10:16Z",
   "flights": [
     {
       "key": "7d99ad74a1b53feb6273cf764b2af07437ca399f",
@@ -9,8 +9,8 @@
       "destination": "LEPA",
       "aircraft": "B738/M-SDE2E3FGHIRWXY/LB1",
       "first_seen_utc": "2026-03-10T18:25:14Z",
-      "last_seen_utc": "2026-03-10T21:05:13Z",
-      "seen_count": 34
+      "last_seen_utc": "2026-03-10T21:10:16Z",
+      "seen_count": 35
     },
     {
       "key": "8fd5ee2b31cfbbe046235a63465630d11c8c27f0",
@@ -20,8 +20,8 @@
       "destination": "EGHI",
       "aircraft": "A20N/M-SDE2E3FGHIRWXY/LB1",
       "first_seen_utc": "2026-03-10T20:40:18Z",
-      "last_seen_utc": "2026-03-10T21:05:13Z",
-      "seen_count": 7
+      "last_seen_utc": "2026-03-10T21:10:16Z",
+      "seen_count": 8
     },
     {
       "key": "185182b65c94059b623b6ec1a7245086d71691df",
