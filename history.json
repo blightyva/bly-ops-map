@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-03-14T19:15:15Z",
+  "updated_utc": "2026-03-14T19:17:44Z",
   "flights": [
     {
       "key": "dd1ebc986fb1e1037326a3266df4d58eb4747e55",
@@ -9,8 +9,8 @@
       "destination": "EGJJ",
       "aircraft": "A20N/M-SDE2E3FGHIRWXY/LB1",
       "first_seen_utc": "2026-03-14T19:15:15Z",
-      "last_seen_utc": "2026-03-14T19:15:15Z",
-      "seen_count": 1
+      "last_seen_utc": "2026-03-14T19:17:44Z",
+      "seen_count": 2
     },
     {
       "key": "4fba9e57701c34947c646791520fd0118988f34c",
