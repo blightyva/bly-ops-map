@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-03-14T21:20:15Z",
+  "updated_utc": "2026-03-14T21:25:11Z",
   "flights": [
     {
       "key": "2aede6ffb8d40a6c98be844b0330ccfc1b240c5f",
@@ -9,8 +9,8 @@
       "destination": "EGGP",
       "aircraft": "A20N/M-SDE2E3FGHIRWXY/LB1",
       "first_seen_utc": "2026-03-14T20:30:20Z",
-      "last_seen_utc": "2026-03-14T21:20:15Z",
-      "seen_count": 12
+      "last_seen_utc": "2026-03-14T21:25:11Z",
+      "seen_count": 13
     },
     {
       "key": "dd1ebc986fb1e1037326a3266df4d58eb4747e55",
