@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-03-17T08:00:28Z",
+  "updated_utc": "2026-03-17T08:02:59Z",
   "flights": [
+    {
+      "key": "315d393120fe3eebdef1ee6556510ab683f1e141",
+      "base": "BLY460A|-|-|-",
+      "callsign": "BLY460A",
+      "departure": "-",
+      "destination": "-",
+      "aircraft": "-",
+      "first_seen_utc": "2026-03-17T08:02:59Z",
+      "last_seen_utc": "2026-03-17T08:02:59Z",
+      "seen_count": 1
+    },
     {
       "key": "89aaef18fb306458dd5b436863f9d4349abdd4a8",
       "base": "BLY460A|EGCC|VRMM|B772/H-SDE2E3FGHIJ5LORVWXY/LB1D1",
