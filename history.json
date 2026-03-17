@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-03-17T08:02:59Z",
+  "updated_utc": "2026-03-17T08:05:11Z",
   "flights": [
     {
       "key": "315d393120fe3eebdef1ee6556510ab683f1e141",
@@ -9,8 +9,8 @@
       "destination": "-",
       "aircraft": "-",
       "first_seen_utc": "2026-03-17T08:02:59Z",
-      "last_seen_utc": "2026-03-17T08:02:59Z",
-      "seen_count": 1
+      "last_seen_utc": "2026-03-17T08:05:11Z",
+      "seen_count": 2
     },
     {
       "key": "89aaef18fb306458dd5b436863f9d4349abdd4a8",
