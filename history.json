@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-03-20T19:00:29Z",
+  "updated_utc": "2026-03-20T19:05:11Z",
   "flights": [
     {
       "key": "8ffbf899865b4feed73a58833526870becd0a6bf",
@@ -9,8 +9,8 @@
       "destination": "EGHH",
       "aircraft": "AT76/M-SDFGIRY/S",
       "first_seen_utc": "2026-03-20T18:45:14Z",
-      "last_seen_utc": "2026-03-20T19:00:29Z",
-      "seen_count": 4
+      "last_seen_utc": "2026-03-20T19:05:11Z",
+      "seen_count": 5
     },
     {
       "key": "555d220ddb84625ee2b5dcf2429f743f51031e19",
