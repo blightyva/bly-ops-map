@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-03-20T20:55:11Z",
+  "updated_utc": "2026-03-20T21:00:26Z",
   "flights": [
     {
       "key": "51fae7bc7722db4e7c5683f1af61111e5f435c71",
@@ -9,8 +9,8 @@
       "destination": "EGGP",
       "aircraft": "RJ1H/M-SDFGIRWY/LB1",
       "first_seen_utc": "2026-03-20T20:55:11Z",
-      "last_seen_utc": "2026-03-20T20:55:11Z",
-      "seen_count": 1
+      "last_seen_utc": "2026-03-20T21:00:26Z",
+      "seen_count": 2
     },
     {
       "key": "5996d8adcc27495d51a872f3a906ce9af6cbcd57",
