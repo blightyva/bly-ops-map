@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-03-22T20:25:11Z",
+  "updated_utc": "2026-03-22T20:30:23Z",
   "flights": [
     {
       "key": "95e5a52d0465618083432e6ff0ef8d4f8361e613",
@@ -9,8 +9,8 @@
       "destination": "LIRN",
       "aircraft": "B772/H-SDE2E3FGHIJ5LORVWXY/LB1D1",
       "first_seen_utc": "2026-03-22T19:10:13Z",
-      "last_seen_utc": "2026-03-22T20:25:11Z",
-      "seen_count": 18
+      "last_seen_utc": "2026-03-22T20:30:23Z",
+      "seen_count": 19
     },
     {
       "key": "9c6a63c3997e01264bf7f517ac8397ae11980d86",
