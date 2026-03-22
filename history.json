@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-03-22T18:35:11Z",
+  "updated_utc": "2026-03-22T18:40:13Z",
   "flights": [
+    {
+      "key": "9c6a63c3997e01264bf7f517ac8397ae11980d86",
+      "base": "BLY2321|-|-|-",
+      "callsign": "BLY2321",
+      "departure": "-",
+      "destination": "-",
+      "aircraft": "-",
+      "first_seen_utc": "2026-03-22T18:40:13Z",
+      "last_seen_utc": "2026-03-22T18:40:13Z",
+      "seen_count": 1
+    },
     {
       "key": "e597cadb87224ee5ab9a3b0f29e0a1bb65448860",
       "base": "BLY506|EGJJ|EGGP|A20N/M-SDE2E3FGHIRWXY/LB1",
