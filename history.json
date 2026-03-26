@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-03-26T17:15:17Z",
+  "updated_utc": "2026-03-26T17:20:18Z",
   "flights": [
     {
       "key": "2a0c1be93e31b49571d10c0506f70b32e97e7281",
@@ -9,8 +9,8 @@
       "destination": "LPPR",
       "aircraft": "A321/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-03-26T14:55:18Z",
-      "last_seen_utc": "2026-03-26T17:15:17Z",
-      "seen_count": 30
+      "last_seen_utc": "2026-03-26T17:20:18Z",
+      "seen_count": 31
     },
     {
       "key": "74ccae3f9a0a8eaedc44f9db6da89483004165b4",
