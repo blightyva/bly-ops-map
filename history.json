@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-03-27T03:25:13Z",
+  "updated_utc": "2026-03-27T03:30:21Z",
   "flights": [
     {
       "key": "dfdc2475865aa349b4f657c8055b2e30aa5a0d13",
@@ -9,8 +9,8 @@
       "destination": "EGCC",
       "aircraft": "B772/H-SDE2E3FGHIJ5LORVWXY/LB1D1",
       "first_seen_utc": "2026-03-26T23:45:16Z",
-      "last_seen_utc": "2026-03-27T03:25:13Z",
-      "seen_count": 46
+      "last_seen_utc": "2026-03-27T03:30:21Z",
+      "seen_count": 47
     },
     {
       "key": "529362bde542c581101f871b66f7870038cb55a9",
