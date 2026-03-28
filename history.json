@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-03-28T18:36:19Z",
+  "updated_utc": "2026-03-28T18:40:14Z",
   "flights": [
     {
       "key": "5b745ce71737b070c3290d308551c856b27b6a8c",
@@ -9,8 +9,8 @@
       "destination": "EGGP",
       "aircraft": "A20N/M-SDE2E3FGHIRWXY/LB1",
       "first_seen_utc": "2026-03-28T18:15:13Z",
-      "last_seen_utc": "2026-03-28T18:36:19Z",
-      "seen_count": 5
+      "last_seen_utc": "2026-03-28T18:40:14Z",
+      "seen_count": 6
     },
     {
       "key": "8ae90bc6528ef0b8ab5b9841a21c21da4d47d6fc",
@@ -20,8 +20,19 @@
       "destination": "LGRP",
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-03-28T18:32:15Z",
-      "last_seen_utc": "2026-03-28T18:36:19Z",
-      "seen_count": 2
+      "last_seen_utc": "2026-03-28T18:40:14Z",
+      "seen_count": 3
+    },
+    {
+      "key": "3c15715e49cedafe82dc5b3e29419f41a293a8e4",
+      "base": "BLY1300|LFBE|EGGP|B38M/M-SDE1FGHILORVWXY/HB1",
+      "callsign": "BLY1300",
+      "departure": "LFBE",
+      "destination": "EGGP",
+      "aircraft": "B38M/M-SDE1FGHILORVWXY/HB1",
+      "first_seen_utc": "2026-03-28T18:40:14Z",
+      "last_seen_utc": "2026-03-28T18:40:14Z",
+      "seen_count": 1
     },
     {
       "key": "e300ba10c8cdaa8d9c4ef17281d092b4bbc3d743",
