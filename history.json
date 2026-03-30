@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-03-30T14:05:13Z",
+  "updated_utc": "2026-03-30T14:10:17Z",
   "flights": [
     {
       "key": "bec3aabac3c077c2a663a4a181ebd26fdc728cb2",
@@ -9,8 +9,8 @@
       "destination": "LGIR",
       "aircraft": "B772/H-SDE2E3FGHIJ5LORVWXY/LB1D1",
       "first_seen_utc": "2026-03-30T11:50:16Z",
-      "last_seen_utc": "2026-03-30T14:05:13Z",
-      "seen_count": 28
+      "last_seen_utc": "2026-03-30T14:10:17Z",
+      "seen_count": 29
     },
     {
       "key": "743980fcd58ab3b284607bb4edb0bfcf90f7db43",
