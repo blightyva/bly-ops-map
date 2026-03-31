@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-03-31T19:05:13Z",
+  "updated_utc": "2026-03-31T19:10:16Z",
   "flights": [
     {
       "key": "d4769bac107ba3fb44367bcddcb1dbd00dea2e2d",
@@ -9,8 +9,8 @@
       "destination": "EKBI",
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-03-31T18:25:12Z",
-      "last_seen_utc": "2026-03-31T19:05:13Z",
-      "seen_count": 9
+      "last_seen_utc": "2026-03-31T19:10:16Z",
+      "seen_count": 10
     },
     {
       "key": "cfeab4d27e28ff1122603ed35df9cf683e5bb34b",
