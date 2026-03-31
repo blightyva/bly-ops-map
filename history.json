@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-03-31T17:25:14Z",
+  "updated_utc": "2026-03-31T17:30:25Z",
   "flights": [
     {
       "key": "ad52295d0a0cbd155b2e4f5de486903baf28742d",
@@ -9,8 +9,8 @@
       "destination": "EGPH",
       "aircraft": "A20N/M-SDE2E3FGHIRWXY/LB1",
       "first_seen_utc": "2026-03-31T16:40:16Z",
-      "last_seen_utc": "2026-03-31T17:25:14Z",
-      "seen_count": 10
+      "last_seen_utc": "2026-03-31T17:30:25Z",
+      "seen_count": 11
     },
     {
       "key": "8c5bb26437c69cb51a81db73afe1eadf88023539",
