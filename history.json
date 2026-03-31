@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-03-31T19:00:32Z",
+  "updated_utc": "2026-03-31T19:05:13Z",
   "flights": [
+    {
+      "key": "d4769bac107ba3fb44367bcddcb1dbd00dea2e2d",
+      "base": "BLY305Y|EGCC|EKBI|A320/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY305Y",
+      "departure": "EGCC",
+      "destination": "EKBI",
+      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-03-31T18:25:12Z",
+      "last_seen_utc": "2026-03-31T19:05:13Z",
+      "seen_count": 9
+    },
     {
       "key": "cfeab4d27e28ff1122603ed35df9cf683e5bb34b",
       "base": "BLY1121|EGPH|EGGP|A20N/M-SDE2E3FGHIRWXY/LB1",
@@ -11,17 +22,6 @@
       "first_seen_utc": "2026-03-31T17:50:16Z",
       "last_seen_utc": "2026-03-31T19:00:32Z",
       "seen_count": 15
-    },
-    {
-      "key": "d4769bac107ba3fb44367bcddcb1dbd00dea2e2d",
-      "base": "BLY305Y|EGCC|EKBI|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY305Y",
-      "departure": "EGCC",
-      "destination": "EKBI",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-03-31T18:25:12Z",
-      "last_seen_utc": "2026-03-31T19:00:32Z",
-      "seen_count": 8
     },
     {
       "key": "ad52295d0a0cbd155b2e4f5de486903baf28742d",
