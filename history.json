@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-01T10:45:14Z",
+  "updated_utc": "2026-04-01T10:50:15Z",
   "flights": [
     {
       "key": "d2ecf98f2c801bbbe215b238e58b8280aa703f0f",
@@ -9,8 +9,8 @@
       "destination": "LXGB",
       "aircraft": "A320/M-SDE2E3FGHIJ1RWXYZ/LB1",
       "first_seen_utc": "2026-04-01T07:40:16Z",
-      "last_seen_utc": "2026-04-01T10:45:14Z",
-      "seen_count": 38
+      "last_seen_utc": "2026-04-01T10:50:15Z",
+      "seen_count": 39
     },
     {
       "key": "629b59c7e56388b82795f315e1c8d20e165a6ed3",
