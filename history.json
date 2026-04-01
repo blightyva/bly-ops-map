@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-01T13:50:18Z",
+  "updated_utc": "2026-04-01T13:55:13Z",
   "flights": [
     {
       "key": "5e079bcf9abe6426d63e8f166c11da0dec154642",
@@ -9,8 +9,8 @@
       "destination": "EGCC",
       "aircraft": "A320/M-SDE2E3FGHIJ1RWXYZ/LB1",
       "first_seen_utc": "2026-04-01T11:05:12Z",
-      "last_seen_utc": "2026-04-01T13:50:18Z",
-      "seen_count": 34
+      "last_seen_utc": "2026-04-01T13:55:13Z",
+      "seen_count": 35
     },
     {
       "key": "d2ecf98f2c801bbbe215b238e58b8280aa703f0f",
