@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-01T22:15:15Z",
+  "updated_utc": "2026-04-01T22:20:18Z",
   "flights": [
     {
       "key": "f2375295de9a821e75ae36754e867339c7369546",
@@ -9,8 +9,8 @@
       "destination": "KMIA",
       "aircraft": "A333/H-SDE3GHIJ2J3J5M1RVWXY/LB2D1",
       "first_seen_utc": "2026-04-01T22:15:15Z",
-      "last_seen_utc": "2026-04-01T22:15:15Z",
-      "seen_count": 1
+      "last_seen_utc": "2026-04-01T22:20:18Z",
+      "seen_count": 2
     },
     {
       "key": "8ec6dbad11de8c5a30a9ac476675b8603258b557",
