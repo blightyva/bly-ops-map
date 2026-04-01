@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-01T17:45:31Z",
+  "updated_utc": "2026-04-01T17:50:16Z",
   "flights": [
     {
       "key": "3bd089a12d6f910f859fae88383b10c32b407cfb",
@@ -9,8 +9,8 @@
       "destination": "EGPH",
       "aircraft": "L101/H-SDFHIRWXY/S",
       "first_seen_utc": "2026-04-01T17:10:20Z",
-      "last_seen_utc": "2026-04-01T17:45:31Z",
-      "seen_count": 8
+      "last_seen_utc": "2026-04-01T17:50:16Z",
+      "seen_count": 9
     },
     {
       "key": "f660f96838a7f340d9bcb13b6655ec8e432dcd23",
@@ -20,8 +20,8 @@
       "destination": "EGCC",
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-04-01T17:30:24Z",
-      "last_seen_utc": "2026-04-01T17:45:31Z",
-      "seen_count": 4
+      "last_seen_utc": "2026-04-01T17:50:16Z",
+      "seen_count": 5
     },
     {
       "key": "8398c9e677391a2d24cad2d76c17bf96145a5df3",
