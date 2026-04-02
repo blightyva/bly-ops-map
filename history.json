@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-04-02T19:10:17Z",
+  "updated_utc": "2026-04-02T19:15:15Z",
   "flights": [
+    {
+      "key": "bfb2fe00ecaa1f8fd6e580fb8a05633c3ca10246",
+      "base": "BLY87M|EGJJ|EGGP|A320/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY87M",
+      "departure": "EGJJ",
+      "destination": "EGGP",
+      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-04-02T19:15:15Z",
+      "last_seen_utc": "2026-04-02T19:15:15Z",
+      "seen_count": 1
+    },
     {
       "key": "ad9cf9dd6a7eb32cb661b1c2be412c145d8620f4",
       "base": "BLY86M|EGGP|EGJJ|A320/M-SDE3FGHIRWY/LB1",
