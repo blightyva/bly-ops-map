@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-03T01:40:14Z",
+  "updated_utc": "2026-04-03T01:45:13Z",
   "flights": [
     {
       "key": "4cd9004acd5304cf309c11953a9e919e3d79dfbb",
@@ -9,8 +9,8 @@
       "destination": "GCLP",
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-04-03T00:05:11Z",
-      "last_seen_utc": "2026-04-03T01:40:14Z",
-      "seen_count": 19
+      "last_seen_utc": "2026-04-03T01:45:13Z",
+      "seen_count": 20
     },
     {
       "key": "6cff9c9484818cd694b24089e4d47203868dd02f",
@@ -1023,17 +1023,6 @@
       "first_seen_utc": "2026-03-06T11:40:15Z",
       "last_seen_utc": "2026-03-06T14:15:16Z",
       "seen_count": 34
-    },
-    {
-      "key": "2855565891c8cd52d2d3376827d268c0915f0496",
-      "base": "BLY1107|EGAA|EGGP|RJ1H/M-SDFGIRWY/LB1",
-      "callsign": "BLY1107",
-      "departure": "EGAA",
-      "destination": "EGGP",
-      "aircraft": "RJ1H/M-SDFGIRWY/LB1",
-      "first_seen_utc": "2026-03-06T01:38:15Z",
-      "last_seen_utc": "2026-03-06T01:40:15Z",
-      "seen_count": 2
     }
   ]
 }
