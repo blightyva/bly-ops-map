@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-03T01:35:13Z",
+  "updated_utc": "2026-04-03T01:40:14Z",
   "flights": [
     {
       "key": "4cd9004acd5304cf309c11953a9e919e3d79dfbb",
@@ -9,8 +9,8 @@
       "destination": "GCLP",
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-04-03T00:05:11Z",
-      "last_seen_utc": "2026-04-03T01:35:13Z",
-      "seen_count": 18
+      "last_seen_utc": "2026-04-03T01:40:14Z",
+      "seen_count": 19
     },
     {
       "key": "6cff9c9484818cd694b24089e4d47203868dd02f",
