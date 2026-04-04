@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-04T11:05:10Z",
+  "updated_utc": "2026-04-04T11:10:15Z",
   "flights": [
     {
       "key": "17b625f842e828fc87974dba66e81a721e2f987c",
@@ -9,8 +9,8 @@
       "destination": "GCRR",
       "aircraft": "A320/M-SDE2E3FGHIJ1RWXYZ/LB1",
       "first_seen_utc": "2026-04-04T09:10:14Z",
-      "last_seen_utc": "2026-04-04T11:05:10Z",
-      "seen_count": 26
+      "last_seen_utc": "2026-04-04T11:10:15Z",
+      "seen_count": 27
     },
     {
       "key": "c2348599c9f249b957074b503eac93f14e4141bb",
@@ -20,8 +20,8 @@
       "destination": "EDDF",
       "aircraft": "B772/H-SDE2E3FGHIJ5LORVWXY/LB1D1",
       "first_seen_utc": "2026-04-04T10:05:13Z",
-      "last_seen_utc": "2026-04-04T11:05:10Z",
-      "seen_count": 15
+      "last_seen_utc": "2026-04-04T11:10:15Z",
+      "seen_count": 16
     },
     {
       "key": "b4ba0b8f03c3034b718185a3f7195928aae1ffee",
