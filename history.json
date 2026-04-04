@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-04T14:55:10Z",
+  "updated_utc": "2026-04-04T14:55:32Z",
   "flights": [
     {
       "key": "aebcb8c16e291817321a5118a26ce1f0674ba453",
@@ -9,8 +9,8 @@
       "destination": "EGSU",
       "aircraft": "AT76/M-SDFGIRY/S",
       "first_seen_utc": "2026-04-04T14:18:20Z",
-      "last_seen_utc": "2026-04-04T14:55:10Z",
-      "seen_count": 9
+      "last_seen_utc": "2026-04-04T14:55:32Z",
+      "seen_count": 10
     },
     {
       "key": "17b625f842e828fc87974dba66e81a721e2f987c",
