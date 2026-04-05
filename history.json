@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-05T11:00:27Z",
+  "updated_utc": "2026-04-05T11:05:11Z",
   "flights": [
     {
       "key": "4a63a59061760eaaed60d1694115815939b1835d",
@@ -9,8 +9,8 @@
       "destination": "EGCC",
       "aircraft": "A320/M-SDE2E3FGHIJ1RWXYZ/LB1",
       "first_seen_utc": "2026-04-05T09:56:30Z",
-      "last_seen_utc": "2026-04-05T11:00:27Z",
-      "seen_count": 15
+      "last_seen_utc": "2026-04-05T11:05:11Z",
+      "seen_count": 16
     },
     {
       "key": "b8341838a5fde537e62a7ebf725f4ee8abc89654",
@@ -20,8 +20,19 @@
       "destination": "LMML",
       "aircraft": "A321/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-04-05T10:50:13Z",
-      "last_seen_utc": "2026-04-05T11:00:27Z",
-      "seen_count": 3
+      "last_seen_utc": "2026-04-05T11:05:11Z",
+      "seen_count": 4
+    },
+    {
+      "key": "7df8719779b22c9bb6fa6cecf79073b46765d6b3",
+      "base": "BLY1245|EGGP|LMML|A320/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY1245",
+      "departure": "EGGP",
+      "destination": "LMML",
+      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-04-05T11:05:11Z",
+      "last_seen_utc": "2026-04-05T11:05:11Z",
+      "seen_count": 1
     },
     {
       "key": "63d1adcb0d82c6db3302ff1905487a70c87189ec",
