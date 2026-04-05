@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-05T14:45:15Z",
+  "updated_utc": "2026-04-05T14:50:14Z",
   "flights": [
     {
       "key": "b8341838a5fde537e62a7ebf725f4ee8abc89654",
@@ -9,8 +9,8 @@
       "destination": "LMML",
       "aircraft": "A321/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-04-05T10:50:13Z",
-      "last_seen_utc": "2026-04-05T14:45:15Z",
-      "seen_count": 53
+      "last_seen_utc": "2026-04-05T14:50:14Z",
+      "seen_count": 54
     },
     {
       "key": "7df8719779b22c9bb6fa6cecf79073b46765d6b3",
@@ -20,8 +20,8 @@
       "destination": "LMML",
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-04-05T11:05:11Z",
-      "last_seen_utc": "2026-04-05T14:45:15Z",
-      "seen_count": 50
+      "last_seen_utc": "2026-04-05T14:50:14Z",
+      "seen_count": 51
     },
     {
       "key": "4a63a59061760eaaed60d1694115815939b1835d",
