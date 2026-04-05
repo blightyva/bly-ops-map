@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-05T19:15:14Z",
+  "updated_utc": "2026-04-05T19:20:17Z",
   "flights": [
     {
       "key": "b8341838a5fde537e62a7ebf725f4ee8abc89654",
@@ -1122,17 +1122,6 @@
       "first_seen_utc": "2026-03-08T18:00:28Z",
       "last_seen_utc": "2026-03-08T20:05:11Z",
       "seen_count": 29
-    },
-    {
-      "key": "ef4f453af1e2b023f2dbd6a76cc29b3721ca9b15",
-      "base": "BLY386|EGCC|EHAM|A20N/M-SDE2E3FGHIRWXY/LB1",
-      "callsign": "BLY386",
-      "departure": "EGCC",
-      "destination": "EHAM",
-      "aircraft": "A20N/M-SDE2E3FGHIRWXY/LB1",
-      "first_seen_utc": "2026-03-08T18:00:28Z",
-      "last_seen_utc": "2026-03-08T19:15:14Z",
-      "seen_count": 17
     }
   ]
 }
