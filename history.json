@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-04-08T14:45:21Z",
+  "updated_utc": "2026-04-08T14:50:22Z",
   "flights": [
+    {
+      "key": "246c5be8189d014666d4498d933dfbe9e3f97d4e",
+      "base": "BLY1157|EGPB|EGGP|E75L/M-SDE3GILORVW/S",
+      "callsign": "BLY1157",
+      "departure": "EGPB",
+      "destination": "EGGP",
+      "aircraft": "E75L/M-SDE3GILORVW/S",
+      "first_seen_utc": "2026-04-08T14:50:22Z",
+      "last_seen_utc": "2026-04-08T14:50:22Z",
+      "seen_count": 1
+    },
     {
       "key": "ee9ec0ceccc521c9e0289177b2e0d1d47a46f4a6",
       "base": "BLYMX|-|-|-",
