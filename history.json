@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-09T21:25:13Z",
+  "updated_utc": "2026-04-09T21:28:57Z",
   "flights": [
     {
       "key": "02eddf2b105e6ce8059c64ddedf006303546ddee",
@@ -9,8 +9,30 @@
       "destination": "LFMN",
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-04-09T20:35:15Z",
-      "last_seen_utc": "2026-04-09T21:25:13Z",
-      "seen_count": 11
+      "last_seen_utc": "2026-04-09T21:28:57Z",
+      "seen_count": 12
+    },
+    {
+      "key": "599a35981d3a542e0a1e109adc0153194ecb7f87",
+      "base": "BLY287M|LSGG|EGCC|A321/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY287M",
+      "departure": "LSGG",
+      "destination": "EGCC",
+      "aircraft": "A321/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-04-09T21:28:57Z",
+      "last_seen_utc": "2026-04-09T21:28:57Z",
+      "seen_count": 1
+    },
+    {
+      "key": "1bbe8b9f72a696a73e0f1674d74e0bd4d999ba56",
+      "base": "BLY2222|LSGG|EGCC|A320/M-SDE2E3FGHIJ1RWXYZ/LB1",
+      "callsign": "BLY2222",
+      "departure": "LSGG",
+      "destination": "EGCC",
+      "aircraft": "A320/M-SDE2E3FGHIJ1RWXYZ/LB1",
+      "first_seen_utc": "2026-04-09T21:28:57Z",
+      "last_seen_utc": "2026-04-09T21:28:57Z",
+      "seen_count": 1
     },
     {
       "key": "3a0ed89fd4d3683252ec40a643fb41baa8982ab5",
