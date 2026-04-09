@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-09T20:40:16Z",
+  "updated_utc": "2026-04-09T20:45:20Z",
   "flights": [
     {
       "key": "02eddf2b105e6ce8059c64ddedf006303546ddee",
@@ -9,8 +9,8 @@
       "destination": "LFMN",
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-04-09T20:35:15Z",
-      "last_seen_utc": "2026-04-09T20:40:16Z",
-      "seen_count": 2
+      "last_seen_utc": "2026-04-09T20:45:20Z",
+      "seen_count": 3
     },
     {
       "key": "d0e5283985978075975fff7ec4129dffdc5794f0",
