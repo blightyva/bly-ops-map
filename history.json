@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-10T11:55:58Z",
+  "updated_utc": "2026-04-10T12:00:38Z",
   "flights": [
     {
       "key": "aa5f6968d0080b2cb59e10371a96041cc9e28bd4",
@@ -9,8 +9,8 @@
       "destination": "LIEA",
       "aircraft": "A319/M-SDE2E3FGHIJ1RWXYZ/LB1",
       "first_seen_utc": "2026-04-10T11:55:15Z",
-      "last_seen_utc": "2026-04-10T11:55:58Z",
-      "seen_count": 2
+      "last_seen_utc": "2026-04-10T12:00:38Z",
+      "seen_count": 3
     },
     {
       "key": "1bbe8b9f72a696a73e0f1674d74e0bd4d999ba56",
