@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-10T23:00:32Z",
+  "updated_utc": "2026-04-10T23:03:57Z",
   "flights": [
     {
       "key": "69048e10b74d8160cfb8305c0fad73ee68eac086",
@@ -9,8 +9,8 @@
       "destination": "LEBL",
       "aircraft": "B772/H-SDE2E3FGHIJ5LORVWXY/LB1D1",
       "first_seen_utc": "2026-04-10T20:20:18Z",
-      "last_seen_utc": "2026-04-10T23:00:32Z",
-      "seen_count": 36
+      "last_seen_utc": "2026-04-10T23:03:57Z",
+      "seen_count": 37
     },
     {
       "key": "aa997c3cc84c2ffa7f61d4425ec8d77f2f05f27b",
