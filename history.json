@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-04-10T11:50:16Z",
+  "updated_utc": "2026-04-10T11:55:15Z",
   "flights": [
+    {
+      "key": "aa5f6968d0080b2cb59e10371a96041cc9e28bd4",
+      "base": "BLY73TE|EGCC|LIEA|A319/M-SDE2E3FGHIJ1RWXYZ/LB1",
+      "callsign": "BLY73TE",
+      "departure": "EGCC",
+      "destination": "LIEA",
+      "aircraft": "A319/M-SDE2E3FGHIJ1RWXYZ/LB1",
+      "first_seen_utc": "2026-04-10T11:55:15Z",
+      "last_seen_utc": "2026-04-10T11:55:15Z",
+      "seen_count": 1
+    },
     {
       "key": "1bbe8b9f72a696a73e0f1674d74e0bd4d999ba56",
       "base": "BLY2222|LSGG|EGCC|A320/M-SDE2E3FGHIJ1RWXYZ/LB1",
