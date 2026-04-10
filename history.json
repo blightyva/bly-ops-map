@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-04-10T18:05:14Z",
+  "updated_utc": "2026-04-10T18:10:17Z",
   "flights": [
+    {
+      "key": "aa997c3cc84c2ffa7f61d4425ec8d77f2f05f27b",
+      "base": "BLY3887|EGGP|EDDF|A320/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY3887",
+      "departure": "EGGP",
+      "destination": "EDDF",
+      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-04-10T18:10:17Z",
+      "last_seen_utc": "2026-04-10T18:10:17Z",
+      "seen_count": 1
+    },
     {
       "key": "5f257a9be802f1cf4ea535761e3c42ed119fd0b6",
       "base": "BLY7464|LFMN|EGCC|A320/M-SDE3FGHIRWY/LB1",
