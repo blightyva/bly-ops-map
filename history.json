@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-10T21:20:17Z",
+  "updated_utc": "2026-04-10T21:25:13Z",
   "flights": [
     {
       "key": "69048e10b74d8160cfb8305c0fad73ee68eac086",
@@ -9,8 +9,8 @@
       "destination": "LEBL",
       "aircraft": "B772/H-SDE2E3FGHIJ5LORVWXY/LB1D1",
       "first_seen_utc": "2026-04-10T20:20:18Z",
-      "last_seen_utc": "2026-04-10T21:20:17Z",
-      "seen_count": 14
+      "last_seen_utc": "2026-04-10T21:25:13Z",
+      "seen_count": 15
     },
     {
       "key": "aa997c3cc84c2ffa7f61d4425ec8d77f2f05f27b",
@@ -1254,17 +1254,6 @@
       "first_seen_utc": "2026-03-14T19:15:15Z",
       "last_seen_utc": "2026-03-14T20:10:14Z",
       "seen_count": 14
-    },
-    {
-      "key": "4fba9e57701c34947c646791520fd0118988f34c",
-      "base": "BLY1323|EGGP|LIRP|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY1323",
-      "departure": "EGGP",
-      "destination": "LIRP",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-03-13T18:40:14Z",
-      "last_seen_utc": "2026-03-13T21:25:12Z",
-      "seen_count": 34
     }
   ]
 }
