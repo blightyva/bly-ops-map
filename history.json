@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-11T18:05:14Z",
+  "updated_utc": "2026-04-11T18:10:17Z",
   "flights": [
     {
       "key": "306b3f484a9cebbaf636f1fcb20c9b530defd9ab",
@@ -9,8 +9,8 @@
       "destination": "EGCC",
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-04-11T17:43:30Z",
-      "last_seen_utc": "2026-04-11T18:05:14Z",
-      "seen_count": 6
+      "last_seen_utc": "2026-04-11T18:10:17Z",
+      "seen_count": 7
     },
     {
       "key": "bc985195f523f6c14d19b71a33a5265a28f57b0e",
@@ -20,8 +20,19 @@
       "destination": "EGCC",
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-04-11T17:50:17Z",
-      "last_seen_utc": "2026-04-11T18:05:14Z",
-      "seen_count": 4
+      "last_seen_utc": "2026-04-11T18:10:17Z",
+      "seen_count": 5
+    },
+    {
+      "key": "0f240e10d19b56f6c50922f4a7bb149b5c03fcc4",
+      "base": "BLY7160|EGHI|EGCC|B738/M-SDE2E3FGHIRWXY/LB1",
+      "callsign": "BLY7160",
+      "departure": "EGHI",
+      "destination": "EGCC",
+      "aircraft": "B738/M-SDE2E3FGHIRWXY/LB1",
+      "first_seen_utc": "2026-04-11T18:10:17Z",
+      "last_seen_utc": "2026-04-11T18:10:17Z",
+      "seen_count": 1
     },
     {
       "key": "79505372cd05b7d9b98d91de09c1965e6d342ed0",
