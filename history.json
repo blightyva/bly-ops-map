@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-11T21:40:16Z",
+  "updated_utc": "2026-04-11T21:45:17Z",
   "flights": [
     {
       "key": "306b3f484a9cebbaf636f1fcb20c9b530defd9ab",
@@ -1298,17 +1298,6 @@
       "first_seen_utc": "2026-03-15T16:50:14Z",
       "last_seen_utc": "2026-03-15T18:25:12Z",
       "seen_count": 22
-    },
-    {
-      "key": "2aede6ffb8d40a6c98be844b0330ccfc1b240c5f",
-      "base": "BLY1165|EGJJ|EGGP|A20N/M-SDE2E3FGHIRWXY/LB1",
-      "callsign": "BLY1165",
-      "departure": "EGJJ",
-      "destination": "EGGP",
-      "aircraft": "A20N/M-SDE2E3FGHIRWXY/LB1",
-      "first_seen_utc": "2026-03-14T20:30:20Z",
-      "last_seen_utc": "2026-03-14T21:45:15Z",
-      "seen_count": 17
     }
   ]
 }
