@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-11T23:39:47Z",
+  "updated_utc": "2026-04-11T23:40:15Z",
   "flights": [
     {
       "key": "1751027b36dfa94affe4549771894004f830d559",
@@ -9,8 +9,8 @@
       "destination": "LGIR",
       "aircraft": "B738/M-SDE2E3FGHIRWXY/LB1",
       "first_seen_utc": "2026-04-11T23:15:19Z",
-      "last_seen_utc": "2026-04-11T23:39:47Z",
-      "seen_count": 6
+      "last_seen_utc": "2026-04-11T23:40:15Z",
+      "seen_count": 7
     },
     {
       "key": "90596a32b5c435b0e7aee0b7e0bc89766fa0295d",
