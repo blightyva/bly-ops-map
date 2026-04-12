@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-12T08:25:16Z",
+  "updated_utc": "2026-04-12T08:30:31Z",
   "flights": [
     {
       "key": "02f5df6a801b1ccb5e79d32cb55aaf422c59c37a",
@@ -9,8 +9,8 @@
       "destination": "CYVR",
       "aircraft": "A333/H-SDE3GHIJ2J3J5M1RVWXY/LB2D1",
       "first_seen_utc": "2026-04-12T08:06:54Z",
-      "last_seen_utc": "2026-04-12T08:25:16Z",
-      "seen_count": 5
+      "last_seen_utc": "2026-04-12T08:30:31Z",
+      "seen_count": 6
     },
     {
       "key": "39ec5fc8202821d37c2ecc137b0f3fc0c85f9839",
@@ -20,8 +20,8 @@
       "destination": "EGCC",
       "aircraft": "B772/H-SDE2E3FGHIJ5LORVWXY/LB1D1",
       "first_seen_utc": "2026-04-12T07:55:14Z",
-      "last_seen_utc": "2026-04-12T08:25:16Z",
-      "seen_count": 4
+      "last_seen_utc": "2026-04-12T08:30:31Z",
+      "seen_count": 5
     },
     {
       "key": "1751027b36dfa94affe4549771894004f830d559",
