@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-04-12T21:25:13Z",
+  "updated_utc": "2026-04-12T21:30:27Z",
   "flights": [
+    {
+      "key": "a642c75a799a82706daaa5385ce765c7237c0fe2",
+      "base": "BLY7464|-|-|-",
+      "callsign": "BLY7464",
+      "departure": "-",
+      "destination": "-",
+      "aircraft": "-",
+      "first_seen_utc": "2026-04-12T21:30:27Z",
+      "last_seen_utc": "2026-04-12T21:30:27Z",
+      "seen_count": 1
+    },
     {
       "key": "f6a987a0a05dbb058d5d180f224701c6f8b8ed81",
       "base": "BLY3125|EGPE|EGCC|A20N/M-SDE2E3FGHIRWXY/LB1",
