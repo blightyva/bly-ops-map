@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-04-12T20:40:16Z",
+  "updated_utc": "2026-04-12T20:45:19Z",
   "flights": [
+    {
+      "key": "f6a987a0a05dbb058d5d180f224701c6f8b8ed81",
+      "base": "BLY3125|EGPE|EGCC|A20N/M-SDE2E3FGHIRWXY/LB1",
+      "callsign": "BLY3125",
+      "departure": "EGPE",
+      "destination": "EGCC",
+      "aircraft": "A20N/M-SDE2E3FGHIRWXY/LB1",
+      "first_seen_utc": "2026-04-12T18:45:18Z",
+      "last_seen_utc": "2026-04-12T20:45:19Z",
+      "seen_count": 28
+    },
     {
       "key": "5679c8c95908cea348b44b2efcacb866fc3e80bb",
       "base": "BLY2131|EGPE|EGCC|A319/M-SDE3FGHIRWY/LB1",
@@ -11,17 +22,6 @@
       "first_seen_utc": "2026-04-12T18:30:26Z",
       "last_seen_utc": "2026-04-12T20:40:16Z",
       "seen_count": 30
-    },
-    {
-      "key": "f6a987a0a05dbb058d5d180f224701c6f8b8ed81",
-      "base": "BLY3125|EGPE|EGCC|A20N/M-SDE2E3FGHIRWXY/LB1",
-      "callsign": "BLY3125",
-      "departure": "EGPE",
-      "destination": "EGCC",
-      "aircraft": "A20N/M-SDE2E3FGHIRWXY/LB1",
-      "first_seen_utc": "2026-04-12T18:45:18Z",
-      "last_seen_utc": "2026-04-12T20:40:16Z",
-      "seen_count": 27
     },
     {
       "key": "6285116ee3d46755b4ad41956bc2e55d5675674a",
