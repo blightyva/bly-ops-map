@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-12T19:40:16Z",
+  "updated_utc": "2026-04-12T19:45:17Z",
   "flights": [
     {
       "key": "5679c8c95908cea348b44b2efcacb866fc3e80bb",
@@ -9,8 +9,8 @@
       "destination": "EGCC",
       "aircraft": "A319/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-04-12T18:30:26Z",
-      "last_seen_utc": "2026-04-12T19:40:16Z",
-      "seen_count": 16
+      "last_seen_utc": "2026-04-12T19:45:17Z",
+      "seen_count": 17
     },
     {
       "key": "f6a987a0a05dbb058d5d180f224701c6f8b8ed81",
@@ -20,8 +20,8 @@
       "destination": "EGCC",
       "aircraft": "A20N/M-SDE2E3FGHIRWXY/LB1",
       "first_seen_utc": "2026-04-12T18:45:18Z",
-      "last_seen_utc": "2026-04-12T19:40:16Z",
-      "seen_count": 13
+      "last_seen_utc": "2026-04-12T19:45:17Z",
+      "seen_count": 14
     },
     {
       "key": "6285116ee3d46755b4ad41956bc2e55d5675674a",
@@ -31,8 +31,19 @@
       "destination": "EGCC",
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-04-12T18:55:13Z",
-      "last_seen_utc": "2026-04-12T19:40:16Z",
-      "seen_count": 11
+      "last_seen_utc": "2026-04-12T19:45:17Z",
+      "seen_count": 12
+    },
+    {
+      "key": "a714bb0a5759d3bd096ec86151d0452d52766b46",
+      "base": "BLY1250|LGIR|EGGP|B738/M-V/N",
+      "callsign": "BLY1250",
+      "departure": "LGIR",
+      "destination": "EGGP",
+      "aircraft": "B738/M-V/N",
+      "first_seen_utc": "2026-04-12T19:45:17Z",
+      "last_seen_utc": "2026-04-12T19:45:17Z",
+      "seen_count": 1
     },
     {
       "key": "4a1a74ba35f72a9fa37dda03e4d9528077a9ceed",
@@ -1397,17 +1408,6 @@
       "first_seen_utc": "2026-03-15T19:50:14Z",
       "last_seen_utc": "2026-03-15T21:00:26Z",
       "seen_count": 16
-    },
-    {
-      "key": "463ed6e554b2feed170eee55ca1be6345b71c991",
-      "base": "BLY84|EGBB|EGJJ|A20N/M-SDE2E3FGHIRWXY/LB1",
-      "callsign": "BLY84",
-      "departure": "EGBB",
-      "destination": "EGJJ",
-      "aircraft": "A20N/M-SDE2E3FGHIRWXY/LB1",
-      "first_seen_utc": "2026-03-15T18:55:12Z",
-      "last_seen_utc": "2026-03-15T19:45:14Z",
-      "seen_count": 12
     }
   ]
 }
