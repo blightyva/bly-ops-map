@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-04-13T18:10:26Z",
+  "updated_utc": "2026-04-13T18:15:20Z",
   "flights": [
+    {
+      "key": "17f556eb0d99eb219953158fe58df95689d4a0ec",
+      "base": "BLY2217|EGCC|LEMG|A321/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY2217",
+      "departure": "EGCC",
+      "destination": "LEMG",
+      "aircraft": "A321/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-04-13T18:15:20Z",
+      "last_seen_utc": "2026-04-13T18:15:20Z",
+      "seen_count": 1
+    },
     {
       "key": "a642c75a799a82706daaa5385ce765c7237c0fe2",
       "base": "BLY7464|-|-|-",
