@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-13T22:56:58Z",
+  "updated_utc": "2026-04-13T23:00:37Z",
   "flights": [
     {
       "key": "f10b4486717b107d4faba31de0c3c350181e269d",
@@ -9,8 +9,8 @@
       "destination": "LGKR",
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-04-13T20:05:14Z",
-      "last_seen_utc": "2026-04-13T22:56:58Z",
-      "seen_count": 37
+      "last_seen_utc": "2026-04-13T23:00:37Z",
+      "seen_count": 38
     },
     {
       "key": "db8d23602f5dcfe70b4645470b897d73627d6e85",
@@ -20,8 +20,8 @@
       "destination": "EGKK",
       "aircraft": "A359/H-SDE2E3GHIJ3J4J5LM1ORWXY/LB1D1",
       "first_seen_utc": "2026-04-13T20:35:28Z",
-      "last_seen_utc": "2026-04-13T22:56:58Z",
-      "seen_count": 26
+      "last_seen_utc": "2026-04-13T23:00:37Z",
+      "seen_count": 27
     },
     {
       "key": "a777bd1d9fa7942ef914b4c019e2874e50444d3a",
