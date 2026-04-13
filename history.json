@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-13T19:40:45Z",
+  "updated_utc": "2026-04-13T19:45:18Z",
   "flights": [
     {
       "key": "17f556eb0d99eb219953158fe58df95689d4a0ec",
@@ -9,8 +9,8 @@
       "destination": "LEMG",
       "aircraft": "A321/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-04-13T18:15:20Z",
-      "last_seen_utc": "2026-04-13T19:40:45Z",
-      "seen_count": 19
+      "last_seen_utc": "2026-04-13T19:45:18Z",
+      "seen_count": 20
     },
     {
       "key": "a642c75a799a82706daaa5385ce765c7237c0fe2",
