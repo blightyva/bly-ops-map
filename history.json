@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-14T12:00:40Z",
+  "updated_utc": "2026-04-14T12:05:17Z",
   "flights": [
     {
       "key": "f10b4486717b107d4faba31de0c3c350181e269d",
@@ -1419,17 +1419,6 @@
       "first_seen_utc": "2026-03-17T12:15:16Z",
       "last_seen_utc": "2026-03-17T13:15:17Z",
       "seen_count": 13
-    },
-    {
-      "key": "b62a4c97183b6bb8121a6de7d8d1a40d0ae84c39",
-      "base": "BLY2116|EGCC|EGAE|E75L/M-SDE3GILORVW/S",
-      "callsign": "BLY2116",
-      "departure": "EGCC",
-      "destination": "EGAE",
-      "aircraft": "E75L/M-SDE3GILORVW/S",
-      "first_seen_utc": "2026-03-17T10:50:16Z",
-      "last_seen_utc": "2026-03-17T12:05:13Z",
-      "seen_count": 15
     }
   ]
 }
