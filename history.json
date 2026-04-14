@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-14T16:40:18Z",
+  "updated_utc": "2026-04-14T16:45:21Z",
   "flights": [
     {
       "key": "f10b4486717b107d4faba31de0c3c350181e269d",
@@ -1386,17 +1386,6 @@
       "first_seen_utc": "2026-03-17T16:55:12Z",
       "last_seen_utc": "2026-03-17T17:25:13Z",
       "seen_count": 7
-    },
-    {
-      "key": "526c8d615c2d8957a9af641e133342668a691305",
-      "base": "BLY2104|EGCC|EGPL|E75L/M-SDE3GILORVW/S",
-      "callsign": "BLY2104",
-      "departure": "EGCC",
-      "destination": "EGPL",
-      "aircraft": "E75L/M-SDE3GILORVW/S",
-      "first_seen_utc": "2026-03-17T15:20:16Z",
-      "last_seen_utc": "2026-03-17T16:40:19Z",
-      "seen_count": 16
     }
   ]
 }
