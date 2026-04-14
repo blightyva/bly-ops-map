@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-14T19:20:20Z",
+  "updated_utc": "2026-04-14T19:25:15Z",
   "flights": [
     {
       "key": "b62cc2cdf5ab91585e99f9851ea698e86b77d646",
@@ -9,8 +9,8 @@
       "destination": "EDDF",
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-04-14T17:00:40Z",
-      "last_seen_utc": "2026-04-14T19:20:20Z",
-      "seen_count": 31
+      "last_seen_utc": "2026-04-14T19:25:15Z",
+      "seen_count": 32
     },
     {
       "key": "8612de431457bf5624b8072e520142407b278e3d",
@@ -20,8 +20,8 @@
       "destination": "EDDF",
       "aircraft": "A321/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-04-14T17:20:20Z",
-      "last_seen_utc": "2026-04-14T19:20:20Z",
-      "seen_count": 26
+      "last_seen_utc": "2026-04-14T19:25:15Z",
+      "seen_count": 27
     },
     {
       "key": "f10b4486717b107d4faba31de0c3c350181e269d",
