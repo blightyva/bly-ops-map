@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-14T17:20:20Z",
+  "updated_utc": "2026-04-14T17:25:15Z",
   "flights": [
     {
       "key": "b62cc2cdf5ab91585e99f9851ea698e86b77d646",
@@ -9,8 +9,8 @@
       "destination": "EDDF",
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-04-14T17:00:40Z",
-      "last_seen_utc": "2026-04-14T17:20:20Z",
-      "seen_count": 6
+      "last_seen_utc": "2026-04-14T17:25:15Z",
+      "seen_count": 7
     },
     {
       "key": "8612de431457bf5624b8072e520142407b278e3d",
@@ -20,8 +20,8 @@
       "destination": "EDDF",
       "aircraft": "A321/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-04-14T17:20:20Z",
-      "last_seen_utc": "2026-04-14T17:20:20Z",
-      "seen_count": 1
+      "last_seen_utc": "2026-04-14T17:25:15Z",
+      "seen_count": 2
     },
     {
       "key": "f10b4486717b107d4faba31de0c3c350181e269d",
@@ -1397,17 +1397,6 @@
       "first_seen_utc": "2026-03-17T18:40:17Z",
       "last_seen_utc": "2026-03-17T21:50:14Z",
       "seen_count": 40
-    },
-    {
-      "key": "f25253c17764afdb33f065964e1bfba91588fbe9",
-      "base": "BLY160A|EGPL|EGPU|E75L/M-SDE3GILORVW/S",
-      "callsign": "BLY160A",
-      "departure": "EGPL",
-      "destination": "EGPU",
-      "aircraft": "E75L/M-SDE3GILORVW/S",
-      "first_seen_utc": "2026-03-17T16:55:12Z",
-      "last_seen_utc": "2026-03-17T17:25:13Z",
-      "seen_count": 7
     }
   ]
 }
