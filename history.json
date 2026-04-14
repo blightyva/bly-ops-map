@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-14T08:00:34Z",
+  "updated_utc": "2026-04-14T08:05:16Z",
   "flights": [
     {
       "key": "f10b4486717b107d4faba31de0c3c350181e269d",
@@ -1441,17 +1441,6 @@
       "first_seen_utc": "2026-03-17T08:10:15Z",
       "last_seen_utc": "2026-03-17T08:45:17Z",
       "seen_count": 8
-    },
-    {
-      "key": "315d393120fe3eebdef1ee6556510ab683f1e141",
-      "base": "BLY460A|-|-|-",
-      "callsign": "BLY460A",
-      "departure": "-",
-      "destination": "-",
-      "aircraft": "-",
-      "first_seen_utc": "2026-03-17T08:02:59Z",
-      "last_seen_utc": "2026-03-17T08:05:11Z",
-      "seen_count": 2
     }
   ]
 }
