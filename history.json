@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-15T00:15:19Z",
+  "updated_utc": "2026-04-15T00:20:16Z",
   "flights": [
     {
       "key": "23b0984ae31bbb7a13b7003247146f41bac1c17e",
@@ -9,8 +9,8 @@
       "destination": "ZBAA",
       "aircraft": "B772/H-SDE2E3FGHIJ5LORVWXY/LB1D1",
       "first_seen_utc": "2026-04-14T23:45:17Z",
-      "last_seen_utc": "2026-04-15T00:15:19Z",
-      "seen_count": 8
+      "last_seen_utc": "2026-04-15T00:20:16Z",
+      "seen_count": 9
     },
     {
       "key": "268ec19000b856072f07e8b0b818ce6f209ff5a5",
