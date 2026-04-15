@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-15T17:35:14Z",
+  "updated_utc": "2026-04-15T17:40:18Z",
   "flights": [
     {
       "key": "06124741cb9f228daca184039828ebd8b6405fda",
@@ -1440,17 +1440,6 @@
       "aircraft": "E75L/M-SDE3GILORVW/S",
       "first_seen_utc": "2026-03-20T13:45:16Z",
       "last_seen_utc": "2026-03-20T14:55:15Z",
-      "seen_count": 16
-    },
-    {
-      "key": "f472d47fc103a377e10636407212c985002cc96b",
-      "base": "BLY2429|CYYZ|EGCC|A333/H-SDE3GHIJ2J3J5M1RVWXY/LB2D1",
-      "callsign": "BLY2429",
-      "departure": "CYYZ",
-      "destination": "EGCC",
-      "aircraft": "A333/H-SDE3GHIJ2J3J5M1RVWXY/LB2D1",
-      "first_seen_utc": "2026-03-18T16:20:19Z",
-      "last_seen_utc": "2026-03-18T17:35:14Z",
       "seen_count": 16
     }
   ]
