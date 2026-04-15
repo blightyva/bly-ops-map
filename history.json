@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-15T02:05:14Z",
+  "updated_utc": "2026-04-15T02:10:17Z",
   "flights": [
     {
       "key": "39d1c0f81333f6b8a0f9114cff60d923bff8d738",
@@ -9,8 +9,8 @@
       "destination": "KSFO",
       "aircraft": "A359/H-SDE2E3GHIJ3J4J5LM1ORWXY/LB1D1",
       "first_seen_utc": "2026-04-15T01:25:13Z",
-      "last_seen_utc": "2026-04-15T02:05:14Z",
-      "seen_count": 9
+      "last_seen_utc": "2026-04-15T02:10:17Z",
+      "seen_count": 10
     },
     {
       "key": "23b0984ae31bbb7a13b7003247146f41bac1c17e",
