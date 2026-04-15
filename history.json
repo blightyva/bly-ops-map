@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-15T23:30:22Z",
+  "updated_utc": "2026-04-15T23:35:13Z",
   "flights": [
     {
       "key": "a2997ac9bdfb164997f74ca3e10731fedc5a4e31",
@@ -9,8 +9,8 @@
       "destination": "ZBAA",
       "aircraft": "A359/H-SDE2E3GHIJ3J4J5LM1ORWXY/LB1D1",
       "first_seen_utc": "2026-04-15T23:20:16Z",
-      "last_seen_utc": "2026-04-15T23:30:22Z",
-      "seen_count": 3
+      "last_seen_utc": "2026-04-15T23:35:13Z",
+      "seen_count": 4
     },
     {
       "key": "b6b5bfc7e1e05a16c5b43e54d0d416a5d1f4426b",
