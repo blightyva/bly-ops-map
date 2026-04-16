@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-04-16T10:05:14Z",
+  "updated_utc": "2026-04-16T10:10:18Z",
   "flights": [
+    {
+      "key": "6d728c7fd2cf0e1c417dd3f86153678b7dd7c2e3",
+      "base": "BLY11|EGKK|RJAA|A388/J-SADE2E3FGHIJ3J4J5M1RWXY/LB1D1",
+      "callsign": "BLY11",
+      "departure": "EGKK",
+      "destination": "RJAA",
+      "aircraft": "A388/J-SADE2E3FGHIJ3J4J5M1RWXY/LB1D1",
+      "first_seen_utc": "2026-04-16T10:10:18Z",
+      "last_seen_utc": "2026-04-16T10:10:18Z",
+      "seen_count": 1
+    },
     {
       "key": "12421e91b19fb2630a10a047920af6e899c38d2c",
       "base": "BLY11|-|-|-",
