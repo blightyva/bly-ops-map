@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-16T21:45:19Z",
+  "updated_utc": "2026-04-16T21:50:17Z",
   "flights": [
     {
       "key": "26145e8cf24b91fe697ac666f19436627acf09f4",
@@ -9,8 +9,8 @@
       "destination": "EGLL",
       "aircraft": "A359/H-SDE2E3GHIJ3J4J5LM1ORWXY/LB1D1",
       "first_seen_utc": "2026-04-16T21:45:19Z",
-      "last_seen_utc": "2026-04-16T21:45:19Z",
-      "seen_count": 1
+      "last_seen_utc": "2026-04-16T21:50:17Z",
+      "seen_count": 2
     },
     {
       "key": "a273191ecad153e9ec41c63098a8e759d04d7d9c",
