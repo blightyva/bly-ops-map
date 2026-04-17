@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-17T14:40:18Z",
+  "updated_utc": "2026-04-17T14:45:22Z",
   "flights": [
     {
       "key": "f562a68d5dd0f04a2a6b3cc30c666349b255c76c",
@@ -9,8 +9,19 @@
       "destination": "EGKK",
       "aircraft": "A319/M-SDE2E3FGHIJ1RWXYZ/LB1",
       "first_seen_utc": "2026-04-17T14:35:15Z",
-      "last_seen_utc": "2026-04-17T14:40:18Z",
-      "seen_count": 2
+      "last_seen_utc": "2026-04-17T14:45:22Z",
+      "seen_count": 3
+    },
+    {
+      "key": "c93bc8d164e1e6bddbaf0dbf5f97c4f363cf4106",
+      "base": "BLY20T|-|-|-",
+      "callsign": "BLY20T",
+      "departure": "-",
+      "destination": "-",
+      "aircraft": "-",
+      "first_seen_utc": "2026-04-17T14:45:22Z",
+      "last_seen_utc": "2026-04-17T14:45:22Z",
+      "seen_count": 1
     },
     {
       "key": "63becf45ef74f7380b6738470f6a4d6ec90c044c",
