@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-17T20:10:18Z",
+  "updated_utc": "2026-04-17T20:15:19Z",
   "flights": [
     {
       "key": "45cd5787e2bd2503f4d5428a16b4e8d4e5c4d47e",
@@ -9,8 +9,8 @@
       "destination": "EGCC",
       "aircraft": "L101/H-SDFGHIRWXY/S",
       "first_seen_utc": "2026-04-17T18:05:15Z",
-      "last_seen_utc": "2026-04-17T20:10:18Z",
-      "seen_count": 28
+      "last_seen_utc": "2026-04-17T20:15:19Z",
+      "seen_count": 29
     },
     {
       "key": "04703dc642a9468f80cc95dc5c9a8f622a99ece6",
