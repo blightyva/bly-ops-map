@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-04-17T22:25:12Z",
+  "updated_utc": "2026-04-17T22:30:26Z",
   "flights": [
+    {
+      "key": "e7f6550ffb8a4cbdaf51550a0a57ec126ab1d9af",
+      "base": "BLY443X|-|-|-",
+      "callsign": "BLY443X",
+      "departure": "-",
+      "destination": "-",
+      "aircraft": "-",
+      "first_seen_utc": "2026-04-17T22:30:26Z",
+      "last_seen_utc": "2026-04-17T22:30:26Z",
+      "seen_count": 1
+    },
     {
       "key": "59289f98381095cf87d351302bfd02d76668ab54",
       "base": "BLY7464|EGCC|EGSS|A320/M-SDE3FGHIRWY/LB1",
