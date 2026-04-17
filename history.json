@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-17T21:40:17Z",
+  "updated_utc": "2026-04-17T21:45:18Z",
   "flights": [
     {
       "key": "59289f98381095cf87d351302bfd02d76668ab54",
@@ -9,8 +9,8 @@
       "destination": "EGSS",
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-04-17T21:20:17Z",
-      "last_seen_utc": "2026-04-17T21:40:17Z",
-      "seen_count": 6
+      "last_seen_utc": "2026-04-17T21:45:18Z",
+      "seen_count": 7
     },
     {
       "key": "45cd5787e2bd2503f4d5428a16b4e8d4e5c4d47e",
