@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-17T18:05:15Z",
+  "updated_utc": "2026-04-17T18:10:18Z",
   "flights": [
     {
       "key": "1b14959d94d4fee7a5b254bb57d3aa30a903255c",
@@ -9,8 +9,8 @@
       "destination": "LFMT",
       "aircraft": "A319/M-SDE2E3FGHIJ1RWXYZ/LB1",
       "first_seen_utc": "2026-04-17T16:25:13Z",
-      "last_seen_utc": "2026-04-17T18:05:15Z",
-      "seen_count": 23
+      "last_seen_utc": "2026-04-17T18:10:18Z",
+      "seen_count": 24
     },
     {
       "key": "45cd5787e2bd2503f4d5428a16b4e8d4e5c4d47e",
@@ -20,8 +20,8 @@
       "destination": "EGCC",
       "aircraft": "L101/H-SDFGHIRWXY/S",
       "first_seen_utc": "2026-04-17T18:05:15Z",
-      "last_seen_utc": "2026-04-17T18:05:15Z",
-      "seen_count": 1
+      "last_seen_utc": "2026-04-17T18:10:18Z",
+      "seen_count": 2
     },
     {
       "key": "a095c2156c2986eb265a791c740ae6bd5010114d",
