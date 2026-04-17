@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-17T19:05:14Z",
+  "updated_utc": "2026-04-17T19:10:19Z",
   "flights": [
     {
       "key": "45cd5787e2bd2503f4d5428a16b4e8d4e5c4d47e",
@@ -9,8 +9,8 @@
       "destination": "EGCC",
       "aircraft": "L101/H-SDFGHIRWXY/S",
       "first_seen_utc": "2026-04-17T18:05:15Z",
-      "last_seen_utc": "2026-04-17T19:05:14Z",
-      "seen_count": 14
+      "last_seen_utc": "2026-04-17T19:10:19Z",
+      "seen_count": 15
     },
     {
       "key": "04703dc642a9468f80cc95dc5c9a8f622a99ece6",
@@ -1606,17 +1606,6 @@
       "first_seen_utc": "2026-03-20T19:40:13Z",
       "last_seen_utc": "2026-03-20T20:45:15Z",
       "seen_count": 15
-    },
-    {
-      "key": "8ffbf899865b4feed73a58833526870becd0a6bf",
-      "base": "BLY1176|EGGP|EGHH|AT76/M-SDFGIRY/S",
-      "callsign": "BLY1176",
-      "departure": "EGGP",
-      "destination": "EGHH",
-      "aircraft": "AT76/M-SDFGIRY/S",
-      "first_seen_utc": "2026-03-20T18:45:14Z",
-      "last_seen_utc": "2026-03-20T19:10:15Z",
-      "seen_count": 6
     }
   ]
 }
