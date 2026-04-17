@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-17T15:25:13Z",
+  "updated_utc": "2026-04-17T15:30:30Z",
   "flights": [
     {
       "key": "f562a68d5dd0f04a2a6b3cc30c666349b255c76c",
@@ -9,8 +9,19 @@
       "destination": "EGKK",
       "aircraft": "A319/M-SDE2E3FGHIJ1RWXYZ/LB1",
       "first_seen_utc": "2026-04-17T14:35:15Z",
-      "last_seen_utc": "2026-04-17T15:25:13Z",
-      "seen_count": 11
+      "last_seen_utc": "2026-04-17T15:30:30Z",
+      "seen_count": 12
+    },
+    {
+      "key": "a095c2156c2986eb265a791c740ae6bd5010114d",
+      "base": "BLY443X|EGCC|RJOO|A359/H-SDE2E3GHIJ3J4J5LM1ORWXY/LB1D1",
+      "callsign": "BLY443X",
+      "departure": "EGCC",
+      "destination": "RJOO",
+      "aircraft": "A359/H-SDE2E3GHIJ3J4J5LM1ORWXY/LB1D1",
+      "first_seen_utc": "2026-04-17T15:30:30Z",
+      "last_seen_utc": "2026-04-17T15:30:30Z",
+      "seen_count": 1
     },
     {
       "key": "647ff2c216f9bfe85bda49f685867e4ff16020bc",
