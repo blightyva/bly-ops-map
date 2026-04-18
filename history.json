@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-18T22:55:13Z",
+  "updated_utc": "2026-04-18T23:00:35Z",
   "flights": [
     {
       "key": "f7c2da77756eb425bd7a4e26c225984427997248",
@@ -1551,39 +1551,6 @@
       "first_seen_utc": "2026-03-22T18:40:13Z",
       "last_seen_utc": "2026-03-22T19:05:12Z",
       "seen_count": 6
-    },
-    {
-      "key": "e597cadb87224ee5ab9a3b0f29e0a1bb65448860",
-      "base": "BLY506|EGJJ|EGGP|A20N/M-SDE2E3FGHIRWXY/LB1",
-      "callsign": "BLY506",
-      "departure": "EGJJ",
-      "destination": "EGGP",
-      "aircraft": "A20N/M-SDE2E3FGHIRWXY/LB1",
-      "first_seen_utc": "2026-03-21T21:05:11Z",
-      "last_seen_utc": "2026-03-21T23:00:27Z",
-      "seen_count": 26
-    },
-    {
-      "key": "efc34293b49f41a8b8020de7d5585a3cb008586d",
-      "base": "BLY1151|EGJJ|EGGP|A320/M-V/N",
-      "callsign": "BLY1151",
-      "departure": "EGJJ",
-      "destination": "EGGP",
-      "aircraft": "A320/M-V/N",
-      "first_seen_utc": "2026-03-21T21:05:11Z",
-      "last_seen_utc": "2026-03-21T23:00:27Z",
-      "seen_count": 26
-    },
-    {
-      "key": "acbbec55230940553ca7ee4e389b8ae414939ab4",
-      "base": "BLY1165|EGJJ|EGGP|A319/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY1165",
-      "departure": "EGJJ",
-      "destination": "EGGP",
-      "aircraft": "A319/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-03-21T21:15:14Z",
-      "last_seen_utc": "2026-03-21T23:00:27Z",
-      "seen_count": 24
     }
   ]
 }
