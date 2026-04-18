@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-18T09:20:17Z",
+  "updated_utc": "2026-04-18T09:25:02Z",
   "flights": [
     {
       "key": "f7c2da77756eb425bd7a4e26c225984427997248",
@@ -9,8 +9,8 @@
       "destination": "EGKK",
       "aircraft": "A319/M-SDE2E3FGHIJ1RWXYZ/LB1",
       "first_seen_utc": "2026-04-18T09:10:16Z",
-      "last_seen_utc": "2026-04-18T09:20:17Z",
-      "seen_count": 3
+      "last_seen_utc": "2026-04-18T09:25:02Z",
+      "seen_count": 4
     },
     {
       "key": "e7f6550ffb8a4cbdaf51550a0a57ec126ab1d9af",
