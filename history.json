@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-18T21:05:13Z",
+  "updated_utc": "2026-04-18T21:10:17Z",
   "flights": [
     {
       "key": "f7c2da77756eb425bd7a4e26c225984427997248",
@@ -1584,17 +1584,6 @@
       "first_seen_utc": "2026-03-21T21:15:14Z",
       "last_seen_utc": "2026-03-21T23:00:27Z",
       "seen_count": 24
-    },
-    {
-      "key": "651f503cf7324a07fbfd207db9757e2734f95e33",
-      "base": "BLY1165|-|-|-",
-      "callsign": "BLY1165",
-      "departure": "-",
-      "destination": "-",
-      "aircraft": "-",
-      "first_seen_utc": "2026-03-21T21:10:13Z",
-      "last_seen_utc": "2026-03-21T21:10:13Z",
-      "seen_count": 1
     }
   ]
 }
