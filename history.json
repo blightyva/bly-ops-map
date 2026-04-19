@@ -1,6 +1,28 @@
 {
-  "updated_utc": "2026-04-19T17:25:13Z",
+  "updated_utc": "2026-04-19T17:30:27Z",
   "flights": [
+    {
+      "key": "5bc1ec595aaa1298bb32e5eda8828b86d37eeb96",
+      "base": "BLY2039|EGCC|EGJJ|A320/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY2039",
+      "departure": "EGCC",
+      "destination": "EGJJ",
+      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-04-19T17:30:27Z",
+      "last_seen_utc": "2026-04-19T17:30:27Z",
+      "seen_count": 1
+    },
+    {
+      "key": "ce2702a1d88dcbdd87caed895cd1a6052e44f7ce",
+      "base": "BLY97P|-|-|-",
+      "callsign": "BLY97P",
+      "departure": "-",
+      "destination": "-",
+      "aircraft": "-",
+      "first_seen_utc": "2026-04-19T17:30:27Z",
+      "last_seen_utc": "2026-04-19T17:30:27Z",
+      "seen_count": 1
+    },
     {
       "key": "f7c2da77756eb425bd7a4e26c225984427997248",
       "base": "BLY13KM|LFMT|EGKK|A319/M-SDE2E3FGHIJ1RWXYZ/LB1",
