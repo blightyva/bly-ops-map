@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-19T17:45:17Z",
+  "updated_utc": "2026-04-19T17:50:17Z",
   "flights": [
     {
       "key": "5bc1ec595aaa1298bb32e5eda8828b86d37eeb96",
@@ -9,8 +9,8 @@
       "destination": "EGJJ",
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-04-19T17:30:27Z",
-      "last_seen_utc": "2026-04-19T17:45:17Z",
-      "seen_count": 4
+      "last_seen_utc": "2026-04-19T17:50:17Z",
+      "seen_count": 5
     },
     {
       "key": "92b34328b117b44d3c102988f3adc8907c7daa4c",
@@ -20,8 +20,8 @@
       "destination": "LFBE",
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-04-19T17:35:13Z",
-      "last_seen_utc": "2026-04-19T17:45:17Z",
-      "seen_count": 3
+      "last_seen_utc": "2026-04-19T17:50:17Z",
+      "seen_count": 4
     },
     {
       "key": "ce2702a1d88dcbdd87caed895cd1a6052e44f7ce",
