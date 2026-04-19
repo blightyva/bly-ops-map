@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-19T17:50:17Z",
+  "updated_utc": "2026-04-19T17:55:13Z",
   "flights": [
     {
       "key": "5bc1ec595aaa1298bb32e5eda8828b86d37eeb96",
@@ -9,8 +9,8 @@
       "destination": "EGJJ",
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-04-19T17:30:27Z",
-      "last_seen_utc": "2026-04-19T17:50:17Z",
-      "seen_count": 5
+      "last_seen_utc": "2026-04-19T17:55:13Z",
+      "seen_count": 6
     },
     {
       "key": "92b34328b117b44d3c102988f3adc8907c7daa4c",
@@ -20,8 +20,19 @@
       "destination": "LFBE",
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-04-19T17:35:13Z",
-      "last_seen_utc": "2026-04-19T17:50:17Z",
-      "seen_count": 4
+      "last_seen_utc": "2026-04-19T17:55:13Z",
+      "seen_count": 5
+    },
+    {
+      "key": "a1f62c58a445e5e30c302deea0b105c15863d9f8",
+      "base": "BLY56IQ|EGCC|EGJJ|F28/M-SDFIRWY/H",
+      "callsign": "BLY56IQ",
+      "departure": "EGCC",
+      "destination": "EGJJ",
+      "aircraft": "F28/M-SDFIRWY/H",
+      "first_seen_utc": "2026-04-19T17:55:13Z",
+      "last_seen_utc": "2026-04-19T17:55:13Z",
+      "seen_count": 1
     },
     {
       "key": "ce2702a1d88dcbdd87caed895cd1a6052e44f7ce",
