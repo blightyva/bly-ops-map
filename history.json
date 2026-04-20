@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-20T12:45:18Z",
+  "updated_utc": "2026-04-20T12:50:20Z",
   "flights": [
     {
       "key": "c3819f6d230f3a9aaeb3ec2b8a92d7df67ca5544",
@@ -9,8 +9,8 @@
       "destination": "LDSP",
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-04-20T12:45:18Z",
-      "last_seen_utc": "2026-04-20T12:45:18Z",
-      "seen_count": 1
+      "last_seen_utc": "2026-04-20T12:50:20Z",
+      "seen_count": 2
     },
     {
       "key": "035ec1d38cef1c3d7501f5051ce448cbfb5623da",
