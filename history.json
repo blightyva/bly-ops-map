@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-21T17:45:21Z",
+  "updated_utc": "2026-04-21T17:45:36Z",
   "flights": [
     {
       "key": "c98e53a6bb5e675581c2a4adf6ffc23ddfb79d45",
@@ -9,8 +9,30 @@
       "destination": "EGGD",
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-04-21T16:25:15Z",
-      "last_seen_utc": "2026-04-21T17:45:21Z",
-      "seen_count": 18
+      "last_seen_utc": "2026-04-21T17:45:36Z",
+      "seen_count": 19
+    },
+    {
+      "key": "9a379d05f736de725f611019e986a7bcabba1a75",
+      "base": "BLY93Q|EGCC|EGGD|A321/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY93Q",
+      "departure": "EGCC",
+      "destination": "EGGD",
+      "aircraft": "A321/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-04-21T16:43:33Z",
+      "last_seen_utc": "2026-04-21T17:45:36Z",
+      "seen_count": 15
+    },
+    {
+      "key": "4b916116f8c03b16e5d3e858195eb885209050b7",
+      "base": "BLY548|EGGD|EGHQ|A319/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY548",
+      "departure": "EGGD",
+      "destination": "EGHQ",
+      "aircraft": "A319/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-04-21T17:45:36Z",
+      "last_seen_utc": "2026-04-21T17:45:36Z",
+      "seen_count": 1
     },
     {
       "key": "15b808a231e01504beda8a7973343d7de6c86333",
@@ -22,17 +44,6 @@
       "first_seen_utc": "2026-04-21T16:30:30Z",
       "last_seen_utc": "2026-04-21T17:45:21Z",
       "seen_count": 17
-    },
-    {
-      "key": "9a379d05f736de725f611019e986a7bcabba1a75",
-      "base": "BLY93Q|EGCC|EGGD|A321/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY93Q",
-      "departure": "EGCC",
-      "destination": "EGGD",
-      "aircraft": "A321/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-04-21T16:43:33Z",
-      "last_seen_utc": "2026-04-21T17:45:21Z",
-      "seen_count": 14
     },
     {
       "key": "3cda2a60882dd0d97eafd08264384d046263d870",
