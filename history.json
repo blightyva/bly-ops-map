@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-04-21T22:05:14Z",
+  "updated_utc": "2026-04-21T22:10:17Z",
   "flights": [
+    {
+      "key": "5fc5303d89c986b54b771f848dbe343be5ce76a1",
+      "base": "BLY503|EGPH|EGGP|A319/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY503",
+      "departure": "EGPH",
+      "destination": "EGGP",
+      "aircraft": "A319/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-04-21T22:00:35Z",
+      "last_seen_utc": "2026-04-21T22:10:17Z",
+      "seen_count": 3
+    },
     {
       "key": "056c6376ff63e117badfb00e895b86bf0b736a09",
       "base": "BLY93Q|EGSS|EGPH|A321/M-SDE3FGHIRWY/LB1",
@@ -11,17 +22,6 @@
       "first_seen_utc": "2026-04-21T20:35:16Z",
       "last_seen_utc": "2026-04-21T22:05:14Z",
       "seen_count": 21
-    },
-    {
-      "key": "5fc5303d89c986b54b771f848dbe343be5ce76a1",
-      "base": "BLY503|EGPH|EGGP|A319/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY503",
-      "departure": "EGPH",
-      "destination": "EGGP",
-      "aircraft": "A319/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-04-21T22:00:35Z",
-      "last_seen_utc": "2026-04-21T22:05:14Z",
-      "seen_count": 2
     },
     {
       "key": "b0fd16be422906d522018165abd25f31eb1e4a5a",
