@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-22T12:30:32Z",
+  "updated_utc": "2026-04-22T12:35:15Z",
   "flights": [
     {
       "key": "42ebcf89ecf7c861976871361d2177d3bcd30fcb",
@@ -9,8 +9,8 @@
       "destination": "LFMT",
       "aircraft": "B38M/M-SDE1FGHILORVWXY/HB1",
       "first_seen_utc": "2026-04-22T12:25:15Z",
-      "last_seen_utc": "2026-04-22T12:30:32Z",
-      "seen_count": 2
+      "last_seen_utc": "2026-04-22T12:35:15Z",
+      "seen_count": 3
     },
     {
       "key": "5fc5303d89c986b54b771f848dbe343be5ce76a1",
