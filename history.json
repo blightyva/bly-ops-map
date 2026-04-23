@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-23T20:50:20Z",
+  "updated_utc": "2026-04-23T20:55:14Z",
   "flights": [
     {
       "key": "13bfe73eeac0f825fe8a80a2e3a8c598be572439",
@@ -9,8 +9,8 @@
       "destination": "EGCC",
       "aircraft": "B738/M-SDE2E3FGHIRWXY/LB1",
       "first_seen_utc": "2026-04-23T20:20:17Z",
-      "last_seen_utc": "2026-04-23T20:50:20Z",
-      "seen_count": 7
+      "last_seen_utc": "2026-04-23T20:55:14Z",
+      "seen_count": 8
     },
     {
       "key": "5a8ec48923d7a91c13e6863e6c3af07a86bef9bd",
@@ -1903,17 +1903,6 @@
       "first_seen_utc": "2026-03-26T23:45:16Z",
       "last_seen_utc": "2026-03-27T03:50:15Z",
       "seen_count": 51
-    },
-    {
-      "key": "529362bde542c581101f871b66f7870038cb55a9",
-      "base": "BLY24PR|LPPR|EGCC|A321/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY24PR",
-      "departure": "LPPR",
-      "destination": "EGCC",
-      "aircraft": "A321/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-03-26T17:55:13Z",
-      "last_seen_utc": "2026-03-26T20:55:11Z",
-      "seen_count": 38
     }
   ]
 }
