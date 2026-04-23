@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-23T14:10:24Z",
+  "updated_utc": "2026-04-23T14:15:22Z",
   "flights": [
     {
       "key": "5a8ec48923d7a91c13e6863e6c3af07a86bef9bd",
@@ -1914,17 +1914,6 @@
       "first_seen_utc": "2026-03-26T14:55:18Z",
       "last_seen_utc": "2026-03-26T17:50:15Z",
       "seen_count": 37
-    },
-    {
-      "key": "74ccae3f9a0a8eaedc44f9db6da89483004165b4",
-      "base": "BLY2298|EICK|EGCC|A321/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY2298",
-      "departure": "EICK",
-      "destination": "EGCC",
-      "aircraft": "A321/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-03-26T12:40:16Z",
-      "last_seen_utc": "2026-03-26T14:15:18Z",
-      "seen_count": 20
     }
   ]
 }
