@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-24T20:50:21Z",
+  "updated_utc": "2026-04-24T20:55:17Z",
   "flights": [
     {
       "key": "e5d383fb06f06dfb723c2efb57606044eaa6661a",
@@ -9,8 +9,8 @@
       "destination": "EGGP",
       "aircraft": "B38M/M-SDE1FGHILORVWXY/HB1",
       "first_seen_utc": "2026-04-24T18:35:15Z",
-      "last_seen_utc": "2026-04-24T20:50:21Z",
-      "seen_count": 30
+      "last_seen_utc": "2026-04-24T20:55:17Z",
+      "seen_count": 31
     },
     {
       "key": "1db50a35bca4bb7ce6c7184e5ef82c8a754b02bd",
@@ -20,8 +20,8 @@
       "destination": "LFBE",
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-04-24T19:50:20Z",
-      "last_seen_utc": "2026-04-24T20:50:21Z",
-      "seen_count": 9
+      "last_seen_utc": "2026-04-24T20:55:17Z",
+      "seen_count": 10
     },
     {
       "key": "f89e2a57cfb4e470897a6cae2b7229b48be0e45e",
@@ -31,8 +31,8 @@
       "destination": "EGGP",
       "aircraft": "RJ1H/M-SDFGIRWY/LB1",
       "first_seen_utc": "2026-04-24T20:45:21Z",
-      "last_seen_utc": "2026-04-24T20:50:21Z",
-      "seen_count": 2
+      "last_seen_utc": "2026-04-24T20:55:17Z",
+      "seen_count": 3
     },
     {
       "key": "354afbb7ba252d2133c22fb288705b5101a6bc3e",
