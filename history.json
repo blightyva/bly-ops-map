@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-24T03:45:18Z",
+  "updated_utc": "2026-04-24T03:50:16Z",
   "flights": [
     {
       "key": "13bfe73eeac0f825fe8a80a2e3a8c598be572439",
@@ -1892,17 +1892,6 @@
       "first_seen_utc": "2026-03-27T18:15:17Z",
       "last_seen_utc": "2026-03-27T20:35:11Z",
       "seen_count": 30
-    },
-    {
-      "key": "dfdc2475865aa349b4f657c8055b2e30aa5a0d13",
-      "base": "BLY2322|LIRN|EGCC|B772/H-SDE2E3FGHIJ5LORVWXY/LB1D1",
-      "callsign": "BLY2322",
-      "departure": "LIRN",
-      "destination": "EGCC",
-      "aircraft": "B772/H-SDE2E3FGHIJ5LORVWXY/LB1D1",
-      "first_seen_utc": "2026-03-26T23:45:16Z",
-      "last_seen_utc": "2026-03-27T03:50:15Z",
-      "seen_count": 51
     }
   ]
 }
