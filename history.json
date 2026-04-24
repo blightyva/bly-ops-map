@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-04-24T19:25:15Z",
+  "updated_utc": "2026-04-24T19:30:28Z",
   "flights": [
+    {
+      "key": "e5d383fb06f06dfb723c2efb57606044eaa6661a",
+      "base": "BLY1314|LFMT|EGGP|B38M/M-SDE1FGHILORVWXY/HB1",
+      "callsign": "BLY1314",
+      "departure": "LFMT",
+      "destination": "EGGP",
+      "aircraft": "B38M/M-SDE1FGHILORVWXY/HB1",
+      "first_seen_utc": "2026-04-24T18:35:15Z",
+      "last_seen_utc": "2026-04-24T19:30:28Z",
+      "seen_count": 12
+    },
     {
       "key": "354afbb7ba252d2133c22fb288705b5101a6bc3e",
       "base": "BLY2039|EGPH|EGGP|A320/M-SDE3FGHIRWY/LB1",
@@ -11,17 +22,6 @@
       "first_seen_utc": "2026-04-24T18:25:14Z",
       "last_seen_utc": "2026-04-24T19:25:15Z",
       "seen_count": 14
-    },
-    {
-      "key": "e5d383fb06f06dfb723c2efb57606044eaa6661a",
-      "base": "BLY1314|LFMT|EGGP|B38M/M-SDE1FGHILORVWXY/HB1",
-      "callsign": "BLY1314",
-      "departure": "LFMT",
-      "destination": "EGGP",
-      "aircraft": "B38M/M-SDE1FGHILORVWXY/HB1",
-      "first_seen_utc": "2026-04-24T18:35:15Z",
-      "last_seen_utc": "2026-04-24T19:25:15Z",
-      "seen_count": 11
     },
     {
       "key": "13bfe73eeac0f825fe8a80a2e3a8c598be572439",
