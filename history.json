@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-25T16:00:40Z",
+  "updated_utc": "2026-04-25T16:05:13Z",
   "flights": [
     {
       "key": "24279972a03304d166fa87926f3a2c94b7bc83cf",
@@ -9,8 +9,8 @@
       "destination": "EPWA",
       "aircraft": "B772/H-SDE2E3FGHIJ5LORVWXY/LB1D1",
       "first_seen_utc": "2026-04-25T14:30:29Z",
-      "last_seen_utc": "2026-04-25T16:00:40Z",
-      "seen_count": 21
+      "last_seen_utc": "2026-04-25T16:05:13Z",
+      "seen_count": 22
     },
     {
       "key": "b76118443adcfdabdd58eb85b62c7214d942d4fb",
