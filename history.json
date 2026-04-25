@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-25T10:45:17Z",
+  "updated_utc": "2026-04-25T10:50:16Z",
   "flights": [
     {
       "key": "8c62ce82b6bdd95e630b23c3a056a10bde30af35",
@@ -9,8 +9,8 @@
       "destination": "LSGG",
       "aircraft": "A321/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-04-25T10:20:18Z",
-      "last_seen_utc": "2026-04-25T10:45:17Z",
-      "seen_count": 6
+      "last_seen_utc": "2026-04-25T10:50:16Z",
+      "seen_count": 7
     },
     {
       "key": "b76118443adcfdabdd58eb85b62c7214d942d4fb",
