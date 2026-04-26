@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-26T15:25:15Z",
+  "updated_utc": "2026-04-26T15:30:28Z",
   "flights": [
     {
       "key": "103f9603661d30d23ac67d31c4d5041f0ff7aa81",
@@ -9,8 +9,8 @@
       "destination": "EPGD",
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-04-26T12:50:17Z",
-      "last_seen_utc": "2026-04-26T15:25:15Z",
-      "seen_count": 34
+      "last_seen_utc": "2026-04-26T15:30:28Z",
+      "seen_count": 35
     },
     {
       "key": "2fb67a13c7c6c9d8654176fd7bdea8eef8089d06",
