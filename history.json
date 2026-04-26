@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-26T17:29:48Z",
+  "updated_utc": "2026-04-26T17:30:28Z",
   "flights": [
     {
       "key": "8e3b7edfdd076fd0249d1d6c9c9da402b02eee67",
@@ -9,8 +9,8 @@
       "destination": "EGGP",
       "aircraft": "A319/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-04-26T17:05:12Z",
-      "last_seen_utc": "2026-04-26T17:29:48Z",
-      "seen_count": 6
+      "last_seen_utc": "2026-04-26T17:30:28Z",
+      "seen_count": 7
     },
     {
       "key": "3569cd7baf728e3cefb617de4f1e67c4298a25ce",
@@ -20,8 +20,8 @@
       "destination": "EGGP",
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-04-26T17:29:48Z",
-      "last_seen_utc": "2026-04-26T17:29:48Z",
-      "seen_count": 1
+      "last_seen_utc": "2026-04-26T17:30:28Z",
+      "seen_count": 2
     },
     {
       "key": "103f9603661d30d23ac67d31c4d5041f0ff7aa81",
