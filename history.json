@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-26T14:30:26Z",
+  "updated_utc": "2026-04-26T14:35:14Z",
   "flights": [
     {
       "key": "2fb67a13c7c6c9d8654176fd7bdea8eef8089d06",
@@ -9,8 +9,8 @@
       "destination": "LFBE",
       "aircraft": "A319/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-04-26T12:30:25Z",
-      "last_seen_utc": "2026-04-26T14:30:26Z",
-      "seen_count": 27
+      "last_seen_utc": "2026-04-26T14:35:14Z",
+      "seen_count": 28
     },
     {
       "key": "103f9603661d30d23ac67d31c4d5041f0ff7aa81",
