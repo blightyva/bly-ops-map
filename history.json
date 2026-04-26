@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-26T12:05:14Z",
+  "updated_utc": "2026-04-26T12:10:16Z",
   "flights": [
     {
       "key": "3dbe4313925c1d2f23a4e9c81b9e402789a6069e",
@@ -9,8 +9,19 @@
       "destination": "EGKK",
       "aircraft": "A321/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-04-26T11:25:14Z",
-      "last_seen_utc": "2026-04-26T12:05:14Z",
-      "seen_count": 10
+      "last_seen_utc": "2026-04-26T12:10:16Z",
+      "seen_count": 11
+    },
+    {
+      "key": "e98c7bd13abfc523b0d1b13f3ab54dbe5275b976",
+      "base": "BLY7464|EGCC|LFBE|B772/H-SDE2E3FGHIJ5LORVWXY/LB1D1",
+      "callsign": "BLY7464",
+      "departure": "EGCC",
+      "destination": "LFBE",
+      "aircraft": "B772/H-SDE2E3FGHIJ5LORVWXY/LB1D1",
+      "first_seen_utc": "2026-04-26T12:10:16Z",
+      "last_seen_utc": "2026-04-26T12:10:16Z",
+      "seen_count": 1
     },
     {
       "key": "752c7b57eb8e4fc873e1de1fc302bf2ba32ebd4c",
