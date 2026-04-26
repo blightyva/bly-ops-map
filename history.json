@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-26T14:45:18Z",
+  "updated_utc": "2026-04-26T14:50:19Z",
   "flights": [
     {
       "key": "2fb67a13c7c6c9d8654176fd7bdea8eef8089d06",
@@ -9,8 +9,8 @@
       "destination": "LFBE",
       "aircraft": "A319/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-04-26T12:30:25Z",
-      "last_seen_utc": "2026-04-26T14:45:18Z",
-      "seen_count": 30
+      "last_seen_utc": "2026-04-26T14:50:19Z",
+      "seen_count": 31
     },
     {
       "key": "103f9603661d30d23ac67d31c4d5041f0ff7aa81",
@@ -20,8 +20,8 @@
       "destination": "EPGD",
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-04-26T12:50:17Z",
-      "last_seen_utc": "2026-04-26T14:45:18Z",
-      "seen_count": 25
+      "last_seen_utc": "2026-04-26T14:50:19Z",
+      "seen_count": 26
     },
     {
       "key": "e98c7bd13abfc523b0d1b13f3ab54dbe5275b976",
