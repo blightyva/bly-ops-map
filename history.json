@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-26T12:30:25Z",
+  "updated_utc": "2026-04-26T12:35:13Z",
   "flights": [
     {
       "key": "3dbe4313925c1d2f23a4e9c81b9e402789a6069e",
@@ -9,8 +9,8 @@
       "destination": "EGKK",
       "aircraft": "A321/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-04-26T11:25:14Z",
-      "last_seen_utc": "2026-04-26T12:30:25Z",
-      "seen_count": 15
+      "last_seen_utc": "2026-04-26T12:35:13Z",
+      "seen_count": 16
     },
     {
       "key": "e98c7bd13abfc523b0d1b13f3ab54dbe5275b976",
@@ -20,8 +20,8 @@
       "destination": "LFBE",
       "aircraft": "B772/H-SDE2E3FGHIJ5LORVWXY/LB1D1",
       "first_seen_utc": "2026-04-26T12:10:16Z",
-      "last_seen_utc": "2026-04-26T12:30:25Z",
-      "seen_count": 5
+      "last_seen_utc": "2026-04-26T12:35:13Z",
+      "seen_count": 6
     },
     {
       "key": "2fb67a13c7c6c9d8654176fd7bdea8eef8089d06",
@@ -31,8 +31,8 @@
       "destination": "LFBE",
       "aircraft": "A319/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-04-26T12:30:25Z",
-      "last_seen_utc": "2026-04-26T12:30:25Z",
-      "seen_count": 1
+      "last_seen_utc": "2026-04-26T12:35:13Z",
+      "seen_count": 2
     },
     {
       "key": "752c7b57eb8e4fc873e1de1fc302bf2ba32ebd4c",
