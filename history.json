@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-27T18:25:15Z",
+  "updated_utc": "2026-04-27T18:30:33Z",
   "flights": [
     {
       "key": "e7ce3439eb03682fb54d35d2b73e5496ed8d4971",
@@ -1914,17 +1914,6 @@
       "first_seen_utc": "2026-03-31T16:40:16Z",
       "last_seen_utc": "2026-03-31T17:40:16Z",
       "seen_count": 12
-    },
-    {
-      "key": "8c5bb26437c69cb51a81db73afe1eadf88023539",
-      "base": "BLY21|LGIR|LGAV|B772/H-SDE2E3FGHIJ5LORVWXY/LB1D1",
-      "callsign": "BLY21",
-      "departure": "LGIR",
-      "destination": "LGAV",
-      "aircraft": "B772/H-SDE2E3FGHIJ5LORVWXY/LB1D1",
-      "first_seen_utc": "2026-03-30T16:50:15Z",
-      "last_seen_utc": "2026-03-30T18:30:23Z",
-      "seen_count": 22
     }
   ]
 }
