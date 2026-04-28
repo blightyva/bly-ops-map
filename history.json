@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-28T17:50:21Z",
+  "updated_utc": "2026-04-28T17:55:16Z",
   "flights": [
     {
       "key": "5e01be1ee114a78c4982c2dcb9bccbd12478ce8e",
@@ -9,8 +9,19 @@
       "destination": "EGNH",
       "aircraft": "C700/M-SBDGHM1RWXY/LB2",
       "first_seen_utc": "2026-04-28T16:50:24Z",
-      "last_seen_utc": "2026-04-28T17:50:21Z",
-      "seen_count": 13
+      "last_seen_utc": "2026-04-28T17:55:16Z",
+      "seen_count": 14
+    },
+    {
+      "key": "cd0cf8d15f3178d6ad9f77a0b6bc1d051663a17c",
+      "base": "BLY232|EGGP|LSGG|A320/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY232",
+      "departure": "EGGP",
+      "destination": "LSGG",
+      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-04-28T17:55:16Z",
+      "last_seen_utc": "2026-04-28T17:55:16Z",
+      "seen_count": 1
     },
     {
       "key": "ae5a64e7f6e3f1028b44d26181309194347bddde",
