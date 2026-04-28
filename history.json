@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-28T17:25:16Z",
+  "updated_utc": "2026-04-28T17:30:32Z",
   "flights": [
     {
       "key": "5e01be1ee114a78c4982c2dcb9bccbd12478ce8e",
@@ -9,8 +9,8 @@
       "destination": "EGNH",
       "aircraft": "C700/M-SBDGHM1RWXY/LB2",
       "first_seen_utc": "2026-04-28T16:50:24Z",
-      "last_seen_utc": "2026-04-28T17:25:16Z",
-      "seen_count": 8
+      "last_seen_utc": "2026-04-28T17:30:32Z",
+      "seen_count": 9
     },
     {
       "key": "ae5a64e7f6e3f1028b44d26181309194347bddde",
