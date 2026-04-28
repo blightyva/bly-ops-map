@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-28T17:35:16Z",
+  "updated_utc": "2026-04-28T17:40:23Z",
   "flights": [
     {
       "key": "5e01be1ee114a78c4982c2dcb9bccbd12478ce8e",
@@ -9,8 +9,8 @@
       "destination": "EGNH",
       "aircraft": "C700/M-SBDGHM1RWXY/LB2",
       "first_seen_utc": "2026-04-28T16:50:24Z",
-      "last_seen_utc": "2026-04-28T17:35:16Z",
-      "seen_count": 10
+      "last_seen_utc": "2026-04-28T17:40:23Z",
+      "seen_count": 11
     },
     {
       "key": "ae5a64e7f6e3f1028b44d26181309194347bddde",
@@ -1925,17 +1925,6 @@
       "first_seen_utc": "2026-03-31T17:50:16Z",
       "last_seen_utc": "2026-03-31T19:00:32Z",
       "seen_count": 15
-    },
-    {
-      "key": "ad52295d0a0cbd155b2e4f5de486903baf28742d",
-      "base": "BLY2120|EGCC|EGPH|A20N/M-SDE2E3FGHIRWXY/LB1",
-      "callsign": "BLY2120",
-      "departure": "EGCC",
-      "destination": "EGPH",
-      "aircraft": "A20N/M-SDE2E3FGHIRWXY/LB1",
-      "first_seen_utc": "2026-03-31T16:40:16Z",
-      "last_seen_utc": "2026-03-31T17:40:16Z",
-      "seen_count": 12
     }
   ]
 }
