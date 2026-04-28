@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-28T18:55:15Z",
+  "updated_utc": "2026-04-28T19:00:42Z",
   "flights": [
     {
       "key": "cd0cf8d15f3178d6ad9f77a0b6bc1d051663a17c",
@@ -9,8 +9,8 @@
       "destination": "LSGG",
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-04-28T17:55:16Z",
-      "last_seen_utc": "2026-04-28T18:55:15Z",
-      "seen_count": 13
+      "last_seen_utc": "2026-04-28T19:00:42Z",
+      "seen_count": 14
     },
     {
       "key": "ba95382818ca262a099c9c8300451e80d5d6c716",
@@ -20,8 +20,8 @@
       "destination": "EGPH",
       "aircraft": "A319/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-04-28T18:55:15Z",
-      "last_seen_utc": "2026-04-28T18:55:15Z",
-      "seen_count": 1
+      "last_seen_utc": "2026-04-28T19:00:42Z",
+      "seen_count": 2
     },
     {
       "key": "5e01be1ee114a78c4982c2dcb9bccbd12478ce8e",
@@ -1936,17 +1936,6 @@
       "first_seen_utc": "2026-03-31T18:25:12Z",
       "last_seen_utc": "2026-03-31T20:35:13Z",
       "seen_count": 28
-    },
-    {
-      "key": "cfeab4d27e28ff1122603ed35df9cf683e5bb34b",
-      "base": "BLY1121|EGPH|EGGP|A20N/M-SDE2E3FGHIRWXY/LB1",
-      "callsign": "BLY1121",
-      "departure": "EGPH",
-      "destination": "EGGP",
-      "aircraft": "A20N/M-SDE2E3FGHIRWXY/LB1",
-      "first_seen_utc": "2026-03-31T17:50:16Z",
-      "last_seen_utc": "2026-03-31T19:00:32Z",
-      "seen_count": 15
     }
   ]
 }
