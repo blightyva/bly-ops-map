@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-28T18:30:32Z",
+  "updated_utc": "2026-04-28T18:35:15Z",
   "flights": [
     {
       "key": "5e01be1ee114a78c4982c2dcb9bccbd12478ce8e",
@@ -9,8 +9,8 @@
       "destination": "EGNH",
       "aircraft": "C700/M-SBDGHM1RWXY/LB2",
       "first_seen_utc": "2026-04-28T16:50:24Z",
-      "last_seen_utc": "2026-04-28T18:30:32Z",
-      "seen_count": 21
+      "last_seen_utc": "2026-04-28T18:35:15Z",
+      "seen_count": 22
     },
     {
       "key": "cd0cf8d15f3178d6ad9f77a0b6bc1d051663a17c",
@@ -20,8 +20,8 @@
       "destination": "LSGG",
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-04-28T17:55:16Z",
-      "last_seen_utc": "2026-04-28T18:30:32Z",
-      "seen_count": 8
+      "last_seen_utc": "2026-04-28T18:35:15Z",
+      "seen_count": 9
     },
     {
       "key": "ae5a64e7f6e3f1028b44d26181309194347bddde",
