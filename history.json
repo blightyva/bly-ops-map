@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-29T19:55:12Z",
+  "updated_utc": "2026-04-29T19:55:52Z",
   "flights": [
     {
       "key": "9e8ff16ced30633770c7e7bda0d501fb01ebe702",
@@ -9,8 +9,8 @@
       "destination": "EGCC",
       "aircraft": "B738/M-SDE2E3FGHIRWXY/LB1",
       "first_seen_utc": "2026-04-29T19:20:15Z",
-      "last_seen_utc": "2026-04-29T19:55:12Z",
-      "seen_count": 8
+      "last_seen_utc": "2026-04-29T19:55:52Z",
+      "seen_count": 9
     },
     {
       "key": "0ed378b3758b2b8c1d3e853706cf26555a2955ac",
