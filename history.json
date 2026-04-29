@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-29T19:00:41Z",
+  "updated_utc": "2026-04-29T19:05:20Z",
   "flights": [
     {
       "key": "0ed378b3758b2b8c1d3e853706cf26555a2955ac",
@@ -9,8 +9,8 @@
       "destination": "CYHM",
       "aircraft": "A319/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-04-29T18:30:24Z",
-      "last_seen_utc": "2026-04-29T19:00:41Z",
-      "seen_count": 7
+      "last_seen_utc": "2026-04-29T19:05:20Z",
+      "seen_count": 8
     },
     {
       "key": "11a2c88e759437cc9219d9a097cc41028e7ce7ec",
