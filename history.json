@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-29T18:55:19Z",
+  "updated_utc": "2026-04-29T19:00:41Z",
   "flights": [
     {
       "key": "0ed378b3758b2b8c1d3e853706cf26555a2955ac",
@@ -9,8 +9,8 @@
       "destination": "CYHM",
       "aircraft": "A319/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-04-29T18:30:24Z",
-      "last_seen_utc": "2026-04-29T18:55:19Z",
-      "seen_count": 6
+      "last_seen_utc": "2026-04-29T19:00:41Z",
+      "seen_count": 7
     },
     {
       "key": "11a2c88e759437cc9219d9a097cc41028e7ce7ec",
@@ -1892,17 +1892,6 @@
       "first_seen_utc": "2026-04-01T18:15:18Z",
       "last_seen_utc": "2026-04-01T19:40:18Z",
       "seen_count": 18
-    },
-    {
-      "key": "f660f96838a7f340d9bcb13b6655ec8e432dcd23",
-      "base": "BLY43M|EGPH|EGCC|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY43M",
-      "departure": "EGPH",
-      "destination": "EGCC",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-04-01T17:30:24Z",
-      "last_seen_utc": "2026-04-01T19:00:33Z",
-      "seen_count": 20
     }
   ]
 }
