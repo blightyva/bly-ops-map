@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-29T14:50:25Z",
+  "updated_utc": "2026-04-29T14:55:25Z",
   "flights": [
     {
       "key": "d49ab67df130043e9afcbbaade0153ff7fa71a99",
@@ -1903,17 +1903,6 @@
       "first_seen_utc": "2026-04-01T15:00:36Z",
       "last_seen_utc": "2026-04-01T15:15:20Z",
       "seen_count": 4
-    },
-    {
-      "key": "5e079bcf9abe6426d63e8f166c11da0dec154642",
-      "base": "BLY282X|LXGB|EGCC|A320/M-SDE2E3FGHIJ1RWXYZ/LB1",
-      "callsign": "BLY282X",
-      "departure": "LXGB",
-      "destination": "EGCC",
-      "aircraft": "A320/M-SDE2E3FGHIJ1RWXYZ/LB1",
-      "first_seen_utc": "2026-04-01T11:05:12Z",
-      "last_seen_utc": "2026-04-01T14:55:13Z",
-      "seen_count": 48
     }
   ]
 }
