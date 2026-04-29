@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-29T20:30:25Z",
+  "updated_utc": "2026-04-29T20:35:20Z",
   "flights": [
     {
       "key": "9e8ff16ced30633770c7e7bda0d501fb01ebe702",
@@ -9,8 +9,8 @@
       "destination": "EGCC",
       "aircraft": "B738/M-SDE2E3FGHIRWXY/LB1",
       "first_seen_utc": "2026-04-29T19:20:15Z",
-      "last_seen_utc": "2026-04-29T20:30:25Z",
-      "seen_count": 16
+      "last_seen_utc": "2026-04-29T20:35:20Z",
+      "seen_count": 17
     },
     {
       "key": "299a47eefe809c429f1d475962ec87319e8b12d0",
@@ -20,8 +20,8 @@
       "destination": "EGAE",
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-04-29T20:05:20Z",
-      "last_seen_utc": "2026-04-29T20:30:25Z",
-      "seen_count": 6
+      "last_seen_utc": "2026-04-29T20:35:20Z",
+      "seen_count": 7
     },
     {
       "key": "0ed378b3758b2b8c1d3e853706cf26555a2955ac",
