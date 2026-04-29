@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-29T18:00:33Z",
+  "updated_utc": "2026-04-29T18:05:19Z",
   "flights": [
     {
       "key": "11a2c88e759437cc9219d9a097cc41028e7ce7ec",
@@ -1892,17 +1892,6 @@
       "first_seen_utc": "2026-04-01T17:30:24Z",
       "last_seen_utc": "2026-04-01T19:00:33Z",
       "seen_count": 20
-    },
-    {
-      "key": "3bd089a12d6f910f859fae88383b10c32b407cfb",
-      "base": "BLY4320|LIRF|EGPH|L101/H-SDFHIRWXY/S",
-      "callsign": "BLY4320",
-      "departure": "LIRF",
-      "destination": "EGPH",
-      "aircraft": "L101/H-SDFHIRWXY/S",
-      "first_seen_utc": "2026-04-01T17:10:20Z",
-      "last_seen_utc": "2026-04-01T18:00:33Z",
-      "seen_count": 12
     }
   ]
 }
