@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-04-29T21:25:18Z",
+  "updated_utc": "2026-04-29T21:30:30Z",
   "flights": [
+    {
+      "key": "926dfde7c2fef2c5af1b2c5c384628c27d8820cc",
+      "base": "BLY13EX|EGNH|CYHM|A319/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY13EX",
+      "departure": "EGNH",
+      "destination": "CYHM",
+      "aircraft": "A319/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-04-29T21:00:42Z",
+      "last_seen_utc": "2026-04-29T21:30:30Z",
+      "seen_count": 7
+    },
     {
       "key": "299a47eefe809c429f1d475962ec87319e8b12d0",
       "base": "BLY7464|EGCC|EGAE|A320/M-SDE3FGHIRWY/LB1",
@@ -11,17 +22,6 @@
       "first_seen_utc": "2026-04-29T20:05:20Z",
       "last_seen_utc": "2026-04-29T21:25:18Z",
       "seen_count": 17
-    },
-    {
-      "key": "926dfde7c2fef2c5af1b2c5c384628c27d8820cc",
-      "base": "BLY13EX|EGNH|CYHM|A319/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY13EX",
-      "departure": "EGNH",
-      "destination": "CYHM",
-      "aircraft": "A319/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-04-29T21:00:42Z",
-      "last_seen_utc": "2026-04-29T21:25:18Z",
-      "seen_count": 6
     },
     {
       "key": "9e8ff16ced30633770c7e7bda0d501fb01ebe702",
@@ -1881,17 +1881,6 @@
       "first_seen_utc": "2026-04-01T22:15:15Z",
       "last_seen_utc": "2026-04-01T22:15:15Z",
       "seen_count": 1
-    },
-    {
-      "key": "febda1c3ad54baf2fc3734b0100ca4a1f3dc072a",
-      "base": "BLY2121|EGPH|EGCC|L101/H-SDFGHIRWXY/S",
-      "callsign": "BLY2121",
-      "departure": "EGPH",
-      "destination": "EGCC",
-      "aircraft": "L101/H-SDFGHIRWXY/S",
-      "first_seen_utc": "2026-04-01T19:45:16Z",
-      "last_seen_utc": "2026-04-01T21:30:24Z",
-      "seen_count": 22
     }
   ]
 }
