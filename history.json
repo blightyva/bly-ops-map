@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-29T22:13:33Z",
+  "updated_utc": "2026-04-29T22:15:18Z",
   "flights": [
     {
       "key": "926dfde7c2fef2c5af1b2c5c384628c27d8820cc",
@@ -1870,17 +1870,6 @@
       "first_seen_utc": "2026-04-01T22:15:15Z",
       "last_seen_utc": "2026-04-01T22:20:18Z",
       "seen_count": 2
-    },
-    {
-      "key": "8ec6dbad11de8c5a30a9ac476675b8603258b557",
-      "base": "BLY2428|-|-|-",
-      "callsign": "BLY2428",
-      "departure": "-",
-      "destination": "-",
-      "aircraft": "-",
-      "first_seen_utc": "2026-04-01T22:15:15Z",
-      "last_seen_utc": "2026-04-01T22:15:15Z",
-      "seen_count": 1
     }
   ]
 }
