@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-29T19:20:15Z",
+  "updated_utc": "2026-04-29T19:25:13Z",
   "flights": [
     {
       "key": "0ed378b3758b2b8c1d3e853706cf26555a2955ac",
@@ -9,8 +9,8 @@
       "destination": "CYHM",
       "aircraft": "A319/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-04-29T18:30:24Z",
-      "last_seen_utc": "2026-04-29T19:20:15Z",
-      "seen_count": 11
+      "last_seen_utc": "2026-04-29T19:25:13Z",
+      "seen_count": 12
     },
     {
       "key": "9e8ff16ced30633770c7e7bda0d501fb01ebe702",
@@ -20,8 +20,8 @@
       "destination": "EGCC",
       "aircraft": "B738/M-SDE2E3FGHIRWXY/LB1",
       "first_seen_utc": "2026-04-29T19:20:15Z",
-      "last_seen_utc": "2026-04-29T19:20:15Z",
-      "seen_count": 1
+      "last_seen_utc": "2026-04-29T19:25:13Z",
+      "seen_count": 2
     },
     {
       "key": "11a2c88e759437cc9219d9a097cc41028e7ce7ec",
