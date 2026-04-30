@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-04-30T10:25:12Z",
+  "updated_utc": "2026-04-30T10:30:32Z",
   "flights": [
+    {
+      "key": "be70c68cd1a65f909b6e67dbccd24fc62e51b709",
+      "base": "BLY308|EGJJ|EGKK|A320/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY308",
+      "departure": "EGJJ",
+      "destination": "EGKK",
+      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-04-30T10:30:32Z",
+      "last_seen_utc": "2026-04-30T10:30:32Z",
+      "seen_count": 1
+    },
     {
       "key": "a84d8bab5f19909d0eb2c526450da967c2a1e8e3",
       "base": "BLY360V|EGKK|EGJJ|A320/M-SDE3FGHIRWY/LB1",
