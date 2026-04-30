@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-04-30T19:00:38Z",
+  "updated_utc": "2026-04-30T19:05:19Z",
   "flights": [
     {
       "key": "be70c68cd1a65f909b6e67dbccd24fc62e51b709",
@@ -1870,17 +1870,6 @@
       "first_seen_utc": "2026-04-02T17:35:13Z",
       "last_seen_utc": "2026-04-02T19:10:17Z",
       "seen_count": 19
-    },
-    {
-      "key": "be11edba67f002f5a414a6d4f059aa9a0a087d6e",
-      "base": "BLY80T|LDSP|EGCC|A320/M-SDE2E3FGHIJ1RWXYZ/LB1",
-      "callsign": "BLY80T",
-      "departure": "LDSP",
-      "destination": "EGCC",
-      "aircraft": "A320/M-SDE2E3FGHIJ1RWXYZ/LB1",
-      "first_seen_utc": "2026-04-02T15:45:20Z",
-      "last_seen_utc": "2026-04-02T19:05:13Z",
-      "seen_count": 42
     }
   ]
 }
