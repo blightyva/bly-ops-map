@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-01T22:55:12Z",
+  "updated_utc": "2026-05-01T23:00:36Z",
   "flights": [
     {
       "key": "b1c64377acd2ff55e90061b4c157c43aeaa156c4",
@@ -1892,17 +1892,6 @@
       "first_seen_utc": "2026-04-04T10:05:13Z",
       "last_seen_utc": "2026-04-04T12:00:30Z",
       "seen_count": 27
-    },
-    {
-      "key": "b4ba0b8f03c3034b718185a3f7195928aae1ffee",
-      "base": "BLY442|EGJJ|EGCC|B772/H-SDE2E3FGHIJ5LORVWXY/LB1D1",
-      "callsign": "BLY442",
-      "departure": "EGJJ",
-      "destination": "EGCC",
-      "aircraft": "B772/H-SDE2E3FGHIJ5LORVWXY/LB1D1",
-      "first_seen_utc": "2026-04-03T21:25:12Z",
-      "last_seen_utc": "2026-04-03T22:55:13Z",
-      "seen_count": 21
     }
   ]
 }
