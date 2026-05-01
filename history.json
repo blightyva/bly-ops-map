@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-01T01:50:15Z",
+  "updated_utc": "2026-05-01T01:55:18Z",
   "flights": [
     {
       "key": "be70c68cd1a65f909b6e67dbccd24fc62e51b709",
@@ -1825,17 +1825,6 @@
       "aircraft": "A319/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-04-03T17:55:13Z",
       "last_seen_utc": "2026-04-03T19:30:21Z",
-      "seen_count": 22
-    },
-    {
-      "key": "4cd9004acd5304cf309c11953a9e919e3d79dfbb",
-      "base": "BLY5231|EGNX|GCLP|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY5231",
-      "departure": "EGNX",
-      "destination": "GCLP",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-04-03T00:05:11Z",
-      "last_seen_utc": "2026-04-03T01:55:11Z",
       "seen_count": 22
     }
   ]
