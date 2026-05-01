@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-01T21:45:23Z",
+  "updated_utc": "2026-05-01T21:50:14Z",
   "flights": [
     {
       "key": "638407fcdf339d69a26baefda6086e698d3c9490",
@@ -9,8 +9,8 @@
       "destination": "EINN",
       "aircraft": "E195/M-SDE3GILORVW/S",
       "first_seen_utc": "2026-05-01T20:45:21Z",
-      "last_seen_utc": "2026-05-01T21:45:23Z",
-      "seen_count": 14
+      "last_seen_utc": "2026-05-01T21:50:14Z",
+      "seen_count": 15
     },
     {
       "key": "b1c64377acd2ff55e90061b4c157c43aeaa156c4",
@@ -20,8 +20,8 @@
       "destination": "EGCC",
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-05-01T20:50:20Z",
-      "last_seen_utc": "2026-05-01T21:45:23Z",
-      "seen_count": 13
+      "last_seen_utc": "2026-05-01T21:50:14Z",
+      "seen_count": 14
     },
     {
       "key": "fcee2db36c78a4cb43f5660ae66f505ce480b4bd",
