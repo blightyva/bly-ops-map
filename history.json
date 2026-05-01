@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-01T20:05:14Z",
+  "updated_utc": "2026-05-01T20:10:21Z",
   "flights": [
     {
       "key": "fcee2db36c78a4cb43f5660ae66f505ce480b4bd",
@@ -9,8 +9,8 @@
       "destination": "LEIB",
       "aircraft": "A332/H-SDE3GHIJ2J3J5M1RVWXY/LB2D1",
       "first_seen_utc": "2026-05-01T17:25:18Z",
-      "last_seen_utc": "2026-05-01T20:05:14Z",
-      "seen_count": 35
+      "last_seen_utc": "2026-05-01T20:10:21Z",
+      "seen_count": 36
     },
     {
       "key": "52d56de1d62c391836a3ac0a3e75057990b61978",
