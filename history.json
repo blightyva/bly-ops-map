@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-02T08:40:14Z",
+  "updated_utc": "2026-05-02T08:45:15Z",
   "flights": [
     {
       "key": "2467f1a656230fcd3f1b682359b2d1183faedfea",
@@ -9,8 +9,8 @@
       "destination": "EGCC",
       "aircraft": "A332/H-SDE3GHIJ2J3J5M1RVWXY/LB2D1",
       "first_seen_utc": "2026-05-02T08:40:14Z",
-      "last_seen_utc": "2026-05-02T08:40:14Z",
-      "seen_count": 1
+      "last_seen_utc": "2026-05-02T08:45:15Z",
+      "seen_count": 2
     },
     {
       "key": "b1c64377acd2ff55e90061b4c157c43aeaa156c4",
