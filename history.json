@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-02T11:55:12Z",
+  "updated_utc": "2026-05-02T12:00:37Z",
   "flights": [
     {
       "key": "7031df3193ea54846a726c144f8b96209d84a51f",
@@ -9,8 +9,8 @@
       "destination": "EGCC",
       "aircraft": "A332/H-SDE3GHIJ2J3J5M1RVWXY/LB2D1",
       "first_seen_utc": "2026-05-02T10:50:20Z",
-      "last_seen_utc": "2026-05-02T11:55:12Z",
-      "seen_count": 15
+      "last_seen_utc": "2026-05-02T12:00:37Z",
+      "seen_count": 16
     },
     {
       "key": "c896664764f8c67eac46a1b8101487c6c2fe37b1",
@@ -20,8 +20,8 @@
       "destination": "-",
       "aircraft": "-",
       "first_seen_utc": "2026-05-02T11:25:11Z",
-      "last_seen_utc": "2026-05-02T11:55:12Z",
-      "seen_count": 8
+      "last_seen_utc": "2026-05-02T12:00:37Z",
+      "seen_count": 9
     },
     {
       "key": "e90683d795b16a894c617d3aeac3e669ee020960",
@@ -1925,17 +1925,6 @@
       "first_seen_utc": "2026-04-04T09:10:14Z",
       "last_seen_utc": "2026-04-04T14:10:16Z",
       "seen_count": 66
-    },
-    {
-      "key": "c2348599c9f249b957074b503eac93f14e4141bb",
-      "base": "BLY442|EGCC|EDDF|B772/H-SDE2E3FGHIJ5LORVWXY/LB1D1",
-      "callsign": "BLY442",
-      "departure": "EGCC",
-      "destination": "EDDF",
-      "aircraft": "B772/H-SDE2E3FGHIJ5LORVWXY/LB1D1",
-      "first_seen_utc": "2026-04-04T10:05:13Z",
-      "last_seen_utc": "2026-04-04T12:00:30Z",
-      "seen_count": 27
     }
   ]
 }
