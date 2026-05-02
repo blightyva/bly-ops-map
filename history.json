@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-02T14:10:15Z",
+  "updated_utc": "2026-05-02T14:15:16Z",
   "flights": [
     {
       "key": "b62009342cf721bc5ffb55bf8f2395087bb5e51c",
@@ -9,8 +9,8 @@
       "destination": "EGPH",
       "aircraft": "A320/M-SDE2E3FGHIJ1RWXYZ/LB1",
       "first_seen_utc": "2026-05-02T13:45:16Z",
-      "last_seen_utc": "2026-05-02T14:10:15Z",
-      "seen_count": 7
+      "last_seen_utc": "2026-05-02T14:15:16Z",
+      "seen_count": 8
     },
     {
       "key": "51fdac0cb6aca6b88858dc7353c1e6913d309747",
@@ -20,8 +20,8 @@
       "destination": "EGPH",
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-05-02T13:55:11Z",
-      "last_seen_utc": "2026-05-02T14:10:15Z",
-      "seen_count": 4
+      "last_seen_utc": "2026-05-02T14:15:16Z",
+      "seen_count": 5
     },
     {
       "key": "38f430a4fcd9743a8951fffd7e46cd07d3178d45",
@@ -1969,17 +1969,6 @@
       "first_seen_utc": "2026-04-04T14:18:20Z",
       "last_seen_utc": "2026-04-04T15:25:12Z",
       "seen_count": 15
-    },
-    {
-      "key": "17b625f842e828fc87974dba66e81a721e2f987c",
-      "base": "BLY226R|EGCC|GCRR|A320/M-SDE2E3FGHIJ1RWXYZ/LB1",
-      "callsign": "BLY226R",
-      "departure": "EGCC",
-      "destination": "GCRR",
-      "aircraft": "A320/M-SDE2E3FGHIJ1RWXYZ/LB1",
-      "first_seen_utc": "2026-04-04T09:10:14Z",
-      "last_seen_utc": "2026-04-04T14:10:16Z",
-      "seen_count": 66
     }
   ]
 }
