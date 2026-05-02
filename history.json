@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-02T20:50:15Z",
+  "updated_utc": "2026-05-02T20:55:13Z",
   "flights": [
     {
       "key": "fac4deaf922e047b8148d7552f297c4f014c9561",
@@ -9,8 +9,8 @@
       "destination": "EINN",
       "aircraft": "A320/M-SDE2E3FGHIJ1RWXYZ/LB1",
       "first_seen_utc": "2026-05-02T19:20:15Z",
-      "last_seen_utc": "2026-05-02T20:50:15Z",
-      "seen_count": 21
+      "last_seen_utc": "2026-05-02T20:55:13Z",
+      "seen_count": 22
     },
     {
       "key": "112c9aa72962580fda14f9b32aaec567f754e3e9",
@@ -20,8 +20,8 @@
       "destination": "EGGP",
       "aircraft": "E75L/M-SDE3GILORVW/S",
       "first_seen_utc": "2026-05-02T20:00:35Z",
-      "last_seen_utc": "2026-05-02T20:50:15Z",
-      "seen_count": 12
+      "last_seen_utc": "2026-05-02T20:55:13Z",
+      "seen_count": 13
     },
     {
       "key": "3a3be9d609c4c412032baa5859954675ee99c252",
@@ -31,8 +31,8 @@
       "destination": "EGGP",
       "aircraft": "F28/M-SDFIRWY/H",
       "first_seen_utc": "2026-05-02T20:45:16Z",
-      "last_seen_utc": "2026-05-02T20:50:15Z",
-      "seen_count": 2
+      "last_seen_utc": "2026-05-02T20:55:13Z",
+      "seen_count": 3
     },
     {
       "key": "90447e02aeb818e5b2faa04f2a22c3032501d138",
