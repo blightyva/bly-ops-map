@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-02T10:40:15Z",
+  "updated_utc": "2026-05-02T10:45:20Z",
   "flights": [
     {
       "key": "e90683d795b16a894c617d3aeac3e669ee020960",
@@ -9,8 +9,8 @@
       "destination": "EGHI",
       "aircraft": "A320/M-SDE2E3FGHIJ1RWXYZ/LB1",
       "first_seen_utc": "2026-05-02T09:50:14Z",
-      "last_seen_utc": "2026-05-02T10:40:15Z",
-      "seen_count": 12
+      "last_seen_utc": "2026-05-02T10:45:20Z",
+      "seen_count": 13
     },
     {
       "key": "2467f1a656230fcd3f1b682359b2d1183faedfea",
