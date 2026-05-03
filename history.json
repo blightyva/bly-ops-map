@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-03T14:40:15Z",
+  "updated_utc": "2026-05-03T14:45:23Z",
   "flights": [
     {
       "key": "a99d1cca991e77282f7deb76b8735035535c866b",
@@ -2046,17 +2046,6 @@
       "first_seen_utc": "2026-04-05T11:05:11Z",
       "last_seen_utc": "2026-04-05T14:57:45Z",
       "seen_count": 53
-    },
-    {
-      "key": "4a63a59061760eaaed60d1694115815939b1835d",
-      "base": "BLY262W|GCRR|EGCC|A320/M-SDE2E3FGHIJ1RWXYZ/LB1",
-      "callsign": "BLY262W",
-      "departure": "GCRR",
-      "destination": "EGCC",
-      "aircraft": "A320/M-SDE2E3FGHIJ1RWXYZ/LB1",
-      "first_seen_utc": "2026-04-05T09:56:30Z",
-      "last_seen_utc": "2026-04-05T14:40:15Z",
-      "seen_count": 64
     }
   ]
 }
