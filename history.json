@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-03T06:20:15Z",
+  "updated_utc": "2026-05-03T06:25:11Z",
   "flights": [
     {
       "key": "0649d9e9ae2fce0ce5e5223566ce18298f05e74f",
@@ -2024,17 +2024,6 @@
       "first_seen_utc": "2026-04-05T06:25:12Z",
       "last_seen_utc": "2026-04-05T08:35:10Z",
       "seen_count": 30
-    },
-    {
-      "key": "f0e8ad40cc5ed3514bf50e9568864250cde70310",
-      "base": "BLY442|-|-|-",
-      "callsign": "BLY442",
-      "departure": "-",
-      "destination": "-",
-      "aircraft": "-",
-      "first_seen_utc": "2026-04-05T06:20:16Z",
-      "last_seen_utc": "2026-04-05T06:20:16Z",
-      "seen_count": 1
     }
   ]
 }
