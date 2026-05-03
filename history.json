@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-03T19:20:17Z",
+  "updated_utc": "2026-05-03T19:25:17Z",
   "flights": [
     {
       "key": "dbe1f12f9a069d90dbce4b4910a045c960698c47",
@@ -9,8 +9,8 @@
       "destination": "EGCC",
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-05-03T18:55:12Z",
-      "last_seen_utc": "2026-05-03T19:20:17Z",
-      "seen_count": 6
+      "last_seen_utc": "2026-05-03T19:25:17Z",
+      "seen_count": 7
     },
     {
       "key": "c0f1b4f9ffffe72ff7309d29fd7e0ef87011a91e",
