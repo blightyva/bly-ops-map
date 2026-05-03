@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-03T11:25:17Z",
+  "updated_utc": "2026-05-03T11:30:22Z",
   "flights": [
     {
       "key": "b299a206459a35ca4237ca0e3732182c5811294b",
@@ -9,8 +9,19 @@
       "destination": "EPWR",
       "aircraft": "A321/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-05-03T09:05:11Z",
-      "last_seen_utc": "2026-05-03T11:25:17Z",
-      "seen_count": 32
+      "last_seen_utc": "2026-05-03T11:30:22Z",
+      "seen_count": 33
+    },
+    {
+      "key": "a99d1cca991e77282f7deb76b8735035535c866b",
+      "base": "BLY5795|EGAA|EGCC|A320/M-SDE2E3FGHIJ1RWXYZ/LB1",
+      "callsign": "BLY5795",
+      "departure": "EGAA",
+      "destination": "EGCC",
+      "aircraft": "A320/M-SDE2E3FGHIJ1RWXYZ/LB1",
+      "first_seen_utc": "2026-05-03T11:30:22Z",
+      "last_seen_utc": "2026-05-03T11:30:22Z",
+      "seen_count": 1
     },
     {
       "key": "f43f0704c4f505f6dcdd16c393ee5f35082793d8",
