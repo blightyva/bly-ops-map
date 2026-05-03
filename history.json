@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-03T09:55:12Z",
+  "updated_utc": "2026-05-03T10:00:30Z",
   "flights": [
     {
       "key": "b299a206459a35ca4237ca0e3732182c5811294b",
@@ -9,8 +9,19 @@
       "destination": "EPWR",
       "aircraft": "A321/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-05-03T09:05:11Z",
-      "last_seen_utc": "2026-05-03T09:55:12Z",
-      "seen_count": 12
+      "last_seen_utc": "2026-05-03T10:00:30Z",
+      "seen_count": 13
+    },
+    {
+      "key": "71b9974e8327685d384304369ca09009fa748fb4",
+      "base": "BLY945T|-|-|-",
+      "callsign": "BLY945T",
+      "departure": "-",
+      "destination": "-",
+      "aircraft": "-",
+      "first_seen_utc": "2026-05-03T10:00:30Z",
+      "last_seen_utc": "2026-05-03T10:00:30Z",
+      "seen_count": 1
     },
     {
       "key": "0649d9e9ae2fce0ce5e5223566ce18298f05e74f",
