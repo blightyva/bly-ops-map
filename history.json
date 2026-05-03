@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-03T11:20:15Z",
+  "updated_utc": "2026-05-03T11:25:17Z",
   "flights": [
     {
       "key": "b299a206459a35ca4237ca0e3732182c5811294b",
@@ -9,8 +9,8 @@
       "destination": "EPWR",
       "aircraft": "A321/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-05-03T09:05:11Z",
-      "last_seen_utc": "2026-05-03T11:20:15Z",
-      "seen_count": 31
+      "last_seen_utc": "2026-05-03T11:25:17Z",
+      "seen_count": 32
     },
     {
       "key": "f43f0704c4f505f6dcdd16c393ee5f35082793d8",
@@ -20,8 +20,8 @@
       "destination": "EGAA",
       "aircraft": "A320/M-SDE2E3FGHIJ1RWXYZ/LB1",
       "first_seen_utc": "2026-05-03T10:05:12Z",
-      "last_seen_utc": "2026-05-03T11:20:15Z",
-      "seen_count": 18
+      "last_seen_utc": "2026-05-03T11:25:17Z",
+      "seen_count": 19
     },
     {
       "key": "71b9974e8327685d384304369ca09009fa748fb4",
