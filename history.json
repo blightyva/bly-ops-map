@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-04T11:35:18Z",
+  "updated_utc": "2026-05-04T11:40:15Z",
   "flights": [
     {
       "key": "3a3504ddbba97bb7d17e5749b704a5726026d13d",
@@ -9,8 +9,8 @@
       "destination": "LOWS",
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-05-04T10:30:24Z",
-      "last_seen_utc": "2026-05-04T11:35:18Z",
-      "seen_count": 15
+      "last_seen_utc": "2026-05-04T11:40:15Z",
+      "seen_count": 16
     },
     {
       "key": "113c62bf05f9aa35e8bcd705c7fccdfddf2a3d7c",
@@ -20,8 +20,8 @@
       "destination": "LOWS",
       "aircraft": "A319/M-SDE2E3FGHIJ1RWXYZ/LB1",
       "first_seen_utc": "2026-05-04T10:35:12Z",
-      "last_seen_utc": "2026-05-04T11:35:18Z",
-      "seen_count": 14
+      "last_seen_utc": "2026-05-04T11:40:15Z",
+      "seen_count": 15
     },
     {
       "key": "68ac32f61b1fc30bf17d361de72fe062bcc96fbe",
