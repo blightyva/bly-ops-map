@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-04T12:45:24Z",
+  "updated_utc": "2026-05-04T12:50:22Z",
   "flights": [
     {
       "key": "3a3504ddbba97bb7d17e5749b704a5726026d13d",
@@ -9,8 +9,8 @@
       "destination": "LOWS",
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-05-04T10:30:24Z",
-      "last_seen_utc": "2026-05-04T12:45:24Z",
-      "seen_count": 29
+      "last_seen_utc": "2026-05-04T12:50:22Z",
+      "seen_count": 30
     },
     {
       "key": "113c62bf05f9aa35e8bcd705c7fccdfddf2a3d7c",
