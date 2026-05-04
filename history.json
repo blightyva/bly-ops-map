@@ -1,17 +1,6 @@
 {
-  "updated_utc": "2026-05-04T15:35:18Z",
+  "updated_utc": "2026-05-04T15:40:24Z",
   "flights": [
-    {
-      "key": "be96021430c5aec08116d4b4cb3abb135771262d",
-      "base": "BLY2120|EGCC|EGPH|A320/M-VGDW/C",
-      "callsign": "BLY2120",
-      "departure": "EGCC",
-      "destination": "EGPH",
-      "aircraft": "A320/M-VGDW/C",
-      "first_seen_utc": "2026-05-04T14:10:25Z",
-      "last_seen_utc": "2026-05-04T15:35:18Z",
-      "seen_count": 18
-    },
     {
       "key": "cdf64ea8ec2793aa5e6fca545de7dfb3f8dc5eba",
       "base": "BLY7464|EGCC|EGSH|A320/M-SDE3FGHIRWY/LB1",
@@ -19,6 +8,17 @@
       "departure": "EGCC",
       "destination": "EGSH",
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-05-04T14:10:25Z",
+      "last_seen_utc": "2026-05-04T15:40:24Z",
+      "seen_count": 19
+    },
+    {
+      "key": "be96021430c5aec08116d4b4cb3abb135771262d",
+      "base": "BLY2120|EGCC|EGPH|A320/M-VGDW/C",
+      "callsign": "BLY2120",
+      "departure": "EGCC",
+      "destination": "EGPH",
+      "aircraft": "A320/M-VGDW/C",
       "first_seen_utc": "2026-05-04T14:10:25Z",
       "last_seen_utc": "2026-05-04T15:35:18Z",
       "seen_count": 18
