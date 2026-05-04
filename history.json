@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-04T16:40:16Z",
+  "updated_utc": "2026-05-04T16:45:26Z",
   "flights": [
     {
       "key": "3bdf415a41eb5225fca016e3d48aa2c50fe9a907",
@@ -9,8 +9,8 @@
       "destination": "EGPD",
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-05-04T16:30:30Z",
-      "last_seen_utc": "2026-05-04T16:40:16Z",
-      "seen_count": 3
+      "last_seen_utc": "2026-05-04T16:45:26Z",
+      "seen_count": 4
     },
     {
       "key": "12140aed83ce5fe3a27e86c8e56dfd8589e776df",
