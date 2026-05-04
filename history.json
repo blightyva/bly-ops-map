@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-04T10:20:21Z",
+  "updated_utc": "2026-05-04T10:25:12Z",
   "flights": [
     {
       "key": "68ac32f61b1fc30bf17d361de72fe062bcc96fbe",
@@ -9,8 +9,19 @@
       "destination": "EGCC",
       "aircraft": "A321/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-05-04T08:40:22Z",
-      "last_seen_utc": "2026-05-04T10:20:21Z",
-      "seen_count": 22
+      "last_seen_utc": "2026-05-04T10:25:12Z",
+      "seen_count": 23
+    },
+    {
+      "key": "7871a8fc9d078ff190876e3cac5d1464613d4bff",
+      "base": "BLY19F|-|-|-",
+      "callsign": "BLY19F",
+      "departure": "-",
+      "destination": "-",
+      "aircraft": "-",
+      "first_seen_utc": "2026-05-04T10:25:12Z",
+      "last_seen_utc": "2026-05-04T10:25:12Z",
+      "seen_count": 1
     },
     {
       "key": "df64debd294dafc34aa73a2c891502ddebb3c676",
