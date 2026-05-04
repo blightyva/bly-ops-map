@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-04T10:30:24Z",
+  "updated_utc": "2026-05-04T10:35:12Z",
   "flights": [
     {
       "key": "68ac32f61b1fc30bf17d361de72fe062bcc96fbe",
@@ -9,8 +9,8 @@
       "destination": "EGCC",
       "aircraft": "A321/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-05-04T08:40:22Z",
-      "last_seen_utc": "2026-05-04T10:30:24Z",
-      "seen_count": 24
+      "last_seen_utc": "2026-05-04T10:35:12Z",
+      "seen_count": 25
     },
     {
       "key": "3a3504ddbba97bb7d17e5749b704a5726026d13d",
@@ -20,7 +20,18 @@
       "destination": "LOWS",
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-05-04T10:30:24Z",
-      "last_seen_utc": "2026-05-04T10:30:24Z",
+      "last_seen_utc": "2026-05-04T10:35:12Z",
+      "seen_count": 2
+    },
+    {
+      "key": "113c62bf05f9aa35e8bcd705c7fccdfddf2a3d7c",
+      "base": "BLY6WS|EGCC|LOWS|A319/M-SDE2E3FGHIJ1RWXYZ/LB1",
+      "callsign": "BLY6WS",
+      "departure": "EGCC",
+      "destination": "LOWS",
+      "aircraft": "A319/M-SDE2E3FGHIJ1RWXYZ/LB1",
+      "first_seen_utc": "2026-05-04T10:35:12Z",
+      "last_seen_utc": "2026-05-04T10:35:12Z",
       "seen_count": 1
     },
     {
