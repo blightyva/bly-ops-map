@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-05T17:50:23Z",
+  "updated_utc": "2026-05-05T17:54:17Z",
   "flights": [
     {
       "key": "ac0af6bdc3419266460002b582cbe5158c883c45",
@@ -9,8 +9,8 @@
       "destination": "EGNX",
       "aircraft": "RJ1H/M-SDFGIRWY/LB1",
       "first_seen_utc": "2026-05-05T17:50:23Z",
-      "last_seen_utc": "2026-05-05T17:50:23Z",
-      "seen_count": 1
+      "last_seen_utc": "2026-05-05T17:54:17Z",
+      "seen_count": 2
     },
     {
       "key": "2a46389feaaa200c7915f8e1f081448fdfd8e701",
