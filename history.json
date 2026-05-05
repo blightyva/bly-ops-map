@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-05T10:15:16Z",
+  "updated_utc": "2026-05-05T10:20:23Z",
   "flights": [
     {
       "key": "2a46389feaaa200c7915f8e1f081448fdfd8e701",
@@ -9,8 +9,8 @@
       "destination": "LDDU",
       "aircraft": "A321/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-05-05T07:45:17Z",
-      "last_seen_utc": "2026-05-05T10:15:16Z",
-      "seen_count": 31
+      "last_seen_utc": "2026-05-05T10:20:23Z",
+      "seen_count": 32
     },
     {
       "key": "fdb1d765b3938d60bc2f19f467cb03f21228bb02",
