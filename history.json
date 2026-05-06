@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-06T13:05:14Z",
+  "updated_utc": "2026-05-06T13:10:18Z",
   "flights": [
     {
       "key": "15f23dbf70bbef92e4296ff8c75a3676210b35e9",
@@ -9,8 +9,8 @@
       "destination": "EGGP",
       "aircraft": "E75L/M-SDE3GILORVW/S",
       "first_seen_utc": "2026-05-06T12:55:22Z",
-      "last_seen_utc": "2026-05-06T13:05:14Z",
-      "seen_count": 3
+      "last_seen_utc": "2026-05-06T13:10:18Z",
+      "seen_count": 4
     },
     {
       "key": "fd44441aabbda8fcb858db173f373764f48106d6",
