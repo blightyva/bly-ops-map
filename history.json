@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-06T21:55:12Z",
+  "updated_utc": "2026-05-06T22:00:35Z",
   "flights": [
     {
       "key": "65d4d1fb756605614911584315697d62390be1e6",
@@ -2145,17 +2145,6 @@
       "first_seen_utc": "2026-04-09T18:20:17Z",
       "last_seen_utc": "2026-04-09T18:25:13Z",
       "seen_count": 2
-    },
-    {
-      "key": "e4e98247ff2556a92d3ecfea6ac20304ba4056d5",
-      "base": "BLY1146|EGGP|EGSS|A321/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY1146",
-      "departure": "EGGP",
-      "destination": "EGSS",
-      "aircraft": "A321/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-04-08T21:05:15Z",
-      "last_seen_utc": "2026-04-08T22:00:34Z",
-      "seen_count": 13
     }
   ]
 }
