@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-06T11:35:14Z",
+  "updated_utc": "2026-05-06T11:40:17Z",
   "flights": [
     {
       "key": "fd44441aabbda8fcb858db173f373764f48106d6",
@@ -9,8 +9,8 @@
       "destination": "EGAE",
       "aircraft": "E75L/M-SDE3GILORVW/S",
       "first_seen_utc": "2026-05-06T11:10:18Z",
-      "last_seen_utc": "2026-05-06T11:35:14Z",
-      "seen_count": 6
+      "last_seen_utc": "2026-05-06T11:40:17Z",
+      "seen_count": 7
     },
     {
       "key": "bda542ff3548eda9e0e0a26f89960f61e2bad8ca",
