@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-07T18:20:30Z",
+  "updated_utc": "2026-05-07T18:25:14Z",
   "flights": [
     {
       "key": "65d4d1fb756605614911584315697d62390be1e6",
@@ -2134,17 +2134,6 @@
       "first_seen_utc": "2026-04-09T18:55:14Z",
       "last_seen_utc": "2026-04-09T20:20:18Z",
       "seen_count": 19
-    },
-    {
-      "key": "6b010e8355441a8a0199beecbec58338f695a3e9",
-      "base": "BLY2147|EGSS|EGCC|A321/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY2147",
-      "departure": "EGSS",
-      "destination": "EGCC",
-      "aircraft": "A321/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-04-09T18:20:17Z",
-      "last_seen_utc": "2026-04-09T18:25:13Z",
-      "seen_count": 2
     }
   ]
 }
