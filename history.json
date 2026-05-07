@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-07T21:25:13Z",
+  "updated_utc": "2026-05-07T21:30:29Z",
   "flights": [
     {
       "key": "c7a4b3ca62c855539812bb98e63f2f44da3f85af",
@@ -9,8 +9,8 @@
       "destination": "EGPH",
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-05-07T20:40:15Z",
-      "last_seen_utc": "2026-05-07T21:25:13Z",
-      "seen_count": 11
+      "last_seen_utc": "2026-05-07T21:30:29Z",
+      "seen_count": 12
     },
     {
       "key": "65d4d1fb756605614911584315697d62390be1e6",
@@ -2101,28 +2101,6 @@
       "first_seen_utc": "2026-04-09T20:35:15Z",
       "last_seen_utc": "2026-04-09T22:35:13Z",
       "seen_count": 27
-    },
-    {
-      "key": "3a0ed89fd4d3683252ec40a643fb41baa8982ab5",
-      "base": "BLY286M|EGCC|LSGG|A321/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY286M",
-      "departure": "EGCC",
-      "destination": "LSGG",
-      "aircraft": "A321/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-04-09T20:55:15Z",
-      "last_seen_utc": "2026-04-09T21:25:13Z",
-      "seen_count": 7
-    },
-    {
-      "key": "f24c8eb8e0ab29d0be07ce4dc322d89236d8f019",
-      "base": "BLY222W|EGCC|LSGG|A320/M-SDE2E3FGHIJ1RWXYZ/LB1",
-      "callsign": "BLY222W",
-      "departure": "EGCC",
-      "destination": "LSGG",
-      "aircraft": "A320/M-SDE2E3FGHIJ1RWXYZ/LB1",
-      "first_seen_utc": "2026-04-09T20:55:15Z",
-      "last_seen_utc": "2026-04-09T21:25:13Z",
-      "seen_count": 7
     }
   ]
 }
