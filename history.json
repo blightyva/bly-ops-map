@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-07T23:45:16Z",
+  "updated_utc": "2026-05-07T23:50:15Z",
   "flights": [
     {
       "key": "ee9137ff29e5ed056be3d119d3f2bbad723b99de",
@@ -2090,17 +2090,6 @@
       "first_seen_utc": "2026-04-09T21:45:19Z",
       "last_seen_utc": "2026-04-10T00:45:18Z",
       "seen_count": 39
-    },
-    {
-      "key": "599a35981d3a542e0a1e109adc0153194ecb7f87",
-      "base": "BLY287M|LSGG|EGCC|A321/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY287M",
-      "departure": "LSGG",
-      "destination": "EGCC",
-      "aircraft": "A321/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-04-09T21:28:57Z",
-      "last_seen_utc": "2026-04-09T23:45:17Z",
-      "seen_count": 31
     }
   ]
 }
