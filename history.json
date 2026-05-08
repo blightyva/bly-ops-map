@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-08T13:50:22Z",
+  "updated_utc": "2026-05-08T13:55:22Z",
   "flights": [
     {
       "key": "6fcd1690d4c2d51998b1f5ba24f763badec6c7b4",
@@ -9,8 +9,8 @@
       "destination": "EINN",
       "aircraft": "A21N/M-SDE2E3FGHIRWXY/LB1",
       "first_seen_utc": "2026-05-08T11:55:19Z",
-      "last_seen_utc": "2026-05-08T13:50:22Z",
-      "seen_count": 24
+      "last_seen_utc": "2026-05-08T13:55:22Z",
+      "seen_count": 25
     },
     {
       "key": "4ad375ee0793a1c7b3cc37c23be5fc7ec3a519f4",
@@ -20,8 +20,8 @@
       "destination": "EINN",
       "aircraft": "A319/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-05-08T11:50:15Z",
-      "last_seen_utc": "2026-05-08T13:50:22Z",
-      "seen_count": 24
+      "last_seen_utc": "2026-05-08T13:55:22Z",
+      "seen_count": 25
     },
     {
       "key": "36199fe49486c3fb4268309503cf3eebdeb68d1b",
