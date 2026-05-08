@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-05-08T11:35:19Z",
+  "updated_utc": "2026-05-08T11:40:22Z",
   "flights": [
+    {
+      "key": "36199fe49486c3fb4268309503cf3eebdeb68d1b",
+      "base": "BLY20CG|CYYZ|EINN|A320/M-V/N",
+      "callsign": "BLY20CG",
+      "departure": "CYYZ",
+      "destination": "EINN",
+      "aircraft": "A320/M-V/N",
+      "first_seen_utc": "2026-05-08T11:40:22Z",
+      "last_seen_utc": "2026-05-08T11:40:22Z",
+      "seen_count": 1
+    },
     {
       "key": "7fd62f7927ef8c17bc5fecb5a8d63d9b8e7044ea",
       "base": "BLY212|EGCC|EIDW|A320/M-SDE3FGHIRWY/LB1",
