@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-08T11:40:22Z",
+  "updated_utc": "2026-05-08T11:45:17Z",
   "flights": [
     {
       "key": "36199fe49486c3fb4268309503cf3eebdeb68d1b",
@@ -9,8 +9,8 @@
       "destination": "EINN",
       "aircraft": "A320/M-V/N",
       "first_seen_utc": "2026-05-08T11:40:22Z",
-      "last_seen_utc": "2026-05-08T11:40:22Z",
-      "seen_count": 1
+      "last_seen_utc": "2026-05-08T11:45:17Z",
+      "seen_count": 2
     },
     {
       "key": "7fd62f7927ef8c17bc5fecb5a8d63d9b8e7044ea",
