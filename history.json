@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-08T00:40:22Z",
+  "updated_utc": "2026-05-08T00:45:22Z",
   "flights": [
     {
       "key": "ee9137ff29e5ed056be3d119d3f2bbad723b99de",
@@ -2068,28 +2068,6 @@
       "first_seen_utc": "2026-04-10T11:55:15Z",
       "last_seen_utc": "2026-04-10T14:55:17Z",
       "seen_count": 40
-    },
-    {
-      "key": "1bbe8b9f72a696a73e0f1674d74e0bd4d999ba56",
-      "base": "BLY2222|LSGG|EGCC|A320/M-SDE2E3FGHIJ1RWXYZ/LB1",
-      "callsign": "BLY2222",
-      "departure": "LSGG",
-      "destination": "EGCC",
-      "aircraft": "A320/M-SDE2E3FGHIJ1RWXYZ/LB1",
-      "first_seen_utc": "2026-04-09T21:28:57Z",
-      "last_seen_utc": "2026-04-10T00:45:18Z",
-      "seen_count": 43
-    },
-    {
-      "key": "61ea41574f3cdd29d5655660df741fb1355e1130",
-      "base": "BLY3115|BIIS|EGGP|A319/M-V/N",
-      "callsign": "BLY3115",
-      "departure": "BIIS",
-      "destination": "EGGP",
-      "aircraft": "A319/M-V/N",
-      "first_seen_utc": "2026-04-09T21:45:19Z",
-      "last_seen_utc": "2026-04-10T00:45:18Z",
-      "seen_count": 39
     }
   ]
 }
