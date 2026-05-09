@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-09T20:25:13Z",
+  "updated_utc": "2026-05-09T20:29:13Z",
   "flights": [
     {
       "key": "6f7162ab4d677e25475a7e5040e57d78e3e36bcb",
@@ -9,8 +9,8 @@
       "destination": "EGNS",
       "aircraft": "E75L/M-SDE3GILORVW/S",
       "first_seen_utc": "2026-05-09T19:40:17Z",
-      "last_seen_utc": "2026-05-09T20:25:13Z",
-      "seen_count": 11
+      "last_seen_utc": "2026-05-09T20:29:13Z",
+      "seen_count": 12
     },
     {
       "key": "4b87b2113836631880e8a38f608832ac6994b07b",
@@ -20,8 +20,8 @@
       "destination": "EGFF",
       "aircraft": "AT76/M-VGD/C",
       "first_seen_utc": "2026-05-09T20:00:31Z",
-      "last_seen_utc": "2026-05-09T20:25:13Z",
-      "seen_count": 6
+      "last_seen_utc": "2026-05-09T20:29:13Z",
+      "seen_count": 7
     },
     {
       "key": "6e46cf422e751d0d714bbdc007699d9ddbd44147",
