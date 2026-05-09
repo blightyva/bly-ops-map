@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-09T20:45:16Z",
+  "updated_utc": "2026-05-09T20:50:15Z",
   "flights": [
     {
       "key": "4b87b2113836631880e8a38f608832ac6994b07b",
@@ -9,8 +9,8 @@
       "destination": "EGFF",
       "aircraft": "AT76/M-VGD/C",
       "first_seen_utc": "2026-05-09T20:00:31Z",
-      "last_seen_utc": "2026-05-09T20:45:16Z",
-      "seen_count": 11
+      "last_seen_utc": "2026-05-09T20:50:15Z",
+      "seen_count": 12
     },
     {
       "key": "01ee7499fff13111eeda06e39db18b795b5009e0",
@@ -20,8 +20,8 @@
       "destination": "EGGP",
       "aircraft": "E75L/M-SDE3GILORVW/S",
       "first_seen_utc": "2026-05-09T20:40:20Z",
-      "last_seen_utc": "2026-05-09T20:45:16Z",
-      "seen_count": 2
+      "last_seen_utc": "2026-05-09T20:50:15Z",
+      "seen_count": 3
     },
     {
       "key": "5f53d4329221e28f34503824dbe5b12d3c08636e",
@@ -31,8 +31,8 @@
       "destination": "EGNT",
       "aircraft": "A321/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-05-09T20:45:16Z",
-      "last_seen_utc": "2026-05-09T20:45:16Z",
-      "seen_count": 1
+      "last_seen_utc": "2026-05-09T20:50:15Z",
+      "seen_count": 2
     },
     {
       "key": "83a305700a1d6fea77e2f18e934144a2baf5dfb9",
@@ -42,8 +42,8 @@
       "destination": "EGCC",
       "aircraft": "F28/M-SDFIRWY/H",
       "first_seen_utc": "2026-05-09T20:45:16Z",
-      "last_seen_utc": "2026-05-09T20:45:16Z",
-      "seen_count": 1
+      "last_seen_utc": "2026-05-09T20:50:15Z",
+      "seen_count": 2
     },
     {
       "key": "5aa298d3b6e84bb08e7f59d13ee7f2648e98fa42",
