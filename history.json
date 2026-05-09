@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-09T23:45:16Z",
+  "updated_utc": "2026-05-09T23:50:16Z",
   "flights": [
     {
       "key": "d789682d40bdd77be62b2bfbbe5d62683a3462f1",
@@ -9,8 +9,8 @@
       "destination": "EGGP",
       "aircraft": "E75L/M-SDE3GILORVW/S",
       "first_seen_utc": "2026-05-09T22:55:12Z",
-      "last_seen_utc": "2026-05-09T23:45:16Z",
-      "seen_count": 12
+      "last_seen_utc": "2026-05-09T23:50:16Z",
+      "seen_count": 13
     },
     {
       "key": "45d6b0f3c845c1ed266ddf951bd01bc8a6d9212a",
@@ -20,8 +20,8 @@
       "destination": "EGGP",
       "aircraft": "F28/M-SDFIRWY/H",
       "first_seen_utc": "2026-05-09T23:00:33Z",
-      "last_seen_utc": "2026-05-09T23:45:16Z",
-      "seen_count": 11
+      "last_seen_utc": "2026-05-09T23:50:16Z",
+      "seen_count": 12
     },
     {
       "key": "177e6086d23bc2c6491529987438da0ac208729a",
@@ -2277,17 +2277,6 @@
       "first_seen_utc": "2026-04-12T08:06:54Z",
       "last_seen_utc": "2026-04-12T08:55:13Z",
       "seen_count": 11
-    },
-    {
-      "key": "1751027b36dfa94affe4549771894004f830d559",
-      "base": "BLY1249|EGGP|LGIR|B738/M-SDE2E3FGHIRWXY/LB1",
-      "callsign": "BLY1249",
-      "departure": "EGGP",
-      "destination": "LGIR",
-      "aircraft": "B738/M-SDE2E3FGHIRWXY/LB1",
-      "first_seen_utc": "2026-04-11T23:15:19Z",
-      "last_seen_utc": "2026-04-11T23:45:17Z",
-      "seen_count": 8
     }
   ]
 }
