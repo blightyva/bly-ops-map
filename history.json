@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-09T09:30:22Z",
+  "updated_utc": "2026-05-09T09:35:11Z",
   "flights": [
     {
       "key": "81c8b15b0307ecc7bd31b9890d761e3e13b541ed",
@@ -9,8 +9,8 @@
       "destination": "EDDM",
       "aircraft": "A321/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-05-09T09:30:22Z",
-      "last_seen_utc": "2026-05-09T09:30:22Z",
-      "seen_count": 1
+      "last_seen_utc": "2026-05-09T09:35:11Z",
+      "seen_count": 2
     },
     {
       "key": "a3aa71c4c133a22df2425d2cb34ac3c915ce0fd9",
