@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-09T17:40:16Z",
+  "updated_utc": "2026-05-09T17:45:18Z",
   "flights": [
     {
       "key": "8313dae979f394e9fd5389a53df2ab2fe591c52a",
@@ -9,8 +9,8 @@
       "destination": "EGCC",
       "aircraft": "A321/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-05-09T15:30:23Z",
-      "last_seen_utc": "2026-05-09T17:40:16Z",
-      "seen_count": 30
+      "last_seen_utc": "2026-05-09T17:45:18Z",
+      "seen_count": 31
     },
     {
       "key": "725e0954b61f0c10f15f00efcb7e0bda5600227d",
@@ -20,8 +20,8 @@
       "destination": "EGJJ",
       "aircraft": "A320/M-VGDW/C",
       "first_seen_utc": "2026-05-09T17:30:24Z",
-      "last_seen_utc": "2026-05-09T17:40:16Z",
-      "seen_count": 4
+      "last_seen_utc": "2026-05-09T17:45:18Z",
+      "seen_count": 5
     },
     {
       "key": "c7b371b254411b12b22fd69a21112aa167277c37",
@@ -2177,17 +2177,6 @@
       "aircraft": "B738/M-SDE2E3FGHIRWXY/LB1",
       "first_seen_utc": "2026-04-11T18:10:17Z",
       "last_seen_utc": "2026-04-11T18:10:17Z",
-      "seen_count": 1
-    },
-    {
-      "key": "79505372cd05b7d9b98d91de09c1965e6d342ed0",
-      "base": "BLY7159|-|-|-",
-      "callsign": "BLY7159",
-      "departure": "-",
-      "destination": "-",
-      "aircraft": "-",
-      "first_seen_utc": "2026-04-11T17:40:18Z",
-      "last_seen_utc": "2026-04-11T17:40:18Z",
       "seen_count": 1
     }
   ]
