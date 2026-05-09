@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-09T14:40:15Z",
+  "updated_utc": "2026-05-09T14:45:17Z",
   "flights": [
     {
       "key": "c7b371b254411b12b22fd69a21112aa167277c37",
@@ -9,8 +9,8 @@
       "destination": "EGKK",
       "aircraft": "A319/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-05-09T14:35:18Z",
-      "last_seen_utc": "2026-05-09T14:40:15Z",
-      "seen_count": 3
+      "last_seen_utc": "2026-05-09T14:45:17Z",
+      "seen_count": 4
     },
     {
       "key": "81c8b15b0307ecc7bd31b9890d761e3e13b541ed",
@@ -2167,17 +2167,6 @@
       "first_seen_utc": "2026-04-11T17:40:18Z",
       "last_seen_utc": "2026-04-11T17:40:18Z",
       "seen_count": 1
-    },
-    {
-      "key": "dacd38db4b7514d06cd7a37af832d3ae8b0a7020",
-      "base": "BLY328A|LIEA|EGCC|A319/M-SDE2E3FGHIJ1RWXYZ/LB1",
-      "callsign": "BLY328A",
-      "departure": "LIEA",
-      "destination": "EGCC",
-      "aircraft": "A319/M-SDE2E3FGHIJ1RWXYZ/LB1",
-      "first_seen_utc": "2026-04-11T11:30:28Z",
-      "last_seen_utc": "2026-04-11T14:40:16Z",
-      "seen_count": 43
     }
   ]
 }
