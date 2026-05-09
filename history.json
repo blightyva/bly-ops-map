@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-09T19:25:12Z",
+  "updated_utc": "2026-05-09T19:30:25Z",
   "flights": [
     {
       "key": "6e46cf422e751d0d714bbdc007699d9ddbd44147",
@@ -9,8 +9,8 @@
       "destination": "EGLC",
       "aircraft": "F28/M-SDFIRWY/H",
       "first_seen_utc": "2026-05-09T18:50:16Z",
-      "last_seen_utc": "2026-05-09T19:25:12Z",
-      "seen_count": 8
+      "last_seen_utc": "2026-05-09T19:30:25Z",
+      "seen_count": 9
     },
     {
       "key": "7fe125980779361e31760944d04f7ee475b6ac65",
