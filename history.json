@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-10T12:20:14Z",
+  "updated_utc": "2026-05-10T12:25:12Z",
   "flights": [
     {
       "key": "16cb966c450a3048892e12afbd22c297d4538624",
@@ -9,8 +9,8 @@
       "destination": "EGSH",
       "aircraft": "E75L/M-SDE3GILORVW/S",
       "first_seen_utc": "2026-05-10T11:29:59Z",
-      "last_seen_utc": "2026-05-10T12:20:14Z",
-      "seen_count": 12
+      "last_seen_utc": "2026-05-10T12:25:12Z",
+      "seen_count": 13
     },
     {
       "key": "74a249cb071511991526a80d885235ddd87eb883",
