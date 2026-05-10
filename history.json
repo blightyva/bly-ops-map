@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-10T12:34:20Z",
+  "updated_utc": "2026-05-10T12:35:17Z",
   "flights": [
     {
       "key": "37d5e4152b2357ba55d70e9cdb1c0c1b611ee6aa",
@@ -9,8 +9,8 @@
       "destination": "EGNV",
       "aircraft": "A319/M-SDE2E3FGHIJ1RWXYZ/LB1",
       "first_seen_utc": "2026-05-10T12:30:30Z",
-      "last_seen_utc": "2026-05-10T12:34:20Z",
-      "seen_count": 2
+      "last_seen_utc": "2026-05-10T12:35:17Z",
+      "seen_count": 3
     },
     {
       "key": "c3fa57cc20190514f1e769790dc1016ea2d59d2b",
@@ -20,8 +20,8 @@
       "destination": "EGGP",
       "aircraft": "E75L/M-SDE3GILORVW/S",
       "first_seen_utc": "2026-05-10T12:30:30Z",
-      "last_seen_utc": "2026-05-10T12:34:20Z",
-      "seen_count": 2
+      "last_seen_utc": "2026-05-10T12:35:17Z",
+      "seen_count": 3
     },
     {
       "key": "16cb966c450a3048892e12afbd22c297d4538624",
