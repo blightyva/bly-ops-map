@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-05-10T11:20:21Z",
+  "updated_utc": "2026-05-10T11:25:13Z",
   "flights": [
+    {
+      "key": "74a249cb071511991526a80d885235ddd87eb883",
+      "base": "BLY15CG|EGNT|EGGP|A320/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY15CG",
+      "departure": "EGNT",
+      "destination": "EGGP",
+      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-05-10T11:25:13Z",
+      "last_seen_utc": "2026-05-10T11:25:13Z",
+      "seen_count": 1
+    },
     {
       "key": "f59a4ac2b91d84b4952e83154c831425c5ecb3cd",
       "base": "BLY8718|EGGP|EGNT|A320/M-SDE3FGHIRWY/LB1",
