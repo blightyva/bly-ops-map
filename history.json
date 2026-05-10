@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-05-10T10:35:11Z",
+  "updated_utc": "2026-05-10T10:40:14Z",
   "flights": [
+    {
+      "key": "f59a4ac2b91d84b4952e83154c831425c5ecb3cd",
+      "base": "BLY8718|EGGP|EGNT|A320/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY8718",
+      "departure": "EGGP",
+      "destination": "EGNT",
+      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-05-10T10:40:14Z",
+      "last_seen_utc": "2026-05-10T10:40:14Z",
+      "seen_count": 1
+    },
     {
       "key": "45d6b0f3c845c1ed266ddf951bd01bc8a6d9212a",
       "base": "BLY3|EGNT|EGGP|F28/M-SDFIRWY/H",
@@ -2255,17 +2266,6 @@
       "first_seen_utc": "2026-04-12T13:40:17Z",
       "last_seen_utc": "2026-04-12T16:20:17Z",
       "seen_count": 36
-    },
-    {
-      "key": "39ec5fc8202821d37c2ecc137b0f3fc0c85f9839",
-      "base": "BLY7464|LEBL|EGCC|B772/H-SDE2E3FGHIJ5LORVWXY/LB1D1",
-      "callsign": "BLY7464",
-      "departure": "LEBL",
-      "destination": "EGCC",
-      "aircraft": "B772/H-SDE2E3FGHIJ5LORVWXY/LB1D1",
-      "first_seen_utc": "2026-04-12T07:55:14Z",
-      "last_seen_utc": "2026-04-12T10:35:14Z",
-      "seen_count": 32
     }
   ]
 }
