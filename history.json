@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-10T20:50:13Z",
+  "updated_utc": "2026-05-10T20:55:17Z",
   "flights": [
     {
       "key": "abfca5fcf64e06c22902f8a263b64c3732b66e75",
@@ -9,8 +9,8 @@
       "destination": "EGNT",
       "aircraft": "A319/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-05-10T20:50:13Z",
-      "last_seen_utc": "2026-05-10T20:50:13Z",
-      "seen_count": 1
+      "last_seen_utc": "2026-05-10T20:55:17Z",
+      "seen_count": 2
     },
     {
       "key": "3e2bd631d38ef8a362c08e4b1e0cae9dbd2b12f8",
