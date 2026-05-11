@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-11T22:35:18Z",
+  "updated_utc": "2026-05-11T22:40:22Z",
   "flights": [
     {
       "key": "b72c90a2f7a4d6a944ff1f4f061f8d5d5560c234",
@@ -9,8 +9,8 @@
       "destination": "EGGP",
       "aircraft": "E175/M-SDE3GILORVW/S",
       "first_seen_utc": "2026-05-11T21:35:13Z",
-      "last_seen_utc": "2026-05-11T22:35:18Z",
-      "seen_count": 14
+      "last_seen_utc": "2026-05-11T22:40:22Z",
+      "seen_count": 15
     },
     {
       "key": "7089aa45210c507f5f7c172ec9e1fa562d28477e",
@@ -2409,17 +2409,6 @@
       "first_seen_utc": "2026-04-13T20:35:28Z",
       "last_seen_utc": "2026-04-13T23:15:18Z",
       "seen_count": 30
-    },
-    {
-      "key": "a777bd1d9fa7942ef914b4c019e2874e50444d3a",
-      "base": "BLY2429|CYYZ|EGCC|A343/H-SDE2E3FGHIJ4J5M1RWXY/LB1D1",
-      "callsign": "BLY2429",
-      "departure": "CYYZ",
-      "destination": "EGCC",
-      "aircraft": "A343/H-SDE2E3FGHIJ4J5M1RWXY/LB1D1",
-      "first_seen_utc": "2026-04-13T22:25:14Z",
-      "last_seen_utc": "2026-04-13T22:40:17Z",
-      "seen_count": 4
     }
   ]
 }
