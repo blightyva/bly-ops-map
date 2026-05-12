@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-12T22:20:15Z",
+  "updated_utc": "2026-05-12T22:21:23Z",
   "flights": [
     {
       "key": "68e108b3b8ab265662ddf57edea46edf3cdbb120",
@@ -2420,17 +2420,6 @@
       "first_seen_utc": "2026-04-14T23:45:17Z",
       "last_seen_utc": "2026-04-15T00:40:16Z",
       "seen_count": 13
-    },
-    {
-      "key": "268ec19000b856072f07e8b0b818ce6f209ff5a5",
-      "base": "BLY2561|EDDF|EGCC|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY2561",
-      "departure": "EDDF",
-      "destination": "EGCC",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-04-14T20:20:18Z",
-      "last_seen_utc": "2026-04-14T22:20:17Z",
-      "seen_count": 27
     }
   ]
 }
