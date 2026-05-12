@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-12T14:10:19Z",
+  "updated_utc": "2026-05-12T14:15:27Z",
   "flights": [
     {
       "key": "1b3f45718bf1d64e30f91de106c7c12f2bf5782c",
@@ -9,8 +9,8 @@
       "destination": "EGGP",
       "aircraft": "E175/M-SDE3GILORVW/S",
       "first_seen_utc": "2026-05-12T13:35:48Z",
-      "last_seen_utc": "2026-05-12T14:10:19Z",
-      "seen_count": 8
+      "last_seen_utc": "2026-05-12T14:15:27Z",
+      "seen_count": 9
     },
     {
       "key": "3bf0c5129d78f540a6b5d0d91c42fe1b27353468",
@@ -20,8 +20,8 @@
       "destination": "LEPA",
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-05-12T13:55:29Z",
-      "last_seen_utc": "2026-05-12T14:10:19Z",
-      "seen_count": 4
+      "last_seen_utc": "2026-05-12T14:15:27Z",
+      "seen_count": 5
     },
     {
       "key": "d6bf68049d46f80229886dcdef381253bbaa0ae2",
