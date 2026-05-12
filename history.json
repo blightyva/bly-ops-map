@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-12T22:15:16Z",
+  "updated_utc": "2026-05-12T22:20:15Z",
   "flights": [
     {
       "key": "68e108b3b8ab265662ddf57edea46edf3cdbb120",
@@ -2431,28 +2431,6 @@
       "first_seen_utc": "2026-04-14T20:20:18Z",
       "last_seen_utc": "2026-04-14T22:20:17Z",
       "seen_count": 27
-    },
-    {
-      "key": "acd4012adcc4c971a6e4d461dbcbecbac52efc14",
-      "base": "BLY1231|EDDF|EGGP|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY1231",
-      "departure": "EDDF",
-      "destination": "EGGP",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-04-14T20:05:14Z",
-      "last_seen_utc": "2026-04-14T22:15:17Z",
-      "seen_count": 29
-    },
-    {
-      "key": "9e04fc1f986ca60e9348cef3c233d1fb8452baa0",
-      "base": "BLY22M|EDDF|EGCC|A321/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY22M",
-      "departure": "EDDF",
-      "destination": "EGCC",
-      "aircraft": "A321/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-04-14T20:55:15Z",
-      "last_seen_utc": "2026-04-14T22:15:17Z",
-      "seen_count": 19
     }
   ]
 }
