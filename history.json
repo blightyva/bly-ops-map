@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-13T23:45:15Z",
+  "updated_utc": "2026-05-13T23:50:20Z",
   "flights": [
     {
       "key": "fbbb39e8f30c2371c20da02b043a0486a481e5bb",
@@ -2387,17 +2387,6 @@
       "first_seen_utc": "2026-04-16T09:55:13Z",
       "last_seen_utc": "2026-04-16T10:05:14Z",
       "seen_count": 3
-    },
-    {
-      "key": "a2997ac9bdfb164997f74ca3e10731fedc5a4e31",
-      "base": "BLY2436|EGCC|ZBAA|A359/H-SDE2E3GHIJ3J4J5LM1ORWXY/LB1D1",
-      "callsign": "BLY2436",
-      "departure": "EGCC",
-      "destination": "ZBAA",
-      "aircraft": "A359/H-SDE2E3GHIJ3J4J5LM1ORWXY/LB1D1",
-      "first_seen_utc": "2026-04-15T23:20:16Z",
-      "last_seen_utc": "2026-04-15T23:45:17Z",
-      "seen_count": 6
     }
   ]
 }
