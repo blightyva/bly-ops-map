@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-13T02:45:16Z",
+  "updated_utc": "2026-05-13T02:50:14Z",
   "flights": [
     {
       "key": "68e108b3b8ab265662ddf57edea46edf3cdbb120",
@@ -2398,17 +2398,6 @@
       "first_seen_utc": "2026-04-15T04:55:12Z",
       "last_seen_utc": "2026-04-15T05:15:19Z",
       "seen_count": 5
-    },
-    {
-      "key": "39d1c0f81333f6b8a0f9114cff60d923bff8d738",
-      "base": "BLY3518|EGKK|KSFO|A359/H-SDE2E3GHIJ3J4J5LM1ORWXY/LB1D1",
-      "callsign": "BLY3518",
-      "departure": "EGKK",
-      "destination": "KSFO",
-      "aircraft": "A359/H-SDE2E3GHIJ3J4J5LM1ORWXY/LB1D1",
-      "first_seen_utc": "2026-04-15T01:25:13Z",
-      "last_seen_utc": "2026-04-15T02:45:16Z",
-      "seen_count": 17
     }
   ]
 }
