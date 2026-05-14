@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-14T22:20:19Z",
+  "updated_utc": "2026-05-14T22:25:19Z",
   "flights": [
     {
       "key": "fbbb39e8f30c2371c20da02b043a0486a481e5bb",
@@ -2321,17 +2321,6 @@
       "first_seen_utc": "2026-04-16T23:00:34Z",
       "last_seen_utc": "2026-04-17T00:15:18Z",
       "seen_count": 17
-    },
-    {
-      "key": "26145e8cf24b91fe697ac666f19436627acf09f4",
-      "base": "BLY2142|EGCC|EGLL|A359/H-SDE2E3GHIJ3J4J5LM1ORWXY/LB1D1",
-      "callsign": "BLY2142",
-      "departure": "EGCC",
-      "destination": "EGLL",
-      "aircraft": "A359/H-SDE2E3GHIJ3J4J5LM1ORWXY/LB1D1",
-      "first_seen_utc": "2026-04-16T21:45:19Z",
-      "last_seen_utc": "2026-04-16T22:25:14Z",
-      "seen_count": 10
     }
   ]
 }
