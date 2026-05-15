@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-15T19:05:13Z",
+  "updated_utc": "2026-05-15T19:10:17Z",
   "flights": [
     {
       "key": "fbbb39e8f30c2371c20da02b043a0486a481e5bb",
@@ -2233,17 +2233,6 @@
       "first_seen_utc": "2026-04-17T18:05:15Z",
       "last_seen_utc": "2026-04-17T21:00:37Z",
       "seen_count": 39
-    },
-    {
-      "key": "04703dc642a9468f80cc95dc5c9a8f622a99ece6",
-      "base": "BLY13KM|LFMT|EGKK|A319/M-SDE2E3FGHIJ1RWXYZ/LB1",
-      "callsign": "BLY13KM",
-      "departure": "LFMT",
-      "destination": "EGKK",
-      "aircraft": "A319/M-SDE2E3FGHIJ1RWXYZ/LB1",
-      "first_seen_utc": "2026-04-17T18:50:18Z",
-      "last_seen_utc": "2026-04-17T19:05:14Z",
-      "seen_count": 4
     }
   ]
 }
