@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-15T22:30:23Z",
+  "updated_utc": "2026-05-15T22:35:11Z",
   "flights": [
     {
       "key": "fbbb39e8f30c2371c20da02b043a0486a481e5bb",
@@ -2200,17 +2200,6 @@
       "first_seen_utc": "2026-04-18T09:10:16Z",
       "last_seen_utc": "2026-04-18T11:30:26Z",
       "seen_count": 32
-    },
-    {
-      "key": "e7f6550ffb8a4cbdaf51550a0a57ec126ab1d9af",
-      "base": "BLY443X|-|-|-",
-      "callsign": "BLY443X",
-      "departure": "-",
-      "destination": "-",
-      "aircraft": "-",
-      "first_seen_utc": "2026-04-17T22:30:26Z",
-      "last_seen_utc": "2026-04-17T22:30:26Z",
-      "seen_count": 1
     }
   ]
 }
