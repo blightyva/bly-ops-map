@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-15T22:25:12Z",
+  "updated_utc": "2026-05-15T22:30:23Z",
   "flights": [
     {
       "key": "fbbb39e8f30c2371c20da02b043a0486a481e5bb",
@@ -2211,17 +2211,6 @@
       "first_seen_utc": "2026-04-17T22:30:26Z",
       "last_seen_utc": "2026-04-17T22:30:26Z",
       "seen_count": 1
-    },
-    {
-      "key": "59289f98381095cf87d351302bfd02d76668ab54",
-      "base": "BLY7464|EGCC|EGSS|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY7464",
-      "departure": "EGCC",
-      "destination": "EGSS",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-04-17T21:20:17Z",
-      "last_seen_utc": "2026-04-17T22:25:12Z",
-      "seen_count": 16
     }
   ]
 }
