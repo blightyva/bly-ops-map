@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-15T16:15:20Z",
+  "updated_utc": "2026-05-15T16:20:18Z",
   "flights": [
     {
       "key": "fbbb39e8f30c2371c20da02b043a0486a481e5bb",
@@ -2277,17 +2277,6 @@
       "first_seen_utc": "2026-04-17T16:20:19Z",
       "last_seen_utc": "2026-04-17T16:20:19Z",
       "seen_count": 1
-    },
-    {
-      "key": "f562a68d5dd0f04a2a6b3cc30c666349b255c76c",
-      "base": "BLY333Y|EDDF|EGKK|A319/M-SDE2E3FGHIJ1RWXYZ/LB1",
-      "callsign": "BLY333Y",
-      "departure": "EDDF",
-      "destination": "EGKK",
-      "aircraft": "A319/M-SDE2E3FGHIJ1RWXYZ/LB1",
-      "first_seen_utc": "2026-04-17T14:35:15Z",
-      "last_seen_utc": "2026-04-17T16:15:21Z",
-      "seen_count": 22
     }
   ]
 }
