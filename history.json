@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-15T16:20:18Z",
+  "updated_utc": "2026-05-15T16:25:14Z",
   "flights": [
     {
       "key": "fbbb39e8f30c2371c20da02b043a0486a481e5bb",
@@ -2266,17 +2266,6 @@
       "first_seen_utc": "2026-04-17T15:30:30Z",
       "last_seen_utc": "2026-04-17T16:35:13Z",
       "seen_count": 16
-    },
-    {
-      "key": "c6822488006b29c175b035167c1411086a58d07b",
-      "base": "BLY31MK|-|-|-",
-      "callsign": "BLY31MK",
-      "departure": "-",
-      "destination": "-",
-      "aircraft": "-",
-      "first_seen_utc": "2026-04-17T16:20:19Z",
-      "last_seen_utc": "2026-04-17T16:20:19Z",
-      "seen_count": 1
     }
   ]
 }
