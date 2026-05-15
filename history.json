@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-15T00:15:16Z",
+  "updated_utc": "2026-05-15T00:20:17Z",
   "flights": [
     {
       "key": "fbbb39e8f30c2371c20da02b043a0486a481e5bb",
@@ -2310,17 +2310,6 @@
       "first_seen_utc": "2026-04-17T14:45:22Z",
       "last_seen_utc": "2026-04-17T14:45:22Z",
       "seen_count": 1
-    },
-    {
-      "key": "63becf45ef74f7380b6738470f6a4d6ec90c044c",
-      "base": "BLY20T|RJTT|EGCC|B772/H-SDE2E3FGHIJ5LORVWXY/LB1D1",
-      "callsign": "BLY20T",
-      "departure": "RJTT",
-      "destination": "EGCC",
-      "aircraft": "B772/H-SDE2E3FGHIJ5LORVWXY/LB1D1",
-      "first_seen_utc": "2026-04-16T23:00:34Z",
-      "last_seen_utc": "2026-04-17T00:15:18Z",
-      "seen_count": 17
     }
   ]
 }
