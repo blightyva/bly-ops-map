@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-17T21:45:15Z",
+  "updated_utc": "2026-05-17T21:50:17Z",
   "flights": [
     {
       "key": "a791418f3a847a48e47304594b6145eef31bd281",
@@ -9,8 +9,8 @@
       "destination": "EGJJ",
       "aircraft": "B738/M-SDE2E3FGHIRWXY/LB1",
       "first_seen_utc": "2026-05-17T21:15:16Z",
-      "last_seen_utc": "2026-05-17T21:45:15Z",
-      "seen_count": 8
+      "last_seen_utc": "2026-05-17T21:50:17Z",
+      "seen_count": 9
     },
     {
       "key": "020d4c28d11e60d299d543946f017ae3190002aa",
@@ -20,8 +20,8 @@
       "destination": "EGCC",
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-05-17T21:34:54Z",
-      "last_seen_utc": "2026-05-17T21:45:15Z",
-      "seen_count": 4
+      "last_seen_utc": "2026-05-17T21:50:17Z",
+      "seen_count": 5
     },
     {
       "key": "421b472275aa5a78ea0e4475d16923b28ed914d2",
@@ -2233,17 +2233,6 @@
       "first_seen_utc": "2026-04-19T20:55:13Z",
       "last_seen_utc": "2026-04-19T22:40:18Z",
       "seen_count": 24
-    },
-    {
-      "key": "85ce23546ccd29947b5ed96d7db2f39609fe0474",
-      "base": "BLY98P|LFBE|EGCC|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY98P",
-      "departure": "LFBE",
-      "destination": "EGCC",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-04-19T19:50:17Z",
-      "last_seen_utc": "2026-04-19T21:50:16Z",
-      "seen_count": 28
     }
   ]
 }
