@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-18T18:40:25Z",
+  "updated_utc": "2026-05-18T18:45:19Z",
   "flights": [
     {
       "key": "5e7cce62c713222541e0c3e13eaf0947cec08487",
@@ -9,8 +9,8 @@
       "destination": "EIDW",
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-05-18T18:40:25Z",
-      "last_seen_utc": "2026-05-18T18:40:25Z",
-      "seen_count": 1
+      "last_seen_utc": "2026-05-18T18:45:19Z",
+      "seen_count": 2
     },
     {
       "key": "94264729fc8d07764a0e04398ec25d0319d5976b",
