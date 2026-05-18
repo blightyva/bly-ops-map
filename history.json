@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-18T13:20:18Z",
+  "updated_utc": "2026-05-18T13:25:15Z",
   "flights": [
     {
       "key": "a791418f3a847a48e47304594b6145eef31bd281",
@@ -2200,17 +2200,6 @@
       "first_seen_utc": "2026-04-21T12:10:18Z",
       "last_seen_utc": "2026-04-21T14:15:20Z",
       "seen_count": 27
-    },
-    {
-      "key": "c3819f6d230f3a9aaeb3ec2b8a92d7df67ca5544",
-      "base": "BLY2279|EGCC|LDSP|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY2279",
-      "departure": "EGCC",
-      "destination": "LDSP",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-04-20T12:45:18Z",
-      "last_seen_utc": "2026-04-20T13:20:20Z",
-      "seen_count": 8
     }
   ]
 }
