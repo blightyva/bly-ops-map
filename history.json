@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-19T21:05:13Z",
+  "updated_utc": "2026-05-19T21:10:17Z",
   "flights": [
     {
       "key": "a38d51857e1e9601321d95eb7ec3662b20203ff0",
@@ -9,8 +9,8 @@
       "destination": "EGGP",
       "aircraft": "B738/M-SDE2E3FGHIRWXY/LB1",
       "first_seen_utc": "2026-05-19T20:50:17Z",
-      "last_seen_utc": "2026-05-19T21:05:13Z",
-      "seen_count": 5
+      "last_seen_utc": "2026-05-19T21:10:17Z",
+      "seen_count": 6
     },
     {
       "key": "23b21ad11bf39754545340a53b1adfb2a408eba0",
@@ -2123,17 +2123,6 @@
       "first_seen_utc": "2026-04-21T20:30:27Z",
       "last_seen_utc": "2026-04-21T21:45:18Z",
       "seen_count": 17
-    },
-    {
-      "key": "b79a19ccc875621ca26cc6e91dee3681c63153ac",
-      "base": "BLY7159|-|-|-",
-      "callsign": "BLY7159",
-      "departure": "-",
-      "destination": "-",
-      "aircraft": "-",
-      "first_seen_utc": "2026-04-21T20:00:34Z",
-      "last_seen_utc": "2026-04-21T21:05:17Z",
-      "seen_count": 15
     }
   ]
 }
