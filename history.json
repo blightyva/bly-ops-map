@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-19T21:45:17Z",
+  "updated_utc": "2026-05-19T21:50:17Z",
   "flights": [
     {
       "key": "a38d51857e1e9601321d95eb7ec3662b20203ff0",
@@ -2112,17 +2112,6 @@
       "first_seen_utc": "2026-04-21T20:30:27Z",
       "last_seen_utc": "2026-04-21T21:55:13Z",
       "seen_count": 20
-    },
-    {
-      "key": "1d4e64125153a086cc39d751c3587a61912653b9",
-      "base": "BLY7464|EGSS|EGPH|B738/M-SDE2E3FGHIRWXY/LB1",
-      "callsign": "BLY7464",
-      "departure": "EGSS",
-      "destination": "EGPH",
-      "aircraft": "B738/M-SDE2E3FGHIRWXY/LB1",
-      "first_seen_utc": "2026-04-21T20:30:27Z",
-      "last_seen_utc": "2026-04-21T21:45:18Z",
-      "seen_count": 17
     }
   ]
 }
