@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-19T20:20:18Z",
+  "updated_utc": "2026-05-19T20:25:14Z",
   "flights": [
     {
       "key": "23b21ad11bf39754545340a53b1adfb2a408eba0",
@@ -2134,39 +2134,6 @@
       "first_seen_utc": "2026-04-21T19:50:19Z",
       "last_seen_utc": "2026-04-21T20:30:27Z",
       "seen_count": 10
-    },
-    {
-      "key": "a9dbd87bd257ba15b515a79d94b193adeab23449",
-      "base": "BLY2039|EGHI|EGSS|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY2039",
-      "departure": "EGHI",
-      "destination": "EGSS",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-04-21T19:45:17Z",
-      "last_seen_utc": "2026-04-21T20:25:13Z",
-      "seen_count": 10
-    },
-    {
-      "key": "b368386900ae8dd956b97850486440a3d2d28863",
-      "base": "BLY7464|EGSS|EGNM|B738/M-SDE2E3FGHIRWXY/LB1",
-      "callsign": "BLY7464",
-      "departure": "EGSS",
-      "destination": "EGNM",
-      "aircraft": "B738/M-SDE2E3FGHIRWXY/LB1",
-      "first_seen_utc": "2026-04-21T20:05:14Z",
-      "last_seen_utc": "2026-04-21T20:25:13Z",
-      "seen_count": 5
-    },
-    {
-      "key": "73817a95b5efd7ca1e9d5d2e2b5945cad472c2cc",
-      "base": "BLY23W|EGHQ|EGSS|A319/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY23W",
-      "departure": "EGHQ",
-      "destination": "EGSS",
-      "aircraft": "A319/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-04-21T19:00:40Z",
-      "last_seen_utc": "2026-04-21T20:20:21Z",
-      "seen_count": 18
     }
   ]
 }
