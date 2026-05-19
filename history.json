@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-19T16:15:20Z",
+  "updated_utc": "2026-05-19T16:20:19Z",
   "flights": [
     {
       "key": "76e1649659261e55711b82496ae7dc94a41a9cf8",
@@ -9,8 +9,8 @@
       "destination": "EGGP",
       "aircraft": "E175/M-SDE3GILORVW/S",
       "first_seen_utc": "2026-05-19T15:55:16Z",
-      "last_seen_utc": "2026-05-19T16:15:20Z",
-      "seen_count": 5
+      "last_seen_utc": "2026-05-19T16:20:19Z",
+      "seen_count": 6
     },
     {
       "key": "a88d0dfd94d4986f3d4c31e8f809d472034b9acf",
@@ -2266,17 +2266,6 @@
       "first_seen_utc": "2026-04-21T16:20:19Z",
       "last_seen_utc": "2026-04-21T16:20:19Z",
       "seen_count": 1
-    },
-    {
-      "key": "75e37dd43ddac6d35636a88a036e832093581984",
-      "base": "BLY77|KJFK|EGKK|A333/H-SDE3GHIJ2J3J5M1RVWXY/LB2D1",
-      "callsign": "BLY77",
-      "departure": "KJFK",
-      "destination": "EGKK",
-      "aircraft": "A333/H-SDE3GHIJ2J3J5M1RVWXY/LB2D1",
-      "first_seen_utc": "2026-04-21T13:35:16Z",
-      "last_seen_utc": "2026-04-21T16:15:20Z",
-      "seen_count": 35
     }
   ]
 }
