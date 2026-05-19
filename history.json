@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-19T14:13:51Z",
+  "updated_utc": "2026-05-19T14:15:22Z",
   "flights": [
     {
       "key": "03679a2e8d72a8f79ea60b0574f55bd7f400443a",
@@ -2255,17 +2255,6 @@
       "first_seen_utc": "2026-04-21T13:35:16Z",
       "last_seen_utc": "2026-04-21T16:15:20Z",
       "seen_count": 35
-    },
-    {
-      "key": "f3de113f31cd58177a8bbb7a9947d8d59fed2d4d",
-      "base": "BLY934D|EGGP|LFBE|A319/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY934D",
-      "departure": "EGGP",
-      "destination": "LFBE",
-      "aircraft": "A319/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-04-21T12:10:18Z",
-      "last_seen_utc": "2026-04-21T14:15:20Z",
-      "seen_count": 27
     }
   ]
 }
