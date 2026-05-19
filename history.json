@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-19T19:45:17Z",
+  "updated_utc": "2026-05-19T19:50:17Z",
   "flights": [
     {
       "key": "23b21ad11bf39754545340a53b1adfb2a408eba0",
@@ -2167,17 +2167,6 @@
       "first_seen_utc": "2026-04-21T19:00:40Z",
       "last_seen_utc": "2026-04-21T20:20:21Z",
       "seen_count": 18
-    },
-    {
-      "key": "de71907e490df464be0ebaf83f55b6a1f43426dc",
-      "base": "BLY93Q|EGHQ|EGHI|A321/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY93Q",
-      "departure": "EGHQ",
-      "destination": "EGHI",
-      "aircraft": "A321/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-04-21T19:00:40Z",
-      "last_seen_utc": "2026-04-21T19:45:17Z",
-      "seen_count": 10
     }
   ]
 }
