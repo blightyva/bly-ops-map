@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-20T16:43:57Z",
+  "updated_utc": "2026-05-20T16:45:45Z",
   "flights": [
     {
       "key": "cf4001065564a2b5e5dee742055e41b6a002149c",
@@ -2068,17 +2068,6 @@
       "first_seen_utc": "2026-04-22T20:50:18Z",
       "last_seen_utc": "2026-04-22T22:10:18Z",
       "seen_count": 18
-    },
-    {
-      "key": "d4d3d59f384a2672a77842b9571f404a9f8bcb56",
-      "base": "BLY550|LFMT|EGGP|B38M/M-SDE1FGHILORVWXY/HB1",
-      "callsign": "BLY550",
-      "departure": "LFMT",
-      "destination": "EGGP",
-      "aircraft": "B38M/M-SDE1FGHILORVWXY/HB1",
-      "first_seen_utc": "2026-04-22T15:05:16Z",
-      "last_seen_utc": "2026-04-22T16:45:23Z",
-      "seen_count": 22
     }
   ]
 }
