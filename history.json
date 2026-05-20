@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-20T13:25:19Z",
+  "updated_utc": "2026-05-20T13:30:29Z",
   "flights": [
     {
       "key": "e9623935c536523643d741a576f77bdbff966709",
@@ -9,8 +9,8 @@
       "destination": "EGGP",
       "aircraft": "B38M/M-SDE1FGHILORVWXY/HB1",
       "first_seen_utc": "2026-05-20T13:15:22Z",
-      "last_seen_utc": "2026-05-20T13:25:19Z",
-      "seen_count": 3
+      "last_seen_utc": "2026-05-20T13:30:29Z",
+      "seen_count": 4
     },
     {
       "key": "b64af52395303535ad395bd3891238b0cf69ca62",
