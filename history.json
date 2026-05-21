@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-21T14:05:17Z",
+  "updated_utc": "2026-05-21T14:10:21Z",
   "flights": [
     {
       "key": "d2cb87ce934f17181508b47b8be583d435ea977a",
@@ -9,8 +9,8 @@
       "destination": "EGPH",
       "aircraft": "E175/M-SDE3GILORVW/S",
       "first_seen_utc": "2026-05-21T13:35:16Z",
-      "last_seen_utc": "2026-05-21T14:05:17Z",
-      "seen_count": 7
+      "last_seen_utc": "2026-05-21T14:10:21Z",
+      "seen_count": 8
     },
     {
       "key": "85361ef565f1d7f75cd72e97de4244d8c71cdc08",
