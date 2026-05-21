@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-21T16:20:20Z",
+  "updated_utc": "2026-05-21T16:25:15Z",
   "flights": [
     {
       "key": "686ba2018691d97cb308f4f2133db6a4b6639c0f",
@@ -9,8 +9,8 @@
       "destination": "EGPE",
       "aircraft": "A319/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-05-21T15:35:22Z",
-      "last_seen_utc": "2026-05-21T16:20:20Z",
-      "seen_count": 10
+      "last_seen_utc": "2026-05-21T16:25:15Z",
+      "seen_count": 11
     },
     {
       "key": "d2cb87ce934f17181508b47b8be583d435ea977a",
