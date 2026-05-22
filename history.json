@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-22T22:00:33Z",
+  "updated_utc": "2026-05-22T22:05:12Z",
   "flights": [
     {
       "key": "f484a11c0b14f1182709e4405536d617d7e9a35e",
@@ -2068,17 +2068,6 @@
       "first_seen_utc": "2026-04-24T21:20:18Z",
       "last_seen_utc": "2026-04-24T23:35:12Z",
       "seen_count": 31
-    },
-    {
-      "key": "f89e2a57cfb4e470897a6cae2b7229b48be0e45e",
-      "base": "BLY1121|EGPH|EGGP|RJ1H/M-SDFGIRWY/LB1",
-      "callsign": "BLY1121",
-      "departure": "EGPH",
-      "destination": "EGGP",
-      "aircraft": "RJ1H/M-SDFGIRWY/LB1",
-      "first_seen_utc": "2026-04-24T20:45:21Z",
-      "last_seen_utc": "2026-04-24T22:00:39Z",
-      "seen_count": 17
     }
   ]
 }
