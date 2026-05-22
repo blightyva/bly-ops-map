@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-22T21:00:33Z",
+  "updated_utc": "2026-05-22T21:05:13Z",
   "flights": [
     {
       "key": "f484a11c0b14f1182709e4405536d617d7e9a35e",
@@ -9,8 +9,8 @@
       "destination": "EINN",
       "aircraft": "A319/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-05-22T20:30:24Z",
-      "last_seen_utc": "2026-05-22T21:00:33Z",
-      "seen_count": 7
+      "last_seen_utc": "2026-05-22T21:05:13Z",
+      "seen_count": 8
     },
     {
       "key": "699ce2ebd6f02709cd6142ab4244c5438f61f275",
@@ -2079,17 +2079,6 @@
       "first_seen_utc": "2026-04-24T20:45:21Z",
       "last_seen_utc": "2026-04-24T22:00:39Z",
       "seen_count": 17
-    },
-    {
-      "key": "e5d383fb06f06dfb723c2efb57606044eaa6661a",
-      "base": "BLY1314|LFMT|EGGP|B38M/M-SDE1FGHILORVWXY/HB1",
-      "callsign": "BLY1314",
-      "departure": "LFMT",
-      "destination": "EGGP",
-      "aircraft": "B38M/M-SDE1FGHILORVWXY/HB1",
-      "first_seen_utc": "2026-04-24T18:35:15Z",
-      "last_seen_utc": "2026-04-24T21:00:41Z",
-      "seen_count": 32
     }
   ]
 }
