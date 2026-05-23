@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-23T22:45:15Z",
+  "updated_utc": "2026-05-23T22:50:15Z",
   "flights": [
     {
       "key": "f484a11c0b14f1182709e4405536d617d7e9a35e",
@@ -2001,17 +2001,6 @@
       "aircraft": "L101/H-SDFGHIRWXY/S",
       "first_seen_utc": "2026-04-25T21:45:17Z",
       "last_seen_utc": "2026-04-25T23:05:15Z",
-      "seen_count": 19
-    },
-    {
-      "key": "247f0f4eb96a9959f933b68acb7065293f473281",
-      "base": "BLY98P|EGCC|EGFF|F28/M-SDFIRWY/H",
-      "callsign": "BLY98P",
-      "departure": "EGCC",
-      "destination": "EGFF",
-      "aircraft": "F28/M-SDFIRWY/H",
-      "first_seen_utc": "2026-04-25T21:25:13Z",
-      "last_seen_utc": "2026-04-25T22:45:17Z",
       "seen_count": 19
     }
   ]
