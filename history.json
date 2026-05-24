@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-24T21:10:16Z",
+  "updated_utc": "2026-05-24T21:15:16Z",
   "flights": [
     {
       "key": "125bf829a937ebf11027ae7feb1c12942974dacb",
@@ -1892,17 +1892,6 @@
       "first_seen_utc": "2026-04-26T20:10:17Z",
       "last_seen_utc": "2026-04-26T21:20:18Z",
       "seen_count": 16
-    },
-    {
-      "key": "78b49ee5d381d79610efb538e71027dd5e511fc0",
-      "base": "BLY948|EPGD|EGGP|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY948",
-      "departure": "EPGD",
-      "destination": "EGGP",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-04-26T18:25:13Z",
-      "last_seen_utc": "2026-04-26T21:10:16Z",
-      "seen_count": 37
     }
   ]
 }
