@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-24T23:10:15Z",
+  "updated_utc": "2026-05-24T23:15:17Z",
   "flights": [
     {
       "key": "125bf829a937ebf11027ae7feb1c12942974dacb",
@@ -1870,17 +1870,6 @@
       "first_seen_utc": "2026-04-27T19:40:18Z",
       "last_seen_utc": "2026-04-27T21:40:17Z",
       "seen_count": 26
-    },
-    {
-      "key": "e7ce3439eb03682fb54d35d2b73e5496ed8d4971",
-      "base": "BLY7464|LFBE|EGCC|B772/H-SDE2E3FGHIJ5LORVWXY/LB1D1",
-      "callsign": "BLY7464",
-      "departure": "LFBE",
-      "destination": "EGCC",
-      "aircraft": "B772/H-SDE2E3FGHIJ5LORVWXY/LB1D1",
-      "first_seen_utc": "2026-04-26T21:00:37Z",
-      "last_seen_utc": "2026-04-26T23:10:17Z",
-      "seen_count": 30
     }
   ]
 }
