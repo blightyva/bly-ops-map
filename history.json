@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-24T20:25:12Z",
+  "updated_utc": "2026-05-24T20:30:23Z",
   "flights": [
     {
       "key": "125bf829a937ebf11027ae7feb1c12942974dacb",
@@ -1903,39 +1903,6 @@
       "first_seen_utc": "2026-04-26T18:25:13Z",
       "last_seen_utc": "2026-04-26T21:10:16Z",
       "seen_count": 37
-    },
-    {
-      "key": "3569cd7baf728e3cefb617de4f1e67c4298a25ce",
-      "base": "BLY9112|LFBE|EGGP|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY9112",
-      "departure": "LFBE",
-      "destination": "EGGP",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-04-26T17:29:48Z",
-      "last_seen_utc": "2026-04-26T20:25:13Z",
-      "seen_count": 40
-    },
-    {
-      "key": "4fb217f9431b9631bbc59deb5e165532a5f26b7b",
-      "base": "BLY2039|EGJJ|EGGP|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY2039",
-      "departure": "EGJJ",
-      "destination": "EGGP",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-04-26T18:45:17Z",
-      "last_seen_utc": "2026-04-26T20:25:13Z",
-      "seen_count": 23
-    },
-    {
-      "key": "8e3b7edfdd076fd0249d1d6c9c9da402b02eee67",
-      "base": "BLY20RZ|LFBE|EGGP|A319/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY20RZ",
-      "departure": "LFBE",
-      "destination": "EGGP",
-      "aircraft": "A319/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-04-26T17:05:12Z",
-      "last_seen_utc": "2026-04-26T20:25:13Z",
-      "seen_count": 44
     }
   ]
 }
