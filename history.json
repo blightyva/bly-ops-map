@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-26T20:10:17Z",
+  "updated_utc": "2026-05-26T20:15:18Z",
   "flights": [
     {
       "key": "125bf829a937ebf11027ae7feb1c12942974dacb",
@@ -1837,17 +1837,6 @@
       "first_seen_utc": "2026-04-28T18:55:15Z",
       "last_seen_utc": "2026-04-28T20:55:15Z",
       "seen_count": 26
-    },
-    {
-      "key": "cd0cf8d15f3178d6ad9f77a0b6bc1d051663a17c",
-      "base": "BLY232|EGGP|LSGG|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY232",
-      "departure": "EGGP",
-      "destination": "LSGG",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-04-28T17:55:16Z",
-      "last_seen_utc": "2026-04-28T20:10:20Z",
-      "seen_count": 29
     }
   ]
 }
