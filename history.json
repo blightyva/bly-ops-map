@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-26T20:55:13Z",
+  "updated_utc": "2026-05-26T20:59:41Z",
   "flights": [
     {
       "key": "125bf829a937ebf11027ae7feb1c12942974dacb",
@@ -1826,17 +1826,6 @@
       "first_seen_utc": "2026-04-28T21:00:42Z",
       "last_seen_utc": "2026-04-28T21:40:19Z",
       "seen_count": 10
-    },
-    {
-      "key": "ba95382818ca262a099c9c8300451e80d5d6c716",
-      "base": "BLY7464|LFBE|EGPH|A319/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY7464",
-      "departure": "LFBE",
-      "destination": "EGPH",
-      "aircraft": "A319/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-04-28T18:55:15Z",
-      "last_seen_utc": "2026-04-28T20:55:15Z",
-      "seen_count": 26
     }
   ]
 }
