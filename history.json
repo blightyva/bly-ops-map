@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-27T21:25:13Z",
+  "updated_utc": "2026-05-27T21:29:32Z",
   "flights": [
     {
       "key": "125bf829a937ebf11027ae7feb1c12942974dacb",
@@ -1771,17 +1771,6 @@
       "first_seen_utc": "2026-04-29T21:00:42Z",
       "last_seen_utc": "2026-04-29T21:45:17Z",
       "seen_count": 10
-    },
-    {
-      "key": "299a47eefe809c429f1d475962ec87319e8b12d0",
-      "base": "BLY7464|EGCC|EGAE|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY7464",
-      "departure": "EGCC",
-      "destination": "EGAE",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-04-29T20:05:20Z",
-      "last_seen_utc": "2026-04-29T21:25:18Z",
-      "seen_count": 17
     }
   ]
 }
