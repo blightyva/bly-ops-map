@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-27T20:55:13Z",
+  "updated_utc": "2026-05-27T21:00:36Z",
   "flights": [
     {
       "key": "125bf829a937ebf11027ae7feb1c12942974dacb",
@@ -1782,17 +1782,6 @@
       "first_seen_utc": "2026-04-29T20:05:20Z",
       "last_seen_utc": "2026-04-29T21:25:18Z",
       "seen_count": 17
-    },
-    {
-      "key": "9e8ff16ced30633770c7e7bda0d501fb01ebe702",
-      "base": "BLY15|EGPL|EGCC|B738/M-SDE2E3FGHIRWXY/LB1",
-      "callsign": "BLY15",
-      "departure": "EGPL",
-      "destination": "EGCC",
-      "aircraft": "B738/M-SDE2E3FGHIRWXY/LB1",
-      "first_seen_utc": "2026-04-29T19:20:15Z",
-      "last_seen_utc": "2026-04-29T20:55:25Z",
-      "seen_count": 21
     }
   ]
 }
