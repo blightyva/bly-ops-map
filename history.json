@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-27T17:55:16Z",
+  "updated_utc": "2026-05-27T18:00:36Z",
   "flights": [
     {
       "key": "125bf829a937ebf11027ae7feb1c12942974dacb",
@@ -1804,17 +1804,6 @@
       "first_seen_utc": "2026-04-29T18:30:24Z",
       "last_seen_utc": "2026-04-29T19:30:27Z",
       "seen_count": 13
-    },
-    {
-      "key": "11a2c88e759437cc9219d9a097cc41028e7ce7ec",
-      "base": "BLY798|LSGG|EGCC|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY798",
-      "departure": "LSGG",
-      "destination": "EGCC",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-04-29T15:55:21Z",
-      "last_seen_utc": "2026-04-29T18:00:33Z",
-      "seen_count": 27
     }
   ]
 }
