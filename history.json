@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-28T09:15:20Z",
+  "updated_utc": "2026-05-28T09:20:18Z",
   "flights": [
     {
       "key": "125bf829a937ebf11027ae7feb1c12942974dacb",
@@ -1749,17 +1749,6 @@
       "first_seen_utc": "2026-04-30T09:25:13Z",
       "last_seen_utc": "2026-04-30T10:25:12Z",
       "seen_count": 13
-    },
-    {
-      "key": "82127afc4ea2f167cde36543dead240ac679b0fa",
-      "base": "BLY2039|EGGP|EGKK|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY2039",
-      "departure": "EGGP",
-      "destination": "EGKK",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-04-30T08:30:26Z",
-      "last_seen_utc": "2026-04-30T09:20:17Z",
-      "seen_count": 12
     }
   ]
 }
