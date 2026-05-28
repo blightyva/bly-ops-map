@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-28T21:10:17Z",
+  "updated_utc": "2026-05-28T21:15:18Z",
   "flights": [
     {
       "key": "20134c4fed06133b544e6805efa7e16de66bf0d2",
@@ -9,8 +9,8 @@
       "destination": "EGJJ",
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-05-28T20:40:15Z",
-      "last_seen_utc": "2026-05-28T21:10:17Z",
-      "seen_count": 7
+      "last_seen_utc": "2026-05-28T21:15:18Z",
+      "seen_count": 8
     },
     {
       "key": "1af794d560746a32f4c63d77007f249f58e1adbc",
