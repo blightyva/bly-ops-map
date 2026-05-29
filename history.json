@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-29T21:15:17Z",
+  "updated_utc": "2026-05-29T21:20:17Z",
   "flights": [
     {
       "key": "c3a16901df85e77b4fae67bd4f18eba1aa1c432d",
@@ -9,8 +9,8 @@
       "destination": "EGPO",
       "aircraft": "E175/M-SDE3GILORVW/S",
       "first_seen_utc": "2026-05-29T20:00:34Z",
-      "last_seen_utc": "2026-05-29T21:15:17Z",
-      "seen_count": 15
+      "last_seen_utc": "2026-05-29T21:20:17Z",
+      "seen_count": 16
     },
     {
       "key": "b876e6873c8d1f0e8a2d1cc7e4fb21ddd9f04b51",
