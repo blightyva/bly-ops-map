@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-29T20:00:34Z",
+  "updated_utc": "2026-05-29T20:05:14Z",
   "flights": [
     {
       "key": "c3a16901df85e77b4fae67bd4f18eba1aa1c432d",
@@ -9,8 +9,8 @@
       "destination": "EGPO",
       "aircraft": "E175/M-SDE3GILORVW/S",
       "first_seen_utc": "2026-05-29T20:00:34Z",
-      "last_seen_utc": "2026-05-29T20:00:34Z",
-      "seen_count": 1
+      "last_seen_utc": "2026-05-29T20:05:14Z",
+      "seen_count": 2
     },
     {
       "key": "b876e6873c8d1f0e8a2d1cc7e4fb21ddd9f04b51",
@@ -1749,28 +1749,6 @@
       "first_seen_utc": "2026-05-01T17:25:18Z",
       "last_seen_utc": "2026-05-01T20:20:16Z",
       "seen_count": 38
-    },
-    {
-      "key": "52d56de1d62c391836a3ac0a3e75057990b61978",
-      "base": "BLY12X|-|-|-",
-      "callsign": "BLY12X",
-      "departure": "-",
-      "destination": "-",
-      "aircraft": "-",
-      "first_seen_utc": "2026-05-01T18:14:41Z",
-      "last_seen_utc": "2026-05-01T20:00:36Z",
-      "seen_count": 24
-    },
-    {
-      "key": "9f0bc00976a5bfae47ed9bdc54839b8c0e30373f",
-      "base": "BLY111|-|-|-",
-      "callsign": "BLY111",
-      "departure": "-",
-      "destination": "-",
-      "aircraft": "-",
-      "first_seen_utc": "2026-05-01T20:00:36Z",
-      "last_seen_utc": "2026-05-01T20:00:36Z",
-      "seen_count": 1
     }
   ]
 }
