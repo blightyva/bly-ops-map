@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-29T17:25:14Z",
+  "updated_utc": "2026-05-29T17:30:28Z",
   "flights": [
     {
       "key": "b876e6873c8d1f0e8a2d1cc7e4fb21ddd9f04b51",
@@ -9,8 +9,8 @@
       "destination": "EGGP",
       "aircraft": "A319/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-05-29T17:05:20Z",
-      "last_seen_utc": "2026-05-29T17:25:14Z",
-      "seen_count": 5
+      "last_seen_utc": "2026-05-29T17:30:28Z",
+      "seen_count": 6
     },
     {
       "key": "8efeb35ce2a5f0c34e79e06b5998d25606a4ac4d",
