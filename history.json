@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-29T16:00:45Z",
+  "updated_utc": "2026-05-29T16:05:21Z",
   "flights": [
     {
       "key": "8efeb35ce2a5f0c34e79e06b5998d25606a4ac4d",
@@ -9,8 +9,8 @@
       "destination": "EGNV",
       "aircraft": "A319/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-05-29T15:30:29Z",
-      "last_seen_utc": "2026-05-29T16:00:45Z",
-      "seen_count": 8
+      "last_seen_utc": "2026-05-29T16:05:21Z",
+      "seen_count": 9
     },
     {
       "key": "754d59a82e2bf9caa89bbe2c26368bc470b75715",
@@ -1760,17 +1760,6 @@
       "first_seen_utc": "2026-05-01T14:35:18Z",
       "last_seen_utc": "2026-05-01T16:15:17Z",
       "seen_count": 23
-    },
-    {
-      "key": "dd9de8f9efc4d1636f63b2a9648a6878fb235e97",
-      "base": "BLY48|EGNM|EGGP|B738/M-SDE2E3FGHIRWXY/LB1",
-      "callsign": "BLY48",
-      "departure": "EGNM",
-      "destination": "EGGP",
-      "aircraft": "B738/M-SDE2E3FGHIRWXY/LB1",
-      "first_seen_utc": "2026-05-01T15:15:17Z",
-      "last_seen_utc": "2026-05-01T16:05:20Z",
-      "seen_count": 12
     }
   ]
 }
