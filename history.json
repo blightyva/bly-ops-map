@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-30T11:15:20Z",
+  "updated_utc": "2026-05-30T11:20:19Z",
   "flights": [
     {
       "key": "5407cc8ed1fa59aca56611dd6414ecb435fb966f",
@@ -9,8 +9,8 @@
       "destination": "EGGP",
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-05-30T09:55:13Z",
-      "last_seen_utc": "2026-05-30T11:15:20Z",
-      "seen_count": 14
+      "last_seen_utc": "2026-05-30T11:20:19Z",
+      "seen_count": 15
     },
     {
       "key": "9c5376a4fb4348bc705d6207e1088e0aa9e5a767",
@@ -1716,17 +1716,6 @@
       "first_seen_utc": "2026-05-02T11:25:11Z",
       "last_seen_utc": "2026-05-02T12:05:13Z",
       "seen_count": 10
-    },
-    {
-      "key": "e90683d795b16a894c617d3aeac3e669ee020960",
-      "base": "BLY13R|EGCC|EGHI|A320/M-SDE2E3FGHIJ1RWXYZ/LB1",
-      "callsign": "BLY13R",
-      "departure": "EGCC",
-      "destination": "EGHI",
-      "aircraft": "A320/M-SDE2E3FGHIJ1RWXYZ/LB1",
-      "first_seen_utc": "2026-05-02T09:50:14Z",
-      "last_seen_utc": "2026-05-02T11:20:15Z",
-      "seen_count": 20
     }
   ]
 }
