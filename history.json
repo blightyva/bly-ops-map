@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-30T16:50:16Z",
+  "updated_utc": "2026-05-30T16:55:12Z",
   "flights": [
     {
       "key": "07bbbf296b3138ebb4625342e0951c26929f4c34",
@@ -9,8 +9,8 @@
       "destination": "ENSB",
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-05-30T16:25:11Z",
-      "last_seen_utc": "2026-05-30T16:50:16Z",
-      "seen_count": 6
+      "last_seen_utc": "2026-05-30T16:55:12Z",
+      "seen_count": 7
     },
     {
       "key": "4e4bd7b01d214a55bf40c52c4ff292625fad1d1f",
@@ -20,8 +20,8 @@
       "destination": "ENSB",
       "aircraft": "A319/M-SDE2E3FGHIJ1RWXYZ/LB1",
       "first_seen_utc": "2026-05-30T16:50:16Z",
-      "last_seen_utc": "2026-05-30T16:50:16Z",
-      "seen_count": 1
+      "last_seen_utc": "2026-05-30T16:55:12Z",
+      "seen_count": 2
     },
     {
       "key": "6734f733ed04a51d638f05818d649981fef6e518",
