@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-30T15:10:16Z",
+  "updated_utc": "2026-05-30T15:15:17Z",
   "flights": [
     {
       "key": "5407cc8ed1fa59aca56611dd6414ecb435fb966f",
@@ -1650,17 +1650,6 @@
       "first_seen_utc": "2026-05-02T15:15:17Z",
       "last_seen_utc": "2026-05-02T15:15:17Z",
       "seen_count": 1
-    },
-    {
-      "key": "b62009342cf721bc5ffb55bf8f2395087bb5e51c",
-      "base": "BLY31PX|EGCC|EGPH|A320/M-SDE2E3FGHIJ1RWXYZ/LB1",
-      "callsign": "BLY31PX",
-      "departure": "EGCC",
-      "destination": "EGPH",
-      "aircraft": "A320/M-SDE2E3FGHIJ1RWXYZ/LB1",
-      "first_seen_utc": "2026-05-02T13:45:16Z",
-      "last_seen_utc": "2026-05-02T15:10:21Z",
-      "seen_count": 20
     }
   ]
 }
