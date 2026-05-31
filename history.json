@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-31T09:55:12Z",
+  "updated_utc": "2026-05-31T10:00:34Z",
   "flights": [
     {
       "key": "f4f1a02a22d485cf4e6a3dea9117871fca1cef33",
@@ -1584,17 +1584,6 @@
       "first_seen_utc": "2026-05-03T10:05:12Z",
       "last_seen_utc": "2026-05-03T11:25:17Z",
       "seen_count": 19
-    },
-    {
-      "key": "71b9974e8327685d384304369ca09009fa748fb4",
-      "base": "BLY945T|-|-|-",
-      "callsign": "BLY945T",
-      "departure": "-",
-      "destination": "-",
-      "aircraft": "-",
-      "first_seen_utc": "2026-05-03T10:00:30Z",
-      "last_seen_utc": "2026-05-03T10:00:30Z",
-      "seen_count": 1
     }
   ]
 }
