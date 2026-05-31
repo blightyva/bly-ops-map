@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-05-31T21:30:24Z",
+  "updated_utc": "2026-05-31T21:35:13Z",
   "flights": [
     {
       "key": "b8bfb6123a80ad14cd0f720d5bbc2d9c4090d07a",
@@ -9,8 +9,8 @@
       "destination": "EGCC",
       "aircraft": "A20N/M-SDE2E3FGHIRWXY/LB1",
       "first_seen_utc": "2026-05-31T19:15:17Z",
-      "last_seen_utc": "2026-05-31T21:30:24Z",
-      "seen_count": 30
+      "last_seen_utc": "2026-05-31T21:35:13Z",
+      "seen_count": 31
     },
     {
       "key": "d69813e7c6a09d9537b09e180249f628e589f33b",
