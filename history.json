@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-06-01T22:00:37Z",
+  "updated_utc": "2026-06-01T22:05:14Z",
   "flights": [
     {
       "key": "396e826952a22fe5e9744a067d113f3711572601",
@@ -9,8 +9,8 @@
       "destination": "EGEO",
       "aircraft": "AT46/M-SDFGIRY/S",
       "first_seen_utc": "2026-06-01T20:40:22Z",
-      "last_seen_utc": "2026-06-01T22:00:37Z",
-      "seen_count": 18
+      "last_seen_utc": "2026-06-01T22:05:14Z",
+      "seen_count": 19
     },
     {
       "key": "4d8607d7654f3b60caf2ae66064dc51b9645e314",
@@ -1463,17 +1463,6 @@
       "first_seen_utc": "2026-05-05T07:45:17Z",
       "last_seen_utc": "2026-05-05T10:45:16Z",
       "seen_count": 37
-    },
-    {
-      "key": "fdb1d765b3938d60bc2f19f467cb03f21228bb02",
-      "base": "BLY2100|EGCC|EGPD|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY2100",
-      "departure": "EGCC",
-      "destination": "EGPD",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-05-04T20:35:19Z",
-      "last_seen_utc": "2026-05-04T22:05:12Z",
-      "seen_count": 20
     }
   ]
 }
