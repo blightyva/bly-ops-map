@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-06-01T08:10:19Z",
+  "updated_utc": "2026-06-01T09:30:31Z",
   "flights": [
     {
       "key": "b8bfb6123a80ad14cd0f720d5bbc2d9c4090d07a",
@@ -1551,17 +1551,6 @@
       "first_seen_utc": "2026-05-04T10:25:12Z",
       "last_seen_utc": "2026-05-04T10:25:12Z",
       "seen_count": 1
-    },
-    {
-      "key": "df64debd294dafc34aa73a2c891502ddebb3c676",
-      "base": "BLY81U|-|-|-",
-      "callsign": "BLY81U",
-      "departure": "-",
-      "destination": "-",
-      "aircraft": "-",
-      "first_seen_utc": "2026-05-04T08:25:14Z",
-      "last_seen_utc": "2026-05-04T08:35:12Z",
-      "seen_count": 3
     }
   ]
 }
