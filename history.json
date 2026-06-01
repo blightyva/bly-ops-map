@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-06-01T12:00:43Z",
+  "updated_utc": "2026-06-01T12:05:17Z",
   "flights": [
     {
       "key": "b8bfb6123a80ad14cd0f720d5bbc2d9c4090d07a",
@@ -1518,17 +1518,6 @@
       "first_seen_utc": "2026-05-04T10:30:24Z",
       "last_seen_utc": "2026-05-04T13:00:42Z",
       "seen_count": 33
-    },
-    {
-      "key": "113c62bf05f9aa35e8bcd705c7fccdfddf2a3d7c",
-      "base": "BLY6WS|EGCC|LOWS|A319/M-SDE2E3FGHIJ1RWXYZ/LB1",
-      "callsign": "BLY6WS",
-      "departure": "EGCC",
-      "destination": "LOWS",
-      "aircraft": "A319/M-SDE2E3FGHIJ1RWXYZ/LB1",
-      "first_seen_utc": "2026-05-04T10:35:12Z",
-      "last_seen_utc": "2026-05-04T12:05:13Z",
-      "seen_count": 20
     }
   ]
 }
