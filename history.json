@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-06-01T11:25:14Z",
+  "updated_utc": "2026-06-01T11:30:29Z",
   "flights": [
     {
       "key": "b8bfb6123a80ad14cd0f720d5bbc2d9c4090d07a",
@@ -1529,17 +1529,6 @@
       "first_seen_utc": "2026-05-04T10:35:12Z",
       "last_seen_utc": "2026-05-04T12:05:13Z",
       "seen_count": 20
-    },
-    {
-      "key": "68ac32f61b1fc30bf17d361de72fe062bcc96fbe",
-      "base": "BLY81U|EPWR|EGCC|A321/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY81U",
-      "departure": "EPWR",
-      "destination": "EGCC",
-      "aircraft": "A321/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-05-04T08:40:22Z",
-      "last_seen_utc": "2026-05-04T11:25:18Z",
-      "seen_count": 36
     }
   ]
 }
