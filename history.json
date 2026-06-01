@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-06-01T20:40:22Z",
+  "updated_utc": "2026-06-01T20:45:19Z",
   "flights": [
     {
       "key": "396e826952a22fe5e9744a067d113f3711572601",
@@ -9,8 +9,8 @@
       "destination": "EGEO",
       "aircraft": "AT46/M-SDFGIRY/S",
       "first_seen_utc": "2026-06-01T20:40:22Z",
-      "last_seen_utc": "2026-06-01T20:40:22Z",
-      "seen_count": 1
+      "last_seen_utc": "2026-06-01T20:45:19Z",
+      "seen_count": 2
     },
     {
       "key": "4d8607d7654f3b60caf2ae66064dc51b9645e314",
