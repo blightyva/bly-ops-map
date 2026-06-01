@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-06-01T10:20:18Z",
+  "updated_utc": "2026-06-01T10:25:14Z",
   "flights": [
     {
       "key": "b8bfb6123a80ad14cd0f720d5bbc2d9c4090d07a",
@@ -1540,17 +1540,6 @@
       "first_seen_utc": "2026-05-04T08:40:22Z",
       "last_seen_utc": "2026-05-04T11:25:18Z",
       "seen_count": 36
-    },
-    {
-      "key": "7871a8fc9d078ff190876e3cac5d1464613d4bff",
-      "base": "BLY19F|-|-|-",
-      "callsign": "BLY19F",
-      "departure": "-",
-      "destination": "-",
-      "aircraft": "-",
-      "first_seen_utc": "2026-05-04T10:25:12Z",
-      "last_seen_utc": "2026-05-04T10:25:12Z",
-      "seen_count": 1
     }
   ]
 }
