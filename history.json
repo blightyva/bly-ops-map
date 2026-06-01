@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-06-01T23:45:17Z",
+  "updated_utc": "2026-06-01T23:50:16Z",
   "flights": [
     {
       "key": "82b0f3a057bf016309fa3fd6046542091a418ddc",
@@ -9,8 +9,8 @@
       "destination": "EGGP",
       "aircraft": "AT46/M-SDFGIRY/S",
       "first_seen_utc": "2026-06-01T22:20:17Z",
-      "last_seen_utc": "2026-06-01T23:45:17Z",
-      "seen_count": 15
+      "last_seen_utc": "2026-06-01T23:50:16Z",
+      "seen_count": 16
     },
     {
       "key": "396e826952a22fe5e9744a067d113f3711572601",
