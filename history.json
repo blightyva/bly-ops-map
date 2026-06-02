@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-06-02T18:55:20Z",
+  "updated_utc": "2026-06-02T18:57:15Z",
   "flights": [
     {
       "key": "7697f778f55acb0d196ed8555f04a90c00602ba2",
@@ -1474,17 +1474,6 @@
       "first_seen_utc": "2026-05-06T07:45:21Z",
       "last_seen_utc": "2026-05-06T11:00:40Z",
       "seen_count": 41
-    },
-    {
-      "key": "ac0af6bdc3419266460002b582cbe5158c883c45",
-      "base": "BLY5151|EGNT|EGNX|RJ1H/M-SDFGIRWY/LB1",
-      "callsign": "BLY5151",
-      "departure": "EGNT",
-      "destination": "EGNX",
-      "aircraft": "RJ1H/M-SDFGIRWY/LB1",
-      "first_seen_utc": "2026-05-05T17:50:23Z",
-      "last_seen_utc": "2026-05-05T18:55:20Z",
-      "seen_count": 15
     }
   ]
 }
