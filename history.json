@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-06-02T15:30:37Z",
+  "updated_utc": "2026-06-02T15:35:22Z",
   "flights": [
+    {
+      "key": "b687dcb0fa804eb4e19f44b72ee5f8ddb260bf4b",
+      "base": "BLY1|-|-|-",
+      "callsign": "BLY1",
+      "departure": "-",
+      "destination": "-",
+      "aircraft": "-",
+      "first_seen_utc": "2026-06-02T15:35:22Z",
+      "last_seen_utc": "2026-06-02T15:35:22Z",
+      "seen_count": 1
+    },
     {
       "key": "82b0f3a057bf016309fa3fd6046542091a418ddc",
       "base": "BLY2HC|EGEO|EGGP|AT46/M-SDFGIRY/S",
