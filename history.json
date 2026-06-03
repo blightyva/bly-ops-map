@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-06-03T13:40:24Z",
+  "updated_utc": "2026-06-03T13:45:27Z",
   "flights": [
     {
       "key": "7697f778f55acb0d196ed8555f04a90c00602ba2",
@@ -1441,17 +1441,6 @@
       "first_seen_utc": "2026-05-06T18:30:34Z",
       "last_seen_utc": "2026-05-06T19:20:27Z",
       "seen_count": 11
-    },
-    {
-      "key": "15f23dbf70bbef92e4296ff8c75a3676210b35e9",
-      "base": "BLY388|EGAE|EGGP|E75L/M-SDE3GILORVW/S",
-      "callsign": "BLY388",
-      "departure": "EGAE",
-      "destination": "EGGP",
-      "aircraft": "E75L/M-SDE3GILORVW/S",
-      "first_seen_utc": "2026-05-06T12:55:22Z",
-      "last_seen_utc": "2026-05-06T13:40:26Z",
-      "seen_count": 10
     }
   ]
 }
