@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-06-05T08:17:25Z",
+  "updated_utc": "2026-06-05T11:38:31Z",
   "flights": [
     {
       "key": "110f0c061d63c7b9a1431073c7801741e64008ba",
@@ -1408,28 +1408,6 @@
       "first_seen_utc": "2026-05-08T11:40:22Z",
       "last_seen_utc": "2026-05-08T12:50:13Z",
       "seen_count": 15
-    },
-    {
-      "key": "7fd62f7927ef8c17bc5fecb5a8d63d9b8e7044ea",
-      "base": "BLY212|EGCC|EIDW|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY212",
-      "departure": "EGCC",
-      "destination": "EIDW",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-05-08T10:05:13Z",
-      "last_seen_utc": "2026-05-08T11:30:24Z",
-      "seen_count": 19
-    },
-    {
-      "key": "c5f49406cc3b384be4fb393740683183d16eae42",
-      "base": "BLY817K|EGCC|GMMX|A332/H-SDE3GHIJ2J3J5M1RVWXY/LB2D1",
-      "callsign": "BLY817K",
-      "departure": "EGCC",
-      "destination": "GMMX",
-      "aircraft": "A332/H-SDE3GHIJ2J3J5M1RVWXY/LB2D1",
-      "first_seen_utc": "2026-05-08T10:05:13Z",
-      "last_seen_utc": "2026-05-08T11:00:40Z",
-      "seen_count": 12
     }
   ]
 }
