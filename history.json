@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-06-05T18:31:32Z",
+  "updated_utc": "2026-06-05T20:30:49Z",
   "flights": [
     {
       "key": "110f0c061d63c7b9a1431073c7801741e64008ba",
@@ -1331,61 +1331,6 @@
       "first_seen_utc": "2026-05-08T20:30:30Z",
       "last_seen_utc": "2026-05-08T21:40:15Z",
       "seen_count": 16
-    },
-    {
-      "key": "c8cc2587b41c2c854cdb2b9f8debf0c316195329",
-      "base": "BLY47WS|EINN|EGNT|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY47WS",
-      "departure": "EINN",
-      "destination": "EGNT",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-05-08T18:55:18Z",
-      "last_seen_utc": "2026-05-08T20:25:18Z",
-      "seen_count": 21
-    },
-    {
-      "key": "fb156cc3ef46ceaf74247d991c2a0f5631b17d64",
-      "base": "BLY2041|EINN|EGNT|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY2041",
-      "departure": "EINN",
-      "destination": "EGNT",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-05-08T18:00:33Z",
-      "last_seen_utc": "2026-05-08T19:25:19Z",
-      "seen_count": 19
-    },
-    {
-      "key": "6fcd1690d4c2d51998b1f5ba24f763badec6c7b4",
-      "base": "BLY212|CYYZ|EINN|A21N/M-SDE2E3FGHIRWXY/LB1",
-      "callsign": "BLY212",
-      "departure": "CYYZ",
-      "destination": "EINN",
-      "aircraft": "A21N/M-SDE2E3FGHIRWXY/LB1",
-      "first_seen_utc": "2026-05-08T11:55:19Z",
-      "last_seen_utc": "2026-05-08T18:50:16Z",
-      "seen_count": 87
-    },
-    {
-      "key": "793d034e09d44b5d9af6e1367e4f34e0cf5d91a2",
-      "base": "BLY20CG|CYYZ|EINN|A320/M-V/N",
-      "callsign": "BLY20CG",
-      "departure": "CYYZ",
-      "destination": "EINN",
-      "aircraft": "A320/M-V/N",
-      "first_seen_utc": "2026-05-08T15:15:18Z",
-      "last_seen_utc": "2026-05-08T18:50:16Z",
-      "seen_count": 46
-    },
-    {
-      "key": "4ad375ee0793a1c7b3cc37c23be5fc7ec3a519f4",
-      "base": "BLY14EF|CYHM|EINN|A319/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY14EF",
-      "departure": "CYHM",
-      "destination": "EINN",
-      "aircraft": "A319/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-05-08T11:50:15Z",
-      "last_seen_utc": "2026-05-08T18:45:17Z",
-      "seen_count": 86
     }
   ]
 }
