@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-06-05T20:30:49Z",
+  "updated_utc": "2026-06-05T22:04:23Z",
   "flights": [
+    {
+      "key": "3ab9722313bdc6f5239d77af0f147bf7fc425e1a",
+      "base": "BLY10|EGCC|KMIA|A332/H-SDE1E3GHIJ3J5P2RWXYZ/LB1D1",
+      "callsign": "BLY10",
+      "departure": "EGCC",
+      "destination": "KMIA",
+      "aircraft": "A332/H-SDE1E3GHIJ3J5P2RWXYZ/LB1D1",
+      "first_seen_utc": "2026-06-05T22:04:23Z",
+      "last_seen_utc": "2026-06-05T22:04:23Z",
+      "seen_count": 1
+    },
     {
       "key": "110f0c061d63c7b9a1431073c7801741e64008ba",
       "base": "BLY7464|EGJJ|EGGP|A320/M-SDE3FGHIRWY/LB1",
@@ -1287,50 +1298,6 @@
       "first_seen_utc": "2026-05-09T09:30:22Z",
       "last_seen_utc": "2026-05-09T12:50:21Z",
       "seen_count": 43
-    },
-    {
-      "key": "a3aa71c4c133a22df2425d2cb34ac3c915ce0fd9",
-      "base": "BLY7464|EGCC|EGNT|A319/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY7464",
-      "departure": "EGCC",
-      "destination": "EGNT",
-      "aircraft": "A319/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-05-08T20:50:22Z",
-      "last_seen_utc": "2026-05-08T21:50:15Z",
-      "seen_count": 14
-    },
-    {
-      "key": "34cc80bbe6f57d97c513e7b4fa258943fe6f4019",
-      "base": "BLY2040|EGNT|EGGP|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY2040",
-      "departure": "EGNT",
-      "destination": "EGGP",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-05-08T19:30:32Z",
-      "last_seen_utc": "2026-05-08T21:40:15Z",
-      "seen_count": 28
-    },
-    {
-      "key": "72224b2d329312b6bb5e0eaf5a6e48b501240dc9",
-      "base": "BLY1151|EGNT|EGGP|RJ1H/M-SDFGIRWY/LB1",
-      "callsign": "BLY1151",
-      "departure": "EGNT",
-      "destination": "EGGP",
-      "aircraft": "RJ1H/M-SDFGIRWY/LB1",
-      "first_seen_utc": "2026-05-08T19:50:22Z",
-      "last_seen_utc": "2026-05-08T21:40:15Z",
-      "seen_count": 25
-    },
-    {
-      "key": "8187501ab0323b4319ef259aca6845e7f21f6aad",
-      "base": "BLY1152|EGNT|EGGP|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY1152",
-      "departure": "EGNT",
-      "destination": "EGGP",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-05-08T20:30:30Z",
-      "last_seen_utc": "2026-05-08T21:40:15Z",
-      "seen_count": 16
     }
   ]
 }
