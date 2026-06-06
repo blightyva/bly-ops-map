@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-06-06T17:37:31Z",
+  "updated_utc": "2026-06-06T18:53:10Z",
   "flights": [
+    {
+      "key": "92586cc605ac12c22b855dc2ec5476291a321143",
+      "base": "BLY50LU|EGCC|KLAX|A388/J-SADE2E3FGHIJ3J4J5M1RWXY/LB1D1",
+      "callsign": "BLY50LU",
+      "departure": "EGCC",
+      "destination": "KLAX",
+      "aircraft": "A388/J-SADE2E3FGHIJ3J4J5M1RWXY/LB1D1",
+      "first_seen_utc": "2026-06-06T18:53:10Z",
+      "last_seen_utc": "2026-06-06T18:53:10Z",
+      "seen_count": 1
+    },
     {
       "key": "7751255bd5e28c4827fecd88aaf72af024e103d0",
       "base": "BLY19|TBPB|KMIA|L101/H-SDFHIRWXY/S",
@@ -1309,17 +1320,6 @@
       "first_seen_utc": "2026-05-09T17:30:24Z",
       "last_seen_utc": "2026-05-09T19:10:15Z",
       "seen_count": 23
-    },
-    {
-      "key": "8313dae979f394e9fd5389a53df2ab2fe591c52a",
-      "base": "BLY95BC|EDDM|EGCC|A321/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY95BC",
-      "departure": "EDDM",
-      "destination": "EGCC",
-      "aircraft": "A321/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-05-09T15:30:23Z",
-      "last_seen_utc": "2026-05-09T18:05:12Z",
-      "seen_count": 35
     }
   ]
 }
