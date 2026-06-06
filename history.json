@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-06-06T20:10:28Z",
+  "updated_utc": "2026-06-06T21:31:17Z",
   "flights": [
+    {
+      "key": "95df5aa25f31f02337b78b717d47d3483a942bae",
+      "base": "BLY50LU|EGCC|KLAX|A388/J-SADE2E3FGHIJ3J4J5M1RWXY/LB1D1",
+      "callsign": "BLY50LU",
+      "departure": "EGCC",
+      "destination": "KLAX",
+      "aircraft": "A388/J-SADE2E3FGHIJ3J4J5M1RWXY/LB1D1",
+      "first_seen_utc": "2026-06-06T21:31:17Z",
+      "last_seen_utc": "2026-06-06T21:31:17Z",
+      "seen_count": 1
+    },
     {
       "key": "79b6bbaed4f5325d3bae04ab6c1cdbfcec1aaaa7",
       "base": "BLY50LU|EGCC|KLAX|A388/J-SADE2E3FGHIJ3J4J5M1RWXY/LB1D1",
@@ -1265,39 +1276,6 @@
       "first_seen_utc": "2026-05-09T20:40:20Z",
       "last_seen_utc": "2026-05-09T21:45:17Z",
       "seen_count": 15
-    },
-    {
-      "key": "4b87b2113836631880e8a38f608832ac6994b07b",
-      "base": "BLY157|EGGP|EGFF|AT76/M-VGD/C",
-      "callsign": "BLY157",
-      "departure": "EGGP",
-      "destination": "EGFF",
-      "aircraft": "AT76/M-VGD/C",
-      "first_seen_utc": "2026-05-09T20:00:31Z",
-      "last_seen_utc": "2026-05-09T20:55:14Z",
-      "seen_count": 13
-    },
-    {
-      "key": "5aa298d3b6e84bb08e7f59d13ee7f2648e98fa42",
-      "base": "BLY2150|-|-|-",
-      "callsign": "BLY2150",
-      "departure": "-",
-      "destination": "-",
-      "aircraft": "-",
-      "first_seen_utc": "2026-05-09T20:40:20Z",
-      "last_seen_utc": "2026-05-09T20:40:20Z",
-      "seen_count": 1
-    },
-    {
-      "key": "6f7162ab4d677e25475a7e5040e57d78e3e36bcb",
-      "base": "BLY61M|EGGP|EGNS|E75L/M-SDE3GILORVW/S",
-      "callsign": "BLY61M",
-      "departure": "EGGP",
-      "destination": "EGNS",
-      "aircraft": "E75L/M-SDE3GILORVW/S",
-      "first_seen_utc": "2026-05-09T19:40:17Z",
-      "last_seen_utc": "2026-05-09T20:35:13Z",
-      "seen_count": 14
     }
   ]
 }
