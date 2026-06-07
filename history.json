@@ -1,6 +1,28 @@
 {
-  "updated_utc": "2026-06-07T13:14:12Z",
+  "updated_utc": "2026-06-07T15:02:42Z",
   "flights": [
+    {
+      "key": "0ac7c3a4ee22ae7b60d74ab5928a7b1bf56237dc",
+      "base": "BLY7464|EGCC|LFMN|A359/H-SDE2E3GHIJ3J4J5LM1ORWXY/LB1D1",
+      "callsign": "BLY7464",
+      "departure": "EGCC",
+      "destination": "LFMN",
+      "aircraft": "A359/H-SDE2E3GHIJ3J4J5LM1ORWXY/LB1D1",
+      "first_seen_utc": "2026-06-07T15:02:42Z",
+      "last_seen_utc": "2026-06-07T15:02:42Z",
+      "seen_count": 1
+    },
+    {
+      "key": "716bc476fb8d4d44b23b39963e8c0600ec4d50b8",
+      "base": "BLY4254|EGPH|LGKR|A320/M-SDE2E3FGHIJ1RWXY/LB1",
+      "callsign": "BLY4254",
+      "departure": "EGPH",
+      "destination": "LGKR",
+      "aircraft": "A320/M-SDE2E3FGHIJ1RWXY/LB1",
+      "first_seen_utc": "2026-06-07T15:02:42Z",
+      "last_seen_utc": "2026-06-07T15:02:42Z",
+      "seen_count": 1
+    },
     {
       "key": "63f745083f6533e609dc82ab5ceb8b62b563aab8",
       "base": "BLY4254|EGPH|LGKR|A320/M-SDE2E3FGHIJ1RWXY/LB1",
@@ -1111,50 +1133,6 @@
       "first_seen_utc": "2026-05-10T14:05:01Z",
       "last_seen_utc": "2026-05-10T15:20:15Z",
       "seen_count": 18
-    },
-    {
-      "key": "5f943a6d3995b1225e48e921cd97ae16b3622376",
-      "base": "BLY212|-|-|-",
-      "callsign": "BLY212",
-      "departure": "-",
-      "destination": "-",
-      "aircraft": "-",
-      "first_seen_utc": "2026-05-10T14:00:37Z",
-      "last_seen_utc": "2026-05-10T14:00:37Z",
-      "seen_count": 1
-    },
-    {
-      "key": "445e8d65da40f193d60c54662e093f82cfca22dd",
-      "base": "BLY285C|-|-|-",
-      "callsign": "BLY285C",
-      "departure": "-",
-      "destination": "-",
-      "aircraft": "-",
-      "first_seen_utc": "2026-05-10T13:40:21Z",
-      "last_seen_utc": "2026-05-10T13:40:21Z",
-      "seen_count": 1
-    },
-    {
-      "key": "37d5e4152b2357ba55d70e9cdb1c0c1b611ee6aa",
-      "base": "BLY398U|EGCC|EGNV|A319/M-SDE2E3FGHIJ1RWXYZ/LB1",
-      "callsign": "BLY398U",
-      "departure": "EGCC",
-      "destination": "EGNV",
-      "aircraft": "A319/M-SDE2E3FGHIJ1RWXYZ/LB1",
-      "first_seen_utc": "2026-05-10T12:30:30Z",
-      "last_seen_utc": "2026-05-10T13:35:12Z",
-      "seen_count": 15
-    },
-    {
-      "key": "c3fa57cc20190514f1e769790dc1016ea2d59d2b",
-      "base": "BLY35P|EGSH|EGGP|E75L/M-SDE3GILORVW/S",
-      "callsign": "BLY35P",
-      "departure": "EGSH",
-      "destination": "EGGP",
-      "aircraft": "E75L/M-SDE3GILORVW/S",
-      "first_seen_utc": "2026-05-10T12:30:30Z",
-      "last_seen_utc": "2026-05-10T13:30:23Z",
-      "seen_count": 14
     }
   ]
 }
