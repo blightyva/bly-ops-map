@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-06-07T17:55:03Z",
+  "updated_utc": "2026-06-07T19:26:52Z",
   "flights": [
     {
       "key": "0ac7c3a4ee22ae7b60d74ab5928a7b1bf56237dc",
@@ -1078,17 +1078,6 @@
       "first_seen_utc": "2026-05-10T18:40:17Z",
       "last_seen_utc": "2026-05-10T19:50:20Z",
       "seen_count": 16
-    },
-    {
-      "key": "128cff6c9ffcf955eb688c21ee7ff7318a3efbc0",
-      "base": "BLY81RW|EGKK|EGFF|A319/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY81RW",
-      "departure": "EGKK",
-      "destination": "EGFF",
-      "aircraft": "A319/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-05-10T16:30:21Z",
-      "last_seen_utc": "2026-05-10T18:10:09Z",
-      "seen_count": 22
     }
   ]
 }
