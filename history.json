@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-06-07T20:47:14Z",
+  "updated_utc": "2026-06-07T21:54:15Z",
   "flights": [
     {
       "key": "0ac7c3a4ee22ae7b60d74ab5928a7b1bf56237dc",
@@ -1023,28 +1023,6 @@
       "first_seen_utc": "2026-05-10T20:50:13Z",
       "last_seen_utc": "2026-05-10T21:55:11Z",
       "seen_count": 15
-    },
-    {
-      "key": "6c5cd7a0171782ae897e238249fb8619bd80d738",
-      "base": "BLY125|EGCC|EGLL|A343/H-SDE2E3FGHIJ4J5M1RWXY/LB1D1",
-      "callsign": "BLY125",
-      "departure": "EGCC",
-      "destination": "EGLL",
-      "aircraft": "A343/H-SDE2E3FGHIJ4J5M1RWXY/LB1D1",
-      "first_seen_utc": "2026-05-10T21:25:11Z",
-      "last_seen_utc": "2026-05-10T21:35:13Z",
-      "seen_count": 3
-    },
-    {
-      "key": "9b47a8c2b3656af97c0da4b06b90871326800ec3",
-      "base": "BLY85QF|EGHQ|EGCC|A20N/M-SDE2E3FGHIRWXY/LB1",
-      "callsign": "BLY85QF",
-      "departure": "EGHQ",
-      "destination": "EGCC",
-      "aircraft": "A20N/M-SDE2E3FGHIRWXY/LB1",
-      "first_seen_utc": "2026-05-10T21:10:16Z",
-      "last_seen_utc": "2026-05-10T21:10:16Z",
-      "seen_count": 1
     }
   ]
 }
