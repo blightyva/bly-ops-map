@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-06-07T23:07:54Z",
+  "updated_utc": "2026-06-08T00:20:50Z",
   "flights": [
     {
       "key": "0ac7c3a4ee22ae7b60d74ab5928a7b1bf56237dc",
@@ -990,28 +990,6 @@
       "first_seen_utc": "2026-05-11T10:25:13Z",
       "last_seen_utc": "2026-05-11T10:50:16Z",
       "seen_count": 6
-    },
-    {
-      "key": "8caf247966490f29ced25d3e6fd15311a53c47d9",
-      "base": "BLY24Y|EGGP|LCPH|B38M/M-SDE1FGHILORVWXY/HB1",
-      "callsign": "BLY24Y",
-      "departure": "EGGP",
-      "destination": "LCPH",
-      "aircraft": "B38M/M-SDE1FGHILORVWXY/HB1",
-      "first_seen_utc": "2026-05-10T23:30:23Z",
-      "last_seen_utc": "2026-05-11T00:00:33Z",
-      "seen_count": 7
-    },
-    {
-      "key": "ca09b5a4cbab6580fafbc953a478cea9cdf1d566",
-      "base": "BLY68M|EGHQ|EGGP|A20N/M-SDE2E3FGHIRWXY/LB1",
-      "callsign": "BLY68M",
-      "departure": "EGHQ",
-      "destination": "EGGP",
-      "aircraft": "A20N/M-SDE2E3FGHIRWXY/LB1",
-      "first_seen_utc": "2026-05-10T21:55:11Z",
-      "last_seen_utc": "2026-05-10T23:15:16Z",
-      "seen_count": 18
     }
   ]
 }
