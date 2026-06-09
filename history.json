@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-06-09T21:06:35Z",
+  "updated_utc": "2026-06-09T22:47:13Z",
   "flights": [
+    {
+      "key": "ab61344eac2f1a4b65476a95d7b9a796efb25427",
+      "base": "BLY52|YSSY|WSSS|A388/J-SADE2E3FGHIJ3J4J5M1RWXY/LB1D1",
+      "callsign": "BLY52",
+      "departure": "YSSY",
+      "destination": "WSSS",
+      "aircraft": "A388/J-SADE2E3FGHIJ3J4J5M1RWXY/LB1D1",
+      "first_seen_utc": "2026-06-09T22:47:13Z",
+      "last_seen_utc": "2026-06-09T22:47:13Z",
+      "seen_count": 1
+    },
     {
       "key": "acbdcc2a8de7e697441547aab4591dee27d4da1a",
       "base": "BLY52|YSSY|WSSS|A388/J-SADE2E3FGHIJ3J4J5M1RWXY/LB1D1",
@@ -858,17 +869,6 @@
       "first_seen_utc": "2026-05-13T14:30:29Z",
       "last_seen_utc": "2026-05-13T16:45:19Z",
       "seen_count": 29
-    },
-    {
-      "key": "68e108b3b8ab265662ddf57edea46edf3cdbb120",
-      "base": "BLY7464|EGCC|EGGW|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY7464",
-      "departure": "EGCC",
-      "destination": "EGGW",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-05-12T20:50:22Z",
-      "last_seen_utc": "2026-05-12T22:00:39Z",
-      "seen_count": 16
     }
   ]
 }
