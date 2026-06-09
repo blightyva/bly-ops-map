@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-06-09T14:05:18Z",
+  "updated_utc": "2026-06-09T16:44:27Z",
   "flights": [
+    {
+      "key": "bd9d674cc687c1b72ca8e147d489340ffd9bcd04",
+      "base": "BLY52|YSSY|WSSS|A388/J-SADE2E3FGHIJ3J4J5M1RWXY/LB1D1",
+      "callsign": "BLY52",
+      "departure": "YSSY",
+      "destination": "WSSS",
+      "aircraft": "A388/J-SADE2E3FGHIJ3J4J5M1RWXY/LB1D1",
+      "first_seen_utc": "2026-06-09T16:44:27Z",
+      "last_seen_utc": "2026-06-09T16:44:27Z",
+      "seen_count": 1
+    },
     {
       "key": "0ac7c3a4ee22ae7b60d74ab5928a7b1bf56237dc",
       "base": "BLY7464|EGCC|LFMN|A359/H-SDE2E3GHIJ3J4J5LM1ORWXY/LB1D1",
@@ -880,28 +891,6 @@
       "first_seen_utc": "2026-05-12T17:35:14Z",
       "last_seen_utc": "2026-05-12T18:35:20Z",
       "seen_count": 14
-    },
-    {
-      "key": "1b3f45718bf1d64e30f91de106c7c12f2bf5782c",
-      "base": "BLY96G|EGAE|EGGP|E175/M-SDE3GILORVW/S",
-      "callsign": "BLY96G",
-      "departure": "EGAE",
-      "destination": "EGGP",
-      "aircraft": "E175/M-SDE3GILORVW/S",
-      "first_seen_utc": "2026-05-12T13:35:48Z",
-      "last_seen_utc": "2026-05-12T14:35:35Z",
-      "seen_count": 13
-    },
-    {
-      "key": "3bf0c5129d78f540a6b5d0d91c42fe1b27353468",
-      "base": "BLY2213|EGCC|LEPA|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY2213",
-      "departure": "EGCC",
-      "destination": "LEPA",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-05-12T13:55:29Z",
-      "last_seen_utc": "2026-05-12T14:35:35Z",
-      "seen_count": 9
     }
   ]
 }
