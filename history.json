@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-06-09T19:02:53Z",
+  "updated_utc": "2026-06-09T21:06:35Z",
   "flights": [
+    {
+      "key": "acbdcc2a8de7e697441547aab4591dee27d4da1a",
+      "base": "BLY52|YSSY|WSSS|A388/J-SADE2E3FGHIJ3J4J5M1RWXY/LB1D1",
+      "callsign": "BLY52",
+      "departure": "YSSY",
+      "destination": "WSSS",
+      "aircraft": "A388/J-SADE2E3FGHIJ3J4J5M1RWXY/LB1D1",
+      "first_seen_utc": "2026-06-09T21:06:35Z",
+      "last_seen_utc": "2026-06-09T21:06:35Z",
+      "seen_count": 1
+    },
     {
       "key": "bd9d674cc687c1b72ca8e147d489340ffd9bcd04",
       "base": "BLY52|YSSY|WSSS|A388/J-SADE2E3FGHIJ3J4J5M1RWXY/LB1D1",
@@ -858,28 +869,6 @@
       "first_seen_utc": "2026-05-12T20:50:22Z",
       "last_seen_utc": "2026-05-12T22:00:39Z",
       "seen_count": 16
-    },
-    {
-      "key": "08eb3d0c3e5cdde0d82b34e8fe4457134e7497e5",
-      "base": "BLY77P|EGGD|EGGP|E75S/M-SDE3GILORVW/S",
-      "callsign": "BLY77P",
-      "departure": "EGGD",
-      "destination": "EGGP",
-      "aircraft": "E75S/M-SDE3GILORVW/S",
-      "first_seen_utc": "2026-05-12T19:15:17Z",
-      "last_seen_utc": "2026-05-12T19:35:12Z",
-      "seen_count": 6
-    },
-    {
-      "key": "fa7096b46a7d7358ac076c6efd7a0aca874f28e0",
-      "base": "BLY77P|EGGD|EGGP|E175/M-SDE3GILORVW/S",
-      "callsign": "BLY77P",
-      "departure": "EGGD",
-      "destination": "EGGP",
-      "aircraft": "E175/M-SDE3GILORVW/S",
-      "first_seen_utc": "2026-05-12T18:40:24Z",
-      "last_seen_utc": "2026-05-12T19:10:24Z",
-      "seen_count": 7
     }
   ]
 }
