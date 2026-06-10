@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-06-10T18:37:50Z",
+  "updated_utc": "2026-06-10T21:13:18Z",
   "flights": [
+    {
+      "key": "296fd3eccc02f1946e309d08511ad3190d4ca8a1",
+      "base": "BLY212|EGPH|LSGG|A359/H-SDE2E3GHIJ3J4J5LM1ORWXY/LB1D1",
+      "callsign": "BLY212",
+      "departure": "EGPH",
+      "destination": "LSGG",
+      "aircraft": "A359/H-SDE2E3GHIJ3J4J5LM1ORWXY/LB1D1",
+      "first_seen_utc": "2026-06-10T21:13:18Z",
+      "last_seen_utc": "2026-06-10T21:13:18Z",
+      "seen_count": 1
+    },
     {
       "key": "ab61344eac2f1a4b65476a95d7b9a796efb25427",
       "base": "BLY52|YSSY|WSSS|A388/J-SADE2E3FGHIJ3J4J5M1RWXY/LB1D1",
@@ -847,17 +858,6 @@
       "first_seen_utc": "2026-05-13T19:00:35Z",
       "last_seen_utc": "2026-05-13T21:41:35Z",
       "seen_count": 35
-    },
-    {
-      "key": "decab392ff7b218acfd33f75a953b60381218911",
-      "base": "BLY84TE|EGCC|LXGB|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY84TE",
-      "departure": "EGCC",
-      "destination": "LXGB",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-05-13T15:45:26Z",
-      "last_seen_utc": "2026-05-13T19:15:24Z",
-      "seen_count": 45
     }
   ]
 }
