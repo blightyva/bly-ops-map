@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-06-12T20:13:33Z",
+  "updated_utc": "2026-06-12T22:01:39Z",
   "flights": [
+    {
+      "key": "f5fc20f58f095c8aaf71a2deceb3b1ef86a0a34d",
+      "base": "BLY7464|EGCC|LFBO|B738/M-SDE2E3FGHIRWXY/LB1",
+      "callsign": "BLY7464",
+      "departure": "EGCC",
+      "destination": "LFBO",
+      "aircraft": "B738/M-SDE2E3FGHIRWXY/LB1",
+      "first_seen_utc": "2026-06-12T22:01:39Z",
+      "last_seen_utc": "2026-06-12T22:01:39Z",
+      "seen_count": 1
+    },
     {
       "key": "54fff75463d4440dd1174177d2d34eff9585ec84",
       "base": "BLY42UD|LEMG|EGGP|A320/M-SDE3FGHIRWY/LB1",
