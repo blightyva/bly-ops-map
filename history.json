@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-06-13T15:13:31Z",
+  "updated_utc": "2026-06-13T16:51:37Z",
   "flights": [
     {
       "key": "69da2efc26130c0f3f5836adfcdcd76250edc447",
@@ -847,17 +847,6 @@
       "first_seen_utc": "2026-05-17T06:35:13Z",
       "last_seen_utc": "2026-05-17T07:40:16Z",
       "seen_count": 14
-    },
-    {
-      "key": "1d744eee1d18616714ccf48bd09bcb4f6dee98c0",
-      "base": "BLY4151|EGNT|EGPH|A20N/M-SDE2E3FGHIJ1RWXY/LB1",
-      "callsign": "BLY4151",
-      "departure": "EGNT",
-      "destination": "EGPH",
-      "aircraft": "A20N/M-SDE2E3FGHIJ1RWXY/LB1",
-      "first_seen_utc": "2026-05-16T15:55:11Z",
-      "last_seen_utc": "2026-05-16T15:55:11Z",
-      "seen_count": 1
     }
   ]
 }
