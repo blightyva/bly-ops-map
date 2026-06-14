@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-06-14T06:55:18Z",
+  "updated_utc": "2026-06-14T10:26:08Z",
   "flights": [
     {
       "key": "53e653242f5559b733af379c813777927f3b69d2",
@@ -858,17 +858,6 @@
       "first_seen_utc": "2026-05-17T13:30:23Z",
       "last_seen_utc": "2026-05-17T15:00:31Z",
       "seen_count": 20
-    },
-    {
-      "key": "d62fef6ba52038842c2ed44f9265a7d3948d0127",
-      "base": "BLY212|EGPF|EGCC|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY212",
-      "departure": "EGPF",
-      "destination": "EGCC",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-05-17T06:35:13Z",
-      "last_seen_utc": "2026-05-17T07:40:16Z",
-      "seen_count": 14
     }
   ]
 }
