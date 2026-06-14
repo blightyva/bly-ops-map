@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-06-14T22:13:38Z",
+  "updated_utc": "2026-06-14T23:39:07Z",
   "flights": [
     {
       "key": "53e653242f5559b733af379c813777927f3b69d2",
@@ -781,28 +781,6 @@
       "first_seen_utc": "2026-05-18T16:50:26Z",
       "last_seen_utc": "2026-05-18T18:35:18Z",
       "seen_count": 23
-    },
-    {
-      "key": "a791418f3a847a48e47304594b6145eef31bd281",
-      "base": "BLY7464|EGCC|EGJJ|B738/M-SDE2E3FGHIRWXY/LB1",
-      "callsign": "BLY7464",
-      "departure": "EGCC",
-      "destination": "EGJJ",
-      "aircraft": "B738/M-SDE2E3FGHIRWXY/LB1",
-      "first_seen_utc": "2026-05-17T21:15:16Z",
-      "last_seen_utc": "2026-05-17T23:00:30Z",
-      "seen_count": 24
-    },
-    {
-      "key": "020d4c28d11e60d299d543946f017ae3190002aa",
-      "base": "BLY88FB|EGGD|EGCC|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY88FB",
-      "departure": "EGGD",
-      "destination": "EGCC",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-05-17T21:34:54Z",
-      "last_seen_utc": "2026-05-17T22:25:11Z",
-      "seen_count": 12
     }
   ]
 }
