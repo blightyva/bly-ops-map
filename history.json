@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-06-14T20:52:02Z",
+  "updated_utc": "2026-06-14T22:13:38Z",
   "flights": [
     {
       "key": "53e653242f5559b733af379c813777927f3b69d2",
@@ -803,17 +803,6 @@
       "first_seen_utc": "2026-05-17T21:34:54Z",
       "last_seen_utc": "2026-05-17T22:25:11Z",
       "seen_count": 12
-    },
-    {
-      "key": "421b472275aa5a78ea0e4475d16923b28ed914d2",
-      "base": "BLY46BW|EGCC|EGGD|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY46BW",
-      "departure": "EGCC",
-      "destination": "EGGD",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-05-17T19:30:21Z",
-      "last_seen_utc": "2026-05-17T21:25:13Z",
-      "seen_count": 26
     }
   ]
 }
