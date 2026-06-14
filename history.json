@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-06-14T16:13:20Z",
+  "updated_utc": "2026-06-14T17:52:26Z",
   "flights": [
     {
       "key": "53e653242f5559b733af379c813777927f3b69d2",
@@ -825,17 +825,6 @@
       "first_seen_utc": "2026-05-17T15:35:12Z",
       "last_seen_utc": "2026-05-17T19:25:11Z",
       "seen_count": 50
-    },
-    {
-      "key": "941b226d530f87031b362040fb170a0bb90802f2",
-      "base": "BLY09|EGCC|EGHH|A343/H-SDE2E3FGHIJ4J5M1RWXY/LB1D1",
-      "callsign": "BLY09",
-      "departure": "EGCC",
-      "destination": "EGHH",
-      "aircraft": "A343/H-SDE2E3FGHIJ4J5M1RWXY/LB1D1",
-      "first_seen_utc": "2026-05-17T15:25:11Z",
-      "last_seen_utc": "2026-05-17T16:30:23Z",
-      "seen_count": 15
     }
   ]
 }
