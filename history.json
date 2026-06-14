@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-06-14T17:52:26Z",
+  "updated_utc": "2026-06-14T19:39:40Z",
   "flights": [
     {
       "key": "53e653242f5559b733af379c813777927f3b69d2",
@@ -814,17 +814,6 @@
       "first_seen_utc": "2026-05-17T19:30:21Z",
       "last_seen_utc": "2026-05-17T21:25:13Z",
       "seen_count": 26
-    },
-    {
-      "key": "6616f290f82f7fa0aaf831eef6d1c2fac276fefa",
-      "base": "BLY8C|LXGB|EGCC|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY8C",
-      "departure": "LXGB",
-      "destination": "EGCC",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-05-17T15:35:12Z",
-      "last_seen_utc": "2026-05-17T19:25:11Z",
-      "seen_count": 50
     }
   ]
 }
