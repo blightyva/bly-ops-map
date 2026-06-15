@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-06-15T21:26:59Z",
+  "updated_utc": "2026-06-15T23:19:19Z",
   "flights": [
     {
       "key": "2bc4eb9607ccfed1cd805a6e437f80b6b979cbd1",
@@ -748,28 +748,6 @@
       "first_seen_utc": "2026-05-19T07:00:38Z",
       "last_seen_utc": "2026-05-19T09:25:15Z",
       "seen_count": 31
-    },
-    {
-      "key": "8a4fd05101639a05c253c49b45752ccae17bfee5",
-      "base": "BLY4114|EGPH|EGFF|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY4114",
-      "departure": "EGPH",
-      "destination": "EGFF",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-05-18T21:54:19Z",
-      "last_seen_utc": "2026-05-18T22:10:17Z",
-      "seen_count": 5
-    },
-    {
-      "key": "71dad608d20e1bf5c6d4e847a6e9fa37c0227152",
-      "base": "BLY4212|EIDW|EGPH|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY4212",
-      "departure": "EIDW",
-      "destination": "EGPH",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-05-18T20:25:14Z",
-      "last_seen_utc": "2026-05-18T21:50:16Z",
-      "seen_count": 19
     }
   ]
 }
