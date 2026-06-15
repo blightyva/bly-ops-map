@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-06-15T18:14:33Z",
+  "updated_utc": "2026-06-15T21:26:59Z",
   "flights": [
+    {
+      "key": "2bc4eb9607ccfed1cd805a6e437f80b6b979cbd1",
+      "base": "BLY7464|LFBO|EGNX|B738/M-SDE2E3FGHIRWXY/LB1",
+      "callsign": "BLY7464",
+      "departure": "LFBO",
+      "destination": "EGNX",
+      "aircraft": "B738/M-SDE2E3FGHIRWXY/LB1",
+      "first_seen_utc": "2026-06-15T21:26:59Z",
+      "last_seen_utc": "2026-06-15T21:26:59Z",
+      "seen_count": 1
+    },
     {
       "key": "53e653242f5559b733af379c813777927f3b69d2",
       "base": "BLY422I|EGCC|LIMC|A320/M-SDE3FGHIRWY/LB1",
@@ -759,28 +770,6 @@
       "first_seen_utc": "2026-05-18T20:25:14Z",
       "last_seen_utc": "2026-05-18T21:50:16Z",
       "seen_count": 19
-    },
-    {
-      "key": "5e7cce62c713222541e0c3e13eaf0947cec08487",
-      "base": "BLY611W|EGPH|EIDW|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY611W",
-      "departure": "EGPH",
-      "destination": "EIDW",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-05-18T18:40:25Z",
-      "last_seen_utc": "2026-05-18T20:20:18Z",
-      "seen_count": 22
-    },
-    {
-      "key": "94264729fc8d07764a0e04398ec25d0319d5976b",
-      "base": "BLY188C|EGCC|EGPH|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY188C",
-      "departure": "EGCC",
-      "destination": "EGPH",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-05-18T16:50:26Z",
-      "last_seen_utc": "2026-05-18T18:35:18Z",
-      "seen_count": 23
     }
   ]
 }
