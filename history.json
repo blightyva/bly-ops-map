@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-06-16T12:31:28Z",
+  "updated_utc": "2026-06-16T17:36:31Z",
   "flights": [
     {
       "key": "2bc4eb9607ccfed1cd805a6e437f80b6b979cbd1",
@@ -704,28 +704,6 @@
       "first_seen_utc": "2026-05-19T17:30:28Z",
       "last_seen_utc": "2026-05-19T18:40:18Z",
       "seen_count": 15
-    },
-    {
-      "key": "76e1649659261e55711b82496ae7dc94a41a9cf8",
-      "base": "BLY49Y|EGHH|EGGP|E175/M-SDE3GILORVW/S",
-      "callsign": "BLY49Y",
-      "departure": "EGHH",
-      "destination": "EGGP",
-      "aircraft": "E175/M-SDE3GILORVW/S",
-      "first_seen_utc": "2026-05-19T15:55:16Z",
-      "last_seen_utc": "2026-05-19T16:50:18Z",
-      "seen_count": 12
-    },
-    {
-      "key": "a88d0dfd94d4986f3d4c31e8f809d472034b9acf",
-      "base": "BLY220|EGGP|EGHH|E175/M-SDE3GILORVW/S",
-      "callsign": "BLY220",
-      "departure": "EGGP",
-      "destination": "EGHH",
-      "aircraft": "E175/M-SDE3GILORVW/S",
-      "first_seen_utc": "2026-05-19T14:50:21Z",
-      "last_seen_utc": "2026-05-19T15:50:19Z",
-      "seen_count": 13
     }
   ]
 }
