@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-06-16T17:36:31Z",
+  "updated_utc": "2026-06-16T20:30:25Z",
   "flights": [
     {
       "key": "2bc4eb9607ccfed1cd805a6e437f80b6b979cbd1",
@@ -693,17 +693,6 @@
       "first_seen_utc": "2026-05-19T20:50:17Z",
       "last_seen_utc": "2026-05-19T21:15:18Z",
       "seen_count": 7
-    },
-    {
-      "key": "23b21ad11bf39754545340a53b1adfb2a408eba0",
-      "base": "BLY34A|EGGP|EGPH|E175/M-SDE3GILORVW/S",
-      "callsign": "BLY34A",
-      "departure": "EGGP",
-      "destination": "EGPH",
-      "aircraft": "E175/M-SDE3GILORVW/S",
-      "first_seen_utc": "2026-05-19T17:30:28Z",
-      "last_seen_utc": "2026-05-19T18:40:18Z",
-      "seen_count": 15
     }
   ]
 }
