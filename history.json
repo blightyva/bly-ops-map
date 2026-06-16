@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-06-16T07:40:10Z",
+  "updated_utc": "2026-06-16T12:31:28Z",
   "flights": [
     {
       "key": "2bc4eb9607ccfed1cd805a6e437f80b6b979cbd1",
@@ -726,28 +726,6 @@
       "first_seen_utc": "2026-05-19T14:50:21Z",
       "last_seen_utc": "2026-05-19T15:50:19Z",
       "seen_count": 13
-    },
-    {
-      "key": "03679a2e8d72a8f79ea60b0574f55bd7f400443a",
-      "base": "BLY212|LCLK|EGCC|A321/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY212",
-      "departure": "LCLK",
-      "destination": "EGCC",
-      "aircraft": "A321/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-05-19T10:20:18Z",
-      "last_seen_utc": "2026-05-19T10:55:14Z",
-      "seen_count": 8
-    },
-    {
-      "key": "8e8a95282a5547df28d029404755204dabfa51a4",
-      "base": "BLY212|LCLK|EGCC|A321/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY212",
-      "departure": "LCLK",
-      "destination": "EGCC",
-      "aircraft": "A321/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-05-19T07:00:38Z",
-      "last_seen_utc": "2026-05-19T09:25:15Z",
-      "seen_count": 31
     }
   ]
 }
