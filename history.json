@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-06-17T10:08:14Z",
+  "updated_utc": "2026-06-17T13:59:19Z",
   "flights": [
     {
       "key": "29112cdeff0dc19d5fc49bda1595df03a2555a91",
@@ -671,17 +671,6 @@
       "first_seen_utc": "2026-05-20T14:55:16Z",
       "last_seen_utc": "2026-05-20T15:45:23Z",
       "seen_count": 9
-    },
-    {
-      "key": "e9623935c536523643d741a576f77bdbff966709",
-      "base": "BLY80R|LCPH|EGGP|B38M/M-SDE1FGHILORVWXY/HB1",
-      "callsign": "BLY80R",
-      "departure": "LCPH",
-      "destination": "EGGP",
-      "aircraft": "B38M/M-SDE1FGHILORVWXY/HB1",
-      "first_seen_utc": "2026-05-20T13:15:22Z",
-      "last_seen_utc": "2026-05-20T13:45:21Z",
-      "seen_count": 7
     }
   ]
 }
