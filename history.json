@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-06-18T14:11:21Z",
+  "updated_utc": "2026-06-18T17:33:14Z",
   "flights": [
     {
       "key": "7428539f9efc38b8cfaaec1f343b56051ebe8655",
@@ -638,28 +638,6 @@
       "first_seen_utc": "2026-05-21T19:50:18Z",
       "last_seen_utc": "2026-05-21T19:50:18Z",
       "seen_count": 1
-    },
-    {
-      "key": "686ba2018691d97cb308f4f2133db6a4b6639c0f",
-      "base": "BLY78M|EGPH|EGPE|A319/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY78M",
-      "departure": "EGPH",
-      "destination": "EGPE",
-      "aircraft": "A319/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-05-21T15:35:22Z",
-      "last_seen_utc": "2026-05-21T16:25:15Z",
-      "seen_count": 11
-    },
-    {
-      "key": "d2cb87ce934f17181508b47b8be583d435ea977a",
-      "base": "BLY95A|EGPD|EGPH|E175/M-SDE3GILORVW/S",
-      "callsign": "BLY95A",
-      "departure": "EGPD",
-      "destination": "EGPH",
-      "aircraft": "E175/M-SDE3GILORVW/S",
-      "first_seen_utc": "2026-05-21T13:35:16Z",
-      "last_seen_utc": "2026-05-21T14:35:18Z",
-      "seen_count": 13
     }
   ]
 }
