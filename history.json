@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-06-18T17:33:14Z",
+  "updated_utc": "2026-06-18T19:53:15Z",
   "flights": [
     {
       "key": "7428539f9efc38b8cfaaec1f343b56051ebe8655",
@@ -627,17 +627,6 @@
       "first_seen_utc": "2026-05-22T20:30:24Z",
       "last_seen_utc": "2026-05-22T21:45:18Z",
       "seen_count": 17
-    },
-    {
-      "key": "699ce2ebd6f02709cd6142ab4244c5438f61f275",
-      "base": "BLY44BI|EGPH|EGGP|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY44BI",
-      "departure": "EGPH",
-      "destination": "EGGP",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-05-21T19:50:18Z",
-      "last_seen_utc": "2026-05-21T19:50:18Z",
-      "seen_count": 1
     }
   ]
 }
