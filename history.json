@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-06-18T10:55:06Z",
+  "updated_utc": "2026-06-18T14:11:21Z",
   "flights": [
+    {
+      "key": "7428539f9efc38b8cfaaec1f343b56051ebe8655",
+      "base": "BLY212|EGCC|BIKF|A321/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY212",
+      "departure": "EGCC",
+      "destination": "BIKF",
+      "aircraft": "A321/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-06-18T14:11:21Z",
+      "last_seen_utc": "2026-06-18T14:11:21Z",
+      "seen_count": 1
+    },
     {
       "key": "29112cdeff0dc19d5fc49bda1595df03a2555a91",
       "base": "BLY689J|LFBE|EGGP|B38M/M-SDE1FGHILORVWXY/HB1",
@@ -648,17 +659,6 @@
       "aircraft": "E175/M-SDE3GILORVW/S",
       "first_seen_utc": "2026-05-21T13:35:16Z",
       "last_seen_utc": "2026-05-21T14:35:18Z",
-      "seen_count": 13
-    },
-    {
-      "key": "85361ef565f1d7f75cd72e97de4244d8c71cdc08",
-      "base": "BLY59X|EGPH|EGPD|E175/M-SDE3GILORVW/S",
-      "callsign": "BLY59X",
-      "departure": "EGPH",
-      "destination": "EGPD",
-      "aircraft": "E175/M-SDE3GILORVW/S",
-      "first_seen_utc": "2026-05-21T12:35:17Z",
-      "last_seen_utc": "2026-05-21T13:30:28Z",
       "seen_count": 13
     }
   ]
