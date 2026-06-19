@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-06-19T21:21:21Z",
+  "updated_utc": "2026-06-19T22:30:51Z",
   "flights": [
     {
       "key": "7428539f9efc38b8cfaaec1f343b56051ebe8655",
@@ -616,17 +616,6 @@
       "first_seen_utc": "2026-05-24T13:35:11Z",
       "last_seen_utc": "2026-05-24T14:55:12Z",
       "seen_count": 18
-    },
-    {
-      "key": "f484a11c0b14f1182709e4405536d617d7e9a35e",
-      "base": "BLY7464|EGGP|EINN|A319/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY7464",
-      "departure": "EGGP",
-      "destination": "EINN",
-      "aircraft": "A319/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-05-22T20:30:24Z",
-      "last_seen_utc": "2026-05-22T21:45:18Z",
-      "seen_count": 17
     }
   ]
 }
