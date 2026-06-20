@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-06-20T16:55:56Z",
+  "updated_utc": "2026-06-20T18:16:23Z",
   "flights": [
+    {
+      "key": "79cf6cbf0cb6b5b7b6e0c4b09ba78e0811a3ea76",
+      "base": "BLY70Z|-|-|-",
+      "callsign": "BLY70Z",
+      "departure": "-",
+      "destination": "-",
+      "aircraft": "-",
+      "first_seen_utc": "2026-06-20T18:16:23Z",
+      "last_seen_utc": "2026-06-20T18:16:23Z",
+      "seen_count": 1
+    },
     {
       "key": "306005f9b35a1a3a5c7cb009dba7fcfe7084be49",
       "base": "BLY3|EGKK|CYUL|CONC/M-SDFHIRW/L",
