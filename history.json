@@ -1,6 +1,28 @@
 {
-  "updated_utc": "2026-06-20T13:16:17Z",
+  "updated_utc": "2026-06-20T15:17:45Z",
   "flights": [
+    {
+      "key": "6053b0ee87a9cde467d32944b728904dde65f7f0",
+      "base": "BLY513N|LIML|EGCC|A320/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY513N",
+      "departure": "LIML",
+      "destination": "EGCC",
+      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-06-20T15:17:45Z",
+      "last_seen_utc": "2026-06-20T15:17:45Z",
+      "seen_count": 1
+    },
+    {
+      "key": "eb881760fe927b92a5d0605c713a293fedc0aa9b",
+      "base": "BLY3|EGKK|CYUL|CONC/M-SDFHIRW/L",
+      "callsign": "BLY3",
+      "departure": "EGKK",
+      "destination": "CYUL",
+      "aircraft": "CONC/M-SDFHIRW/L",
+      "first_seen_utc": "2026-06-20T15:17:45Z",
+      "last_seen_utc": "2026-06-20T15:17:45Z",
+      "seen_count": 1
+    },
     {
       "key": "26bb9d1d1b147c72583b228d783d724ba7cfbd5b",
       "base": "BLY1234|LIMC|LIML|A320/M-SDE3FGHIRWY/LB1",
