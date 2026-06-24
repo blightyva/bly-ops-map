@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-06-24T17:16:19Z",
+  "updated_utc": "2026-06-24T19:02:07Z",
   "flights": [
+    {
+      "key": "0c0b983580f8c7c845cf0cf42133c5f3fcfaa511",
+      "base": "BLY212|BIKF|EGGP|A321/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY212",
+      "departure": "BIKF",
+      "destination": "EGGP",
+      "aircraft": "A321/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-06-24T19:02:07Z",
+      "last_seen_utc": "2026-06-24T19:02:07Z",
+      "seen_count": 1
+    },
     {
       "key": "cdc29be575ed5767b8173291fcf5ed75b45e0718",
       "base": "BLY9|EGGP|LOWI|F28/M-SDFIRWY/H",
