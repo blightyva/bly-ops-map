@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-06-26T17:06:23Z",
+  "updated_utc": "2026-06-26T19:01:32Z",
   "flights": [
     {
       "key": "2eba4c9efbc4801170ce4a80abc97a0518bff0af",
@@ -836,17 +836,6 @@
       "first_seen_utc": "2026-05-29T20:00:34Z",
       "last_seen_utc": "2026-05-29T21:35:13Z",
       "seen_count": 19
-    },
-    {
-      "key": "b876e6873c8d1f0e8a2d1cc7e4fb21ddd9f04b51",
-      "base": "BLY86Y|EGNV|EGGP|A319/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY86Y",
-      "departure": "EGNV",
-      "destination": "EGGP",
-      "aircraft": "A319/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-05-29T17:05:20Z",
-      "last_seen_utc": "2026-05-29T18:05:16Z",
-      "seen_count": 13
     }
   ]
 }
