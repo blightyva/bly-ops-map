@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-06-25T23:45:06Z",
+  "updated_utc": "2026-06-26T01:54:02Z",
   "flights": [
     {
       "key": "7ec5b7efb372eaab296e8e3f88c79170384d611a",
@@ -869,17 +869,6 @@
       "first_seen_utc": "2026-05-29T12:40:19Z",
       "last_seen_utc": "2026-05-29T12:40:19Z",
       "seen_count": 1
-    },
-    {
-      "key": "13eb9c660faa3af0d2b3c24fa49f14b8257952da",
-      "base": "BLY41S|TBPB|EGCC|L101/H-SDFGHIRWXY/S",
-      "callsign": "BLY41S",
-      "departure": "TBPB",
-      "destination": "EGCC",
-      "aircraft": "L101/H-SDFGHIRWXY/S",
-      "first_seen_utc": "2026-05-28T23:35:12Z",
-      "last_seen_utc": "2026-05-29T00:05:12Z",
-      "seen_count": 7
     }
   ]
 }
