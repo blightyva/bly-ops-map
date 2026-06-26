@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-06-26T12:12:39Z",
+  "updated_utc": "2026-06-26T15:05:10Z",
   "flights": [
     {
       "key": "2eba4c9efbc4801170ce4a80abc97a0518bff0af",
@@ -858,28 +858,6 @@
       "first_seen_utc": "2026-05-29T15:30:29Z",
       "last_seen_utc": "2026-05-29T16:30:34Z",
       "seen_count": 14
-    },
-    {
-      "key": "754d59a82e2bf9caa89bbe2c26368bc470b75715",
-      "base": "BLY41S|TBPB|EGCC|L101/H-SDFGHIRWXY/S",
-      "callsign": "BLY41S",
-      "departure": "TBPB",
-      "destination": "EGCC",
-      "aircraft": "L101/H-SDFGHIRWXY/S",
-      "first_seen_utc": "2026-05-29T13:35:16Z",
-      "last_seen_utc": "2026-05-29T14:15:20Z",
-      "seen_count": 9
-    },
-    {
-      "key": "e9c3c112b393be3486c3efc155970cfbdbf0aeac",
-      "base": "BLY41S|TBPB|EGCC|L101/H-SDFGHIRWXY/S",
-      "callsign": "BLY41S",
-      "departure": "TBPB",
-      "destination": "EGCC",
-      "aircraft": "L101/H-SDFGHIRWXY/S",
-      "first_seen_utc": "2026-05-29T12:40:19Z",
-      "last_seen_utc": "2026-05-29T12:40:19Z",
-      "seen_count": 1
     }
   ]
 }
