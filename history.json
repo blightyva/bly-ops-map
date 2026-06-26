@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-06-26T20:52:47Z",
+  "updated_utc": "2026-06-26T22:16:06Z",
   "flights": [
     {
       "key": "1781ab866f2c37e2bc923291747cb695c531e325",
@@ -847,17 +847,6 @@
       "first_seen_utc": "2026-05-29T21:40:15Z",
       "last_seen_utc": "2026-05-29T23:10:15Z",
       "seen_count": 20
-    },
-    {
-      "key": "c3a16901df85e77b4fae67bd4f18eba1aa1c432d",
-      "base": "BLY57G|EGCC|EGPO|E175/M-SDE3GILORVW/S",
-      "callsign": "BLY57G",
-      "departure": "EGCC",
-      "destination": "EGPO",
-      "aircraft": "E175/M-SDE3GILORVW/S",
-      "first_seen_utc": "2026-05-29T20:00:34Z",
-      "last_seen_utc": "2026-05-29T21:35:13Z",
-      "seen_count": 19
     }
   ]
 }
