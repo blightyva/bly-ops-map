@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-06-27T11:56:16Z",
+  "updated_utc": "2026-06-27T13:55:02Z",
   "flights": [
+    {
+      "key": "d32a572a4d091a68a084442f68de2d29faaa8a7d",
+      "base": "BLY7464|EGPH|EGCC|A320/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY7464",
+      "departure": "EGPH",
+      "destination": "EGCC",
+      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-06-27T13:55:02Z",
+      "last_seen_utc": "2026-06-27T13:55:02Z",
+      "seen_count": 1
+    },
     {
       "key": "1781ab866f2c37e2bc923291747cb695c531e325",
       "base": "BLY53GN|EGJJ|EGKK|A320/M-SDE3FGHIRWY/LB1",
