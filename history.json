@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-06-27T20:10:08Z",
+  "updated_utc": "2026-06-27T21:32:00Z",
   "flights": [
+    {
+      "key": "b554a949939c8fadf0b19acfbdd9b932c131326f",
+      "base": "BLY212|LSGG|EGCC|A359/H-SDE2E3GHIJ3J4J5LM1ORWXY/LB1D1",
+      "callsign": "BLY212",
+      "departure": "LSGG",
+      "destination": "EGCC",
+      "aircraft": "A359/H-SDE2E3GHIJ3J4J5LM1ORWXY/LB1D1",
+      "first_seen_utc": "2026-06-27T21:32:00Z",
+      "last_seen_utc": "2026-06-27T21:32:00Z",
+      "seen_count": 1
+    },
     {
       "key": "cfa4dd289911a43a03d1f9bc8e01472fdce5394e",
       "base": "BLY212|LSGG|EGCC|A359/H-SDE2E3GHIJ3J4J5LM1ORWXY/LB1D1",
