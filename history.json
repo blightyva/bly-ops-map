@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-06-27T16:34:39Z",
+  "updated_utc": "2026-06-27T17:43:02Z",
   "flights": [
+    {
+      "key": "540c6d629f66be3be877c42826ec1f20291f0dd7",
+      "base": "BLY37|LFBE|EGGP|F100/M-SDFIRTWY/H",
+      "callsign": "BLY37",
+      "departure": "LFBE",
+      "destination": "EGGP",
+      "aircraft": "F100/M-SDFIRTWY/H",
+      "first_seen_utc": "2026-06-27T17:43:02Z",
+      "last_seen_utc": "2026-06-27T17:43:02Z",
+      "seen_count": 1
+    },
     {
       "key": "3fed7e9beb326f4624b1fc5c10fd248de2870894",
       "base": "BLY94YJ|EGGP|LFBE|F100/M-SDFIRTWY/H",
@@ -836,28 +847,6 @@
       "first_seen_utc": "2026-05-30T16:50:16Z",
       "last_seen_utc": "2026-05-30T21:45:15Z",
       "seen_count": 65
-    },
-    {
-      "key": "6734f733ed04a51d638f05818d649981fef6e518",
-      "base": "BLY9001|EGGP|EGCC|A319",
-      "callsign": "BLY9001",
-      "departure": "EGGP",
-      "destination": "EGCC",
-      "aircraft": "A319",
-      "first_seen_utc": "2026-05-30T16:40:15Z",
-      "last_seen_utc": "2026-05-30T16:40:15Z",
-      "seen_count": 1
-    },
-    {
-      "key": "bb3d329bb18f569de3648dbfdb1bb49a453b9b3a",
-      "base": "BLY9001|EGGP|EGCC|A319/M-SDE2E3FGHIJ1RWXYZ/LB1",
-      "callsign": "BLY9001",
-      "departure": "EGGP",
-      "destination": "EGCC",
-      "aircraft": "A319/M-SDE2E3FGHIJ1RWXYZ/LB1",
-      "first_seen_utc": "2026-05-30T15:30:24Z",
-      "last_seen_utc": "2026-05-30T16:35:12Z",
-      "seen_count": 15
     }
   ]
 }
