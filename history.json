@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-06-28T20:02:50Z",
+  "updated_utc": "2026-06-28T21:16:54Z",
   "flights": [
     {
       "key": "50d7538cdc6bf5c5b370299d66bf217c06949d7f",
@@ -880,17 +880,6 @@
       "first_seen_utc": "2026-05-31T17:30:24Z",
       "last_seen_utc": "2026-05-31T21:25:11Z",
       "seen_count": 48
-    },
-    {
-      "key": "182476d3a3a974c235a964440bcef2291067d58d",
-      "base": "BLY243L|ENSB|EGCC|A321/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY243L",
-      "departure": "ENSB",
-      "destination": "EGCC",
-      "aircraft": "A321/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-05-31T16:35:12Z",
-      "last_seen_utc": "2026-05-31T21:05:12Z",
-      "seen_count": 59
     }
   ]
 }
