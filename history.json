@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-06-28T16:13:05Z",
+  "updated_utc": "2026-06-28T17:37:57Z",
   "flights": [
+    {
+      "key": "63793d62137e834f9d170fa39177ebcdec1c0eba",
+      "base": "BLY651|LFBE|EGGP|F70/M-SDFIRTWY/H",
+      "callsign": "BLY651",
+      "departure": "LFBE",
+      "destination": "EGGP",
+      "aircraft": "F70/M-SDFIRTWY/H",
+      "first_seen_utc": "2026-06-28T17:37:57Z",
+      "last_seen_utc": "2026-06-28T17:37:57Z",
+      "seen_count": 1
+    },
     {
       "key": "2cfc899f2502e85bd2ac51bdc104c029bbd23604",
       "base": "BLY7464|EGCC|BIKF|B772/H-SDE2E3FGHIJ5LORVWXY/LB1D1",
@@ -836,17 +847,6 @@
       "first_seen_utc": "2026-05-31T16:35:12Z",
       "last_seen_utc": "2026-05-31T21:05:12Z",
       "seen_count": 59
-    },
-    {
-      "key": "ed07a47625e9cce12b2f1eff78eeebd032a339ba",
-      "base": "BLY72ID|-|-|-",
-      "callsign": "BLY72ID",
-      "departure": "-",
-      "destination": "-",
-      "aircraft": "-",
-      "first_seen_utc": "2026-05-31T17:05:13Z",
-      "last_seen_utc": "2026-05-31T17:10:16Z",
-      "seen_count": 2
     }
   ]
 }
