@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-06-29T21:52:09Z",
+  "updated_utc": "2026-06-29T23:00:40Z",
   "flights": [
     {
       "key": "50d7538cdc6bf5c5b370299d66bf217c06949d7f",
@@ -825,17 +825,6 @@
       "first_seen_utc": "2026-06-01T22:20:17Z",
       "last_seen_utc": "2026-06-02T00:10:18Z",
       "seen_count": 20
-    },
-    {
-      "key": "396e826952a22fe5e9744a067d113f3711572601",
-      "base": "BLY90S|EGGP|EGEO|AT46/M-SDFGIRY/S",
-      "callsign": "BLY90S",
-      "departure": "EGGP",
-      "destination": "EGEO",
-      "aircraft": "AT46/M-SDFGIRY/S",
-      "first_seen_utc": "2026-06-01T20:40:22Z",
-      "last_seen_utc": "2026-06-01T22:05:14Z",
-      "seen_count": 19
     }
   ]
 }
