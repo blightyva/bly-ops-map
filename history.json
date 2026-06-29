@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-06-29T16:07:22Z",
+  "updated_utc": "2026-06-29T18:21:59Z",
   "flights": [
     {
       "key": "50d7538cdc6bf5c5b370299d66bf217c06949d7f",
@@ -836,17 +836,6 @@
       "first_seen_utc": "2026-06-01T20:40:22Z",
       "last_seen_utc": "2026-06-01T22:05:14Z",
       "seen_count": 19
-    },
-    {
-      "key": "4d8607d7654f3b60caf2ae66064dc51b9645e314",
-      "base": "BLY438R|ENSB|EGPH|A319/M-SDE2E3FGHIJ1RWXYZ/LB1",
-      "callsign": "BLY438R",
-      "departure": "ENSB",
-      "destination": "EGPH",
-      "aircraft": "A319/M-SDE2E3FGHIJ1RWXYZ/LB1",
-      "first_seen_utc": "2026-06-01T12:35:14Z",
-      "last_seen_utc": "2026-06-01T16:55:19Z",
-      "seen_count": 54
     }
   ]
 }
