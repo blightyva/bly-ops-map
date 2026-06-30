@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-06-29T23:00:40Z",
+  "updated_utc": "2026-06-30T00:16:55Z",
   "flights": [
     {
       "key": "50d7538cdc6bf5c5b370299d66bf217c06949d7f",
@@ -814,17 +814,6 @@
       "first_seen_utc": "2026-06-02T15:35:22Z",
       "last_seen_utc": "2026-06-02T15:40:22Z",
       "seen_count": 2
-    },
-    {
-      "key": "82b0f3a057bf016309fa3fd6046542091a418ddc",
-      "base": "BLY2HC|EGEO|EGGP|AT46/M-SDFGIRY/S",
-      "callsign": "BLY2HC",
-      "departure": "EGEO",
-      "destination": "EGGP",
-      "aircraft": "AT46/M-SDFGIRY/S",
-      "first_seen_utc": "2026-06-01T22:20:17Z",
-      "last_seen_utc": "2026-06-02T00:10:18Z",
-      "seen_count": 20
     }
   ]
 }
