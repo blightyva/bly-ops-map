@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-06-30T13:22:27Z",
+  "updated_utc": "2026-06-30T16:05:46Z",
   "flights": [
+    {
+      "key": "0650e1ec2f22bd6349152e1b194235fe7af7b483",
+      "base": "BLY212|EGGP|EPWA|A321/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY212",
+      "departure": "EGGP",
+      "destination": "EPWA",
+      "aircraft": "A321/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-06-30T16:05:46Z",
+      "last_seen_utc": "2026-06-30T16:05:46Z",
+      "seen_count": 1
+    },
     {
       "key": "60af6d14ce8d4e33d2fa4f35442b4d60cbfcb412",
       "base": "BLY212|EGGP|EPWA|A321/M-SDE3FGHIRWY/LB1",
@@ -814,17 +825,6 @@
       "first_seen_utc": "2026-06-02T15:40:22Z",
       "last_seen_utc": "2026-06-02T17:05:22Z",
       "seen_count": 14
-    },
-    {
-      "key": "b687dcb0fa804eb4e19f44b72ee5f8ddb260bf4b",
-      "base": "BLY1|-|-|-",
-      "callsign": "BLY1",
-      "departure": "-",
-      "destination": "-",
-      "aircraft": "-",
-      "first_seen_utc": "2026-06-02T15:35:22Z",
-      "last_seen_utc": "2026-06-02T15:40:22Z",
-      "seen_count": 2
     }
   ]
 }
