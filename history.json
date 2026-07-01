@@ -1,6 +1,28 @@
 {
-  "updated_utc": "2026-07-01T18:05:33Z",
+  "updated_utc": "2026-07-01T20:09:59Z",
   "flights": [
+    {
+      "key": "bd97bf58cbdb7a365a06078da90a10fab1b9a1ef",
+      "base": "BLY73A|EGPH|LEBL|A321/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY73A",
+      "departure": "EGPH",
+      "destination": "LEBL",
+      "aircraft": "A321/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-07-01T20:09:59Z",
+      "last_seen_utc": "2026-07-01T20:09:59Z",
+      "seen_count": 1
+    },
+    {
+      "key": "6a7c756c00fdf286fb0cea71b5eb777adb578734",
+      "base": "BLY19|EGGP|GCTS|A320/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY19",
+      "departure": "EGGP",
+      "destination": "GCTS",
+      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-07-01T20:09:59Z",
+      "last_seen_utc": "2026-07-01T20:09:59Z",
+      "seen_count": 1
+    },
     {
       "key": "aa0a4c9a584a0cc81ccf784c0f973c7152a59387",
       "base": "BLY91TO|EGGP|EGSH|AT46/M-SDFGIRY/S",
@@ -825,17 +847,6 @@
       "first_seen_utc": "2026-06-03T19:35:18Z",
       "last_seen_utc": "2026-06-03T21:20:20Z",
       "seen_count": 23
-    },
-    {
-      "key": "51fbdc4ba6d9fe24e3edf95fea6259382919627e",
-      "base": "BLY42I|-|-|-",
-      "callsign": "BLY42I",
-      "departure": "-",
-      "destination": "-",
-      "aircraft": "-",
-      "first_seen_utc": "2026-06-03T19:25:19Z",
-      "last_seen_utc": "2026-06-03T19:30:34Z",
-      "seen_count": 2
     }
   ]
 }
