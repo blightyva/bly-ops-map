@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-07-02T17:03:56Z",
+  "updated_utc": "2026-07-02T18:45:44Z",
   "flights": [
+    {
+      "key": "8d23bc52f0fa96e0472c6bc8ea840ef90be4e081",
+      "base": "BLY212|LPPD|EGCC|A21N/M-SDE2E3FGHIRWXY/LB1",
+      "callsign": "BLY212",
+      "departure": "LPPD",
+      "destination": "EGCC",
+      "aircraft": "A21N/M-SDE2E3FGHIRWXY/LB1",
+      "first_seen_utc": "2026-07-02T18:45:44Z",
+      "last_seen_utc": "2026-07-02T18:45:44Z",
+      "seen_count": 1
+    },
     {
       "key": "b54a39c1b9d4079013619d72d38a5e67b57fd0a3",
       "base": "BLY212|EGCC|LPPD|A21N/M-SDE2E3FGHIRWXY/LB1",
