@@ -1,6 +1,28 @@
 {
-  "updated_utc": "2026-07-03T21:09:09Z",
+  "updated_utc": "2026-07-03T22:15:57Z",
   "flights": [
+    {
+      "key": "9f4bd42afd132cd93d7bc7a8ebb7ac2a5712ecee",
+      "base": "BLY867|LFBE|EGGP|B38M/M-SDE1FGHILORVWXY/HB1",
+      "callsign": "BLY867",
+      "departure": "LFBE",
+      "destination": "EGGP",
+      "aircraft": "B38M/M-SDE1FGHILORVWXY/HB1",
+      "first_seen_utc": "2026-07-03T22:15:57Z",
+      "last_seen_utc": "2026-07-03T22:15:57Z",
+      "seen_count": 1
+    },
+    {
+      "key": "d1cdc9015158e3dda94f25a8a37ace8a4dc15ae4",
+      "base": "BLY562V|LFBE|EGGP|F70/M-V/N",
+      "callsign": "BLY562V",
+      "departure": "LFBE",
+      "destination": "EGGP",
+      "aircraft": "F70/M-V/N",
+      "first_seen_utc": "2026-07-03T22:15:57Z",
+      "last_seen_utc": "2026-07-03T22:15:57Z",
+      "seen_count": 1
+    },
     {
       "key": "799230a5664649e15eee55f3887056380edc0f05",
       "base": "BLY562V|LFBE|EGGP|F70/M-V/N",
@@ -901,17 +923,6 @@
       "aircraft": "L101/H-SDFHIRWXY/S",
       "first_seen_utc": "2026-06-06T13:48:55Z",
       "last_seen_utc": "2026-06-06T13:48:55Z",
-      "seen_count": 1
-    },
-    {
-      "key": "3ab9722313bdc6f5239d77af0f147bf7fc425e1a",
-      "base": "BLY10|EGCC|KMIA|A332/H-SDE1E3GHIJ3J5P2RWXYZ/LB1D1",
-      "callsign": "BLY10",
-      "departure": "EGCC",
-      "destination": "KMIA",
-      "aircraft": "A332/H-SDE1E3GHIJ3J5P2RWXYZ/LB1D1",
-      "first_seen_utc": "2026-06-05T22:04:23Z",
-      "last_seen_utc": "2026-06-05T22:04:23Z",
       "seen_count": 1
     }
   ]
