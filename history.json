@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-07-04T18:44:26Z",
+  "updated_utc": "2026-07-04T19:59:48Z",
   "flights": [
     {
       "key": "9f4bd42afd132cd93d7bc7a8ebb7ac2a5712ecee",
@@ -868,17 +868,6 @@
       "aircraft": "A388/J-SADE2E3FGHIJ3J4J5M1RWXY/LB1D1",
       "first_seen_utc": "2026-06-06T20:10:28Z",
       "last_seen_utc": "2026-06-06T20:10:28Z",
-      "seen_count": 1
-    },
-    {
-      "key": "92586cc605ac12c22b855dc2ec5476291a321143",
-      "base": "BLY50LU|EGCC|KLAX|A388/J-SADE2E3FGHIJ3J4J5M1RWXY/LB1D1",
-      "callsign": "BLY50LU",
-      "departure": "EGCC",
-      "destination": "KLAX",
-      "aircraft": "A388/J-SADE2E3FGHIJ3J4J5M1RWXY/LB1D1",
-      "first_seen_utc": "2026-06-06T18:53:10Z",
-      "last_seen_utc": "2026-06-06T18:53:10Z",
       "seen_count": 1
     }
   ]
