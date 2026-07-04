@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-07-04T15:36:42Z",
+  "updated_utc": "2026-07-04T16:39:55Z",
   "flights": [
     {
       "key": "9f4bd42afd132cd93d7bc7a8ebb7ac2a5712ecee",
@@ -879,28 +879,6 @@
       "aircraft": "A388/J-SADE2E3FGHIJ3J4J5M1RWXY/LB1D1",
       "first_seen_utc": "2026-06-06T18:53:10Z",
       "last_seen_utc": "2026-06-06T18:53:10Z",
-      "seen_count": 1
-    },
-    {
-      "key": "7751255bd5e28c4827fecd88aaf72af024e103d0",
-      "base": "BLY19|TBPB|KMIA|L101/H-SDFHIRWXY/S",
-      "callsign": "BLY19",
-      "departure": "TBPB",
-      "destination": "KMIA",
-      "aircraft": "L101/H-SDFHIRWXY/S",
-      "first_seen_utc": "2026-06-06T16:17:53Z",
-      "last_seen_utc": "2026-06-06T16:17:53Z",
-      "seen_count": 1
-    },
-    {
-      "key": "28be86e64a32713702abc20b020d142c81d067e0",
-      "base": "BLY125|EGPH|EGCC|B736/M-SDE2E3FGHIRWXY/LB1",
-      "callsign": "BLY125",
-      "departure": "EGPH",
-      "destination": "EGCC",
-      "aircraft": "B736/M-SDE2E3FGHIRWXY/LB1",
-      "first_seen_utc": "2026-06-06T16:17:53Z",
-      "last_seen_utc": "2026-06-06T16:17:53Z",
       "seen_count": 1
     }
   ]
