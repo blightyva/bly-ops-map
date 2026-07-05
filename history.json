@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-07-05T12:03:46Z",
+  "updated_utc": "2026-07-05T14:04:55Z",
   "flights": [
     {
       "key": "9f4bd42afd132cd93d7bc7a8ebb7ac2a5712ecee",
@@ -824,17 +824,6 @@
       "aircraft": "A320/M-SDE2E3FGHIJ1RWXY/LB1",
       "first_seen_utc": "2026-06-07T15:02:42Z",
       "last_seen_utc": "2026-06-07T15:02:42Z",
-      "seen_count": 1
-    },
-    {
-      "key": "63f745083f6533e609dc82ab5ceb8b62b563aab8",
-      "base": "BLY4254|EGPH|LGKR|A320/M-SDE2E3FGHIJ1RWXY/LB1",
-      "callsign": "BLY4254",
-      "departure": "EGPH",
-      "destination": "LGKR",
-      "aircraft": "A320/M-SDE2E3FGHIJ1RWXY/LB1",
-      "first_seen_utc": "2026-06-07T13:14:12Z",
-      "last_seen_utc": "2026-06-07T13:14:12Z",
       "seen_count": 1
     }
   ]
