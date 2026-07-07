@@ -1,6 +1,28 @@
 {
-  "updated_utc": "2026-07-07T19:13:23Z",
+  "updated_utc": "2026-07-07T20:59:02Z",
   "flights": [
+    {
+      "key": "8aac6dde738992e245738c2e8dcc4ec293da7119",
+      "base": "BLY1300|LFBE|EGGP|B738/M-SDE2E3FGHIRWXY/LB1",
+      "callsign": "BLY1300",
+      "departure": "LFBE",
+      "destination": "EGGP",
+      "aircraft": "B738/M-SDE2E3FGHIRWXY/LB1",
+      "first_seen_utc": "2026-07-07T20:59:02Z",
+      "last_seen_utc": "2026-07-07T20:59:02Z",
+      "seen_count": 1
+    },
+    {
+      "key": "78c0e5cbf1aa1c6968c69da9e966a46c02cf9a88",
+      "base": "BLY374|LFBE|EGGP|FA50/M-V/N",
+      "callsign": "BLY374",
+      "departure": "LFBE",
+      "destination": "EGGP",
+      "aircraft": "FA50/M-V/N",
+      "first_seen_utc": "2026-07-07T20:59:02Z",
+      "last_seen_utc": "2026-07-07T20:59:02Z",
+      "seen_count": 1
+    },
     {
       "key": "a42dd27ba3f0109f45c268c00d42b4e57c4900bf",
       "base": "BLY7464|BIKF|EGCC|B772/H-SDE2E3FGHIJ5LORVWXY/LB1D1",
