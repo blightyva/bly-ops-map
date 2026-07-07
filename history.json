@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-07-07T22:18:06Z",
+  "updated_utc": "2026-07-07T23:25:39Z",
   "flights": [
     {
       "key": "8aac6dde738992e245738c2e8dcc4ec293da7119",
@@ -813,17 +813,6 @@
       "aircraft": "A359/H-SDE2E3GHIJ3J4J5LM1ORWXY/LB1D1",
       "first_seen_utc": "2026-06-10T21:13:18Z",
       "last_seen_utc": "2026-06-10T21:13:18Z",
-      "seen_count": 1
-    },
-    {
-      "key": "ab61344eac2f1a4b65476a95d7b9a796efb25427",
-      "base": "BLY52|YSSY|WSSS|A388/J-SADE2E3FGHIJ3J4J5M1RWXY/LB1D1",
-      "callsign": "BLY52",
-      "departure": "YSSY",
-      "destination": "WSSS",
-      "aircraft": "A388/J-SADE2E3FGHIJ3J4J5M1RWXY/LB1D1",
-      "first_seen_utc": "2026-06-09T22:47:13Z",
-      "last_seen_utc": "2026-06-09T22:47:13Z",
       "seen_count": 1
     }
   ]
