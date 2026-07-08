@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-07-08T04:28:21Z",
+  "updated_utc": "2026-07-08T07:06:30Z",
   "flights": [
+    {
+      "key": "7cc77434bdb0ab9b77f376256a76e44cd46db6c7",
+      "base": "BLY36D|EGGP|EIDW|A320/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY36D",
+      "departure": "EGGP",
+      "destination": "EIDW",
+      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-07-08T07:06:30Z",
+      "last_seen_utc": "2026-07-08T07:06:30Z",
+      "seen_count": 1
+    },
     {
       "key": "8aac6dde738992e245738c2e8dcc4ec293da7119",
       "base": "BLY1300|LFBE|EGGP|B738/M-SDE2E3FGHIRWXY/LB1",
