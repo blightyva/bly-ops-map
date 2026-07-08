@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-07-08T20:12:06Z",
+  "updated_utc": "2026-07-08T21:33:27Z",
   "flights": [
     {
       "key": "7cc77434bdb0ab9b77f376256a76e44cd46db6c7",
@@ -813,17 +813,6 @@
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-06-12T17:51:53Z",
       "last_seen_utc": "2026-06-12T17:51:53Z",
-      "seen_count": 1
-    },
-    {
-      "key": "296fd3eccc02f1946e309d08511ad3190d4ca8a1",
-      "base": "BLY212|EGPH|LSGG|A359/H-SDE2E3GHIJ3J4J5LM1ORWXY/LB1D1",
-      "callsign": "BLY212",
-      "departure": "EGPH",
-      "destination": "LSGG",
-      "aircraft": "A359/H-SDE2E3GHIJ3J4J5LM1ORWXY/LB1D1",
-      "first_seen_utc": "2026-06-10T21:13:18Z",
-      "last_seen_utc": "2026-06-10T21:13:18Z",
       "seen_count": 1
     }
   ]
