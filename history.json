@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-07-11T17:38:50Z",
+  "updated_utc": "2026-07-11T18:35:37Z",
   "flights": [
     {
       "key": "7cc77434bdb0ab9b77f376256a76e44cd46db6c7",
@@ -747,17 +747,6 @@
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-06-13T19:53:47Z",
       "last_seen_utc": "2026-06-13T19:53:47Z",
-      "seen_count": 1
-    },
-    {
-      "key": "967cf27284f679ced8f4a3bb5fd79251a5419fbc",
-      "base": "BLY422I|EGCC|LIMC|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY422I",
-      "departure": "EGCC",
-      "destination": "LIMC",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-06-13T18:09:02Z",
-      "last_seen_utc": "2026-06-13T18:09:02Z",
       "seen_count": 1
     }
   ]
