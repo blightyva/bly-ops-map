@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-07-13T20:58:07Z",
+  "updated_utc": "2026-07-13T22:02:23Z",
   "flights": [
     {
       "key": "b37698f4462c343c06a76d1b81f288ca005e5458",
@@ -780,17 +780,6 @@
       "aircraft": "B38M/M-SDE1FGHILORVWXY/HB1",
       "first_seen_utc": "2026-06-17T00:02:56Z",
       "last_seen_utc": "2026-06-17T00:02:56Z",
-      "seen_count": 1
-    },
-    {
-      "key": "2bc4eb9607ccfed1cd805a6e437f80b6b979cbd1",
-      "base": "BLY7464|LFBO|EGNX|B738/M-SDE2E3FGHIRWXY/LB1",
-      "callsign": "BLY7464",
-      "departure": "LFBO",
-      "destination": "EGNX",
-      "aircraft": "B738/M-SDE2E3FGHIRWXY/LB1",
-      "first_seen_utc": "2026-06-15T21:26:59Z",
-      "last_seen_utc": "2026-06-15T21:26:59Z",
       "seen_count": 1
     }
   ]
