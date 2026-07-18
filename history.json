@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-07-18T12:36:44Z",
+  "updated_utc": "2026-07-18T14:07:09Z",
   "flights": [
     {
       "key": "10bc561600e71fc7251c02fbec13789c176ec338",
@@ -769,17 +769,6 @@
       "aircraft": "CONC/M-SDFHIRW/L",
       "first_seen_utc": "2026-06-20T15:17:45Z",
       "last_seen_utc": "2026-06-20T15:17:45Z",
-      "seen_count": 1
-    },
-    {
-      "key": "26bb9d1d1b147c72583b228d783d724ba7cfbd5b",
-      "base": "BLY1234|LIMC|LIML|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY1234",
-      "departure": "LIMC",
-      "destination": "LIML",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-06-20T13:16:17Z",
-      "last_seen_utc": "2026-06-20T13:16:17Z",
       "seen_count": 1
     }
   ]
