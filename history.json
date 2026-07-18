@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-07-18T17:24:53Z",
+  "updated_utc": "2026-07-18T18:27:19Z",
   "flights": [
     {
       "key": "10bc561600e71fc7251c02fbec13789c176ec338",
@@ -725,17 +725,6 @@
       "aircraft": "A321/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-06-20T19:59:21Z",
       "last_seen_utc": "2026-06-20T19:59:21Z",
-      "seen_count": 1
-    },
-    {
-      "key": "79cf6cbf0cb6b5b7b6e0c4b09ba78e0811a3ea76",
-      "base": "BLY70Z|-|-|-",
-      "callsign": "BLY70Z",
-      "departure": "-",
-      "destination": "-",
-      "aircraft": "-",
-      "first_seen_utc": "2026-06-20T18:16:23Z",
-      "last_seen_utc": "2026-06-20T18:16:23Z",
       "seen_count": 1
     }
   ]
