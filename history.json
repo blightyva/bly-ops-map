@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-07-18T16:13:13Z",
+  "updated_utc": "2026-07-18T17:24:53Z",
   "flights": [
     {
       "key": "10bc561600e71fc7251c02fbec13789c176ec338",
@@ -736,17 +736,6 @@
       "aircraft": "-",
       "first_seen_utc": "2026-06-20T18:16:23Z",
       "last_seen_utc": "2026-06-20T18:16:23Z",
-      "seen_count": 1
-    },
-    {
-      "key": "306005f9b35a1a3a5c7cb009dba7fcfe7084be49",
-      "base": "BLY3|EGKK|CYUL|CONC/M-SDFHIRW/L",
-      "callsign": "BLY3",
-      "departure": "EGKK",
-      "destination": "CYUL",
-      "aircraft": "CONC/M-SDFHIRW/L",
-      "first_seen_utc": "2026-06-20T16:55:56Z",
-      "last_seen_utc": "2026-06-20T16:55:56Z",
       "seen_count": 1
     }
   ]
