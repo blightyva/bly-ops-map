@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-07-18T20:31:57Z",
+  "updated_utc": "2026-07-18T21:31:24Z",
   "flights": [
     {
       "key": "10bc561600e71fc7251c02fbec13789c176ec338",
@@ -626,61 +626,6 @@
       "aircraft": "-",
       "first_seen_utc": "2026-06-21T18:47:48Z",
       "last_seen_utc": "2026-06-21T18:47:48Z",
-      "seen_count": 1
-    },
-    {
-      "key": "b63d1edbece559ca10b0c35fbbbdefa3608f8005",
-      "base": "BLY212|EDDF|EGCC|A21N/M-SDE2E3FGHIRWXY/LB1",
-      "callsign": "BLY212",
-      "departure": "EDDF",
-      "destination": "EGCC",
-      "aircraft": "A21N/M-SDE2E3FGHIRWXY/LB1",
-      "first_seen_utc": "2026-06-20T21:24:52Z",
-      "last_seen_utc": "2026-06-20T21:24:52Z",
-      "seen_count": 1
-    },
-    {
-      "key": "733e757cc1598f477022e1037bf39bdbf4fc2813",
-      "base": "BLY33KV|EDDF|EGCC|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY33KV",
-      "departure": "EDDF",
-      "destination": "EGCC",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-06-20T21:24:52Z",
-      "last_seen_utc": "2026-06-20T21:24:52Z",
-      "seen_count": 1
-    },
-    {
-      "key": "eab2a5fff584e059cda4c4138bddd671bf41f7a7",
-      "base": "BLY501B|EDDF|EGCC|A343/H-SDE2E3FGHIJ3J5M1P2RWXYZ/LB1D1",
-      "callsign": "BLY501B",
-      "departure": "EDDF",
-      "destination": "EGCC",
-      "aircraft": "A343/H-SDE2E3FGHIJ3J5M1P2RWXYZ/LB1D1",
-      "first_seen_utc": "2026-06-20T21:24:52Z",
-      "last_seen_utc": "2026-06-20T21:24:52Z",
-      "seen_count": 1
-    },
-    {
-      "key": "983fd3a0e64db9582e6acc26edeea1c3fe494bb2",
-      "base": "BLY19VL|EDDF|EGCC|A321/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY19VL",
-      "departure": "EDDF",
-      "destination": "EGCC",
-      "aircraft": "A321/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-06-20T21:24:52Z",
-      "last_seen_utc": "2026-06-20T21:24:52Z",
-      "seen_count": 1
-    },
-    {
-      "key": "61fce65bff0b5d3413bb6f8455332a674e87f7ea",
-      "base": "BLY70Z|EDDF|EGGP|F28/M-SDFIRWY/H",
-      "callsign": "BLY70Z",
-      "departure": "EDDF",
-      "destination": "EGGP",
-      "aircraft": "F28/M-SDFIRWY/H",
-      "first_seen_utc": "2026-06-20T21:24:52Z",
-      "last_seen_utc": "2026-06-20T21:24:52Z",
       "seen_count": 1
     }
   ]
