@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-07-19T18:41:25Z",
+  "updated_utc": "2026-07-19T19:57:34Z",
   "flights": [
     {
       "key": "10bc561600e71fc7251c02fbec13789c176ec338",
@@ -604,28 +604,6 @@
       "aircraft": "B772/H-V/N",
       "first_seen_utc": "2026-06-21T20:18:20Z",
       "last_seen_utc": "2026-06-21T20:18:20Z",
-      "seen_count": 1
-    },
-    {
-      "key": "6994bd6000fc3043a6d425188c68354373d6381a",
-      "base": "BLY6921|LIRP|EGGP|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY6921",
-      "departure": "LIRP",
-      "destination": "EGGP",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-06-21T18:47:48Z",
-      "last_seen_utc": "2026-06-21T18:47:48Z",
-      "seen_count": 1
-    },
-    {
-      "key": "ce38387f8ffe940e7c6cf68dca389f441570324b",
-      "base": "BLY12S|-|-|-",
-      "callsign": "BLY12S",
-      "departure": "-",
-      "destination": "-",
-      "aircraft": "-",
-      "first_seen_utc": "2026-06-21T18:47:48Z",
-      "last_seen_utc": "2026-06-21T18:47:48Z",
       "seen_count": 1
     }
   ]
