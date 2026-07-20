@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-07-20T14:54:06Z",
+  "updated_utc": "2026-07-20T16:24:34Z",
   "flights": [
     {
       "key": "10bc561600e71fc7251c02fbec13789c176ec338",
@@ -560,17 +560,6 @@
       "aircraft": "F28/M-SDFIRWY/H",
       "first_seen_utc": "2026-06-23T19:27:44Z",
       "last_seen_utc": "2026-06-23T19:27:44Z",
-      "seen_count": 1
-    },
-    {
-      "key": "7952376a14a6af082201aae6b929ee7cd5c2ab4e",
-      "base": "BLY9001|ENGM|EGCC|B738/M-SDE2E3FGHIRWXY/LB1",
-      "callsign": "BLY9001",
-      "departure": "ENGM",
-      "destination": "EGCC",
-      "aircraft": "B738/M-SDE2E3FGHIRWXY/LB1",
-      "first_seen_utc": "2026-06-22T16:06:04Z",
-      "last_seen_utc": "2026-06-22T16:06:04Z",
       "seen_count": 1
     }
   ]
