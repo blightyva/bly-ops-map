@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-07-20T10:25:48Z",
+  "updated_utc": "2026-07-20T12:32:09Z",
   "flights": [
     {
       "key": "10bc561600e71fc7251c02fbec13789c176ec338",
@@ -571,17 +571,6 @@
       "aircraft": "B738/M-SDE2E3FGHIRWXY/LB1",
       "first_seen_utc": "2026-06-22T16:06:04Z",
       "last_seen_utc": "2026-06-22T16:06:04Z",
-      "seen_count": 1
-    },
-    {
-      "key": "8269656ac86000c18e60ba98d2b7f6019df2fba6",
-      "base": "BLY2319|EGCC|LIRF|A359/H-SDE2E3GHIJ3J4J5LM1ORWXY/LB1D1",
-      "callsign": "BLY2319",
-      "departure": "EGCC",
-      "destination": "LIRF",
-      "aircraft": "A359/H-SDE2E3GHIJ3J4J5LM1ORWXY/LB1D1",
-      "first_seen_utc": "2026-06-22T11:18:50Z",
-      "last_seen_utc": "2026-06-22T11:18:50Z",
       "seen_count": 1
     }
   ]
