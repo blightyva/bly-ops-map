@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-07-21T18:03:38Z",
+  "updated_utc": "2026-07-21T19:47:59Z",
   "flights": [
     {
       "key": "10bc561600e71fc7251c02fbec13789c176ec338",
@@ -549,17 +549,6 @@
       "aircraft": "A321/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-06-24T19:02:07Z",
       "last_seen_utc": "2026-06-24T19:02:07Z",
-      "seen_count": 1
-    },
-    {
-      "key": "cdc29be575ed5767b8173291fcf5ed75b45e0718",
-      "base": "BLY9|EGGP|LOWI|F28/M-SDFIRWY/H",
-      "callsign": "BLY9",
-      "departure": "EGGP",
-      "destination": "LOWI",
-      "aircraft": "F28/M-SDFIRWY/H",
-      "first_seen_utc": "2026-06-23T19:27:44Z",
-      "last_seen_utc": "2026-06-23T19:27:44Z",
       "seen_count": 1
     }
   ]
