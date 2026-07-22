@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-07-22T20:39:53Z",
+  "updated_utc": "2026-07-22T21:44:33Z",
   "flights": [
+    {
+      "key": "b0bb58e4ac65b2f024da49834aea7a3d9dedc1e6",
+      "base": "BLY5151|EGNT|EGNX|RJ1H/M-SDFGIRWY/LB1",
+      "callsign": "BLY5151",
+      "departure": "EGNT",
+      "destination": "EGNX",
+      "aircraft": "RJ1H/M-SDFGIRWY/LB1",
+      "first_seen_utc": "2026-07-22T21:44:33Z",
+      "last_seen_utc": "2026-07-22T21:44:33Z",
+      "seen_count": 1
+    },
     {
       "key": "501b21c1953d36e2bd65dd57f5d1a22f8e1a7478",
       "base": "BLY55P|EGGP|EHAM|A321/M-SDE3FGHIRWY/LB1",
@@ -560,28 +571,6 @@
       "aircraft": "B38M/M-SDE1FGHILORVWXY/HB1",
       "first_seen_utc": "2026-06-25T16:08:54Z",
       "last_seen_utc": "2026-06-25T16:08:54Z",
-      "seen_count": 1
-    },
-    {
-      "key": "51dc74579d0e704d76e09c04543a6273da31e1b0",
-      "base": "BLY212|BIKF|EGGP|A321/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY212",
-      "departure": "BIKF",
-      "destination": "EGGP",
-      "aircraft": "A321/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-06-24T20:54:02Z",
-      "last_seen_utc": "2026-06-24T20:54:02Z",
-      "seen_count": 1
-    },
-    {
-      "key": "9aca8eee611e42e72382e97281204a418b93f331",
-      "base": "BLY1330|LOWI|EGGP|F28/M-SDFIRWY/H",
-      "callsign": "BLY1330",
-      "departure": "LOWI",
-      "destination": "EGGP",
-      "aircraft": "F28/M-SDFIRWY/H",
-      "first_seen_utc": "2026-06-24T20:54:02Z",
-      "last_seen_utc": "2026-06-24T20:54:02Z",
       "seen_count": 1
     }
   ]
