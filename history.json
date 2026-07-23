@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-07-23T20:14:16Z",
+  "updated_utc": "2026-07-23T21:30:23Z",
   "flights": [
     {
       "key": "b0bb58e4ac65b2f024da49834aea7a3d9dedc1e6",
@@ -538,17 +538,6 @@
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-06-26T12:12:39Z",
       "last_seen_utc": "2026-06-26T12:12:39Z",
-      "seen_count": 1
-    },
-    {
-      "key": "7ec5b7efb372eaab296e8e3f88c79170384d611a",
-      "base": "BLY7464|EGNX|LEMD|B738/M-SDE2E3FGHIRWXY/LB1",
-      "callsign": "BLY7464",
-      "departure": "EGNX",
-      "destination": "LEMD",
-      "aircraft": "B738/M-SDE2E3FGHIRWXY/LB1",
-      "first_seen_utc": "2026-06-25T20:31:06Z",
-      "last_seen_utc": "2026-06-25T20:31:06Z",
       "seen_count": 1
     }
   ]
