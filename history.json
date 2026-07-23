@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-07-23T16:07:25Z",
+  "updated_utc": "2026-07-23T17:43:40Z",
   "flights": [
     {
       "key": "b0bb58e4ac65b2f024da49834aea7a3d9dedc1e6",
@@ -560,17 +560,6 @@
       "aircraft": "B38M/M-SDE1FGHILORVWXY/HB1",
       "first_seen_utc": "2026-06-25T18:25:06Z",
       "last_seen_utc": "2026-06-25T18:25:06Z",
-      "seen_count": 1
-    },
-    {
-      "key": "de88b7bb645d1bf69ab4ee182e371a45d401115c",
-      "base": "BLY212|EGGP|BIKF|B38M/M-SDE1FGHILORVWXY/HB1",
-      "callsign": "BLY212",
-      "departure": "EGGP",
-      "destination": "BIKF",
-      "aircraft": "B38M/M-SDE1FGHILORVWXY/HB1",
-      "first_seen_utc": "2026-06-25T16:08:54Z",
-      "last_seen_utc": "2026-06-25T16:08:54Z",
       "seen_count": 1
     }
   ]
