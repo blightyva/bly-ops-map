@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-07-24T19:51:45Z",
+  "updated_utc": "2026-07-24T21:05:47Z",
   "flights": [
     {
       "key": "93e95a6b8e5ca410a4d074913d8c3656c035a355",
@@ -538,28 +538,6 @@
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-06-27T13:55:02Z",
       "last_seen_utc": "2026-06-27T13:55:02Z",
-      "seen_count": 1
-    },
-    {
-      "key": "1781ab866f2c37e2bc923291747cb695c531e325",
-      "base": "BLY53GN|EGJJ|EGKK|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY53GN",
-      "departure": "EGJJ",
-      "destination": "EGKK",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-06-26T20:52:47Z",
-      "last_seen_utc": "2026-06-26T20:52:47Z",
-      "seen_count": 1
-    },
-    {
-      "key": "3d0e2e0e596afebdaa65038fa4386b0158e16332",
-      "base": "BLY76QB|EGJJ|EGGP|F100/M-SDFIRTWY/H",
-      "callsign": "BLY76QB",
-      "departure": "EGJJ",
-      "destination": "EGGP",
-      "aircraft": "F100/M-SDFIRTWY/H",
-      "first_seen_utc": "2026-06-26T20:52:47Z",
-      "last_seen_utc": "2026-06-26T20:52:47Z",
       "seen_count": 1
     }
   ]
