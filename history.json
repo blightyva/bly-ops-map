@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-07-24T16:54:16Z",
+  "updated_utc": "2026-07-24T18:19:20Z",
   "flights": [
+    {
+      "key": "93e95a6b8e5ca410a4d074913d8c3656c035a355",
+      "base": "BLY59C|EGKK|EGJJ|A320/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY59C",
+      "departure": "EGKK",
+      "destination": "EGJJ",
+      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-07-24T18:19:20Z",
+      "last_seen_utc": "2026-07-24T18:19:20Z",
+      "seen_count": 1
+    },
     {
       "key": "d35e85a4502ef504f6dcf7431055bb5bd394e9f3",
       "base": "BLY3281|EGKK|LXGB|A320/M-SDE3FGHIRWY/LB1",
