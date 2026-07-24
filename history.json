@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-07-24T15:01:37Z",
+  "updated_utc": "2026-07-24T16:54:16Z",
   "flights": [
+    {
+      "key": "d35e85a4502ef504f6dcf7431055bb5bd394e9f3",
+      "base": "BLY3281|EGKK|LXGB|A320/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY3281",
+      "departure": "EGKK",
+      "destination": "LXGB",
+      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-07-24T16:54:16Z",
+      "last_seen_utc": "2026-07-24T16:54:16Z",
+      "seen_count": 1
+    },
     {
       "key": "b49ff0b13ccfd72e3530dc2b5dc6ce1f796ee968",
       "base": "BLY3281|EGKK|LXGB|A320/M-SDE3FGHIRWY/LB1",
