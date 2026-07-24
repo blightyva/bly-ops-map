@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-07-24T11:24:18Z",
+  "updated_utc": "2026-07-24T12:58:12Z",
   "flights": [
     {
       "key": "b0bb58e4ac65b2f024da49834aea7a3d9dedc1e6",
@@ -527,17 +527,6 @@
       "aircraft": "F100/M-SDFIRTWY/H",
       "first_seen_utc": "2026-06-26T20:52:47Z",
       "last_seen_utc": "2026-06-26T20:52:47Z",
-      "seen_count": 1
-    },
-    {
-      "key": "2eba4c9efbc4801170ce4a80abc97a0518bff0af",
-      "base": "BLY2154|EGCC|EGHI|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY2154",
-      "departure": "EGCC",
-      "destination": "EGHI",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-06-26T12:12:39Z",
-      "last_seen_utc": "2026-06-26T12:12:39Z",
       "seen_count": 1
     }
   ]
