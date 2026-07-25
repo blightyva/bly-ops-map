@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-07-25T18:42:09Z",
+  "updated_utc": "2026-07-25T20:01:58Z",
   "flights": [
     {
       "key": "cac4f39a1d34e5931eeb748201a00c94ebf2393b",
@@ -527,17 +527,6 @@
       "aircraft": "A359/H-SDE2E3GHIJ3J4J5LM1ORWXY/LB1D1",
       "first_seen_utc": "2026-06-27T20:10:08Z",
       "last_seen_utc": "2026-06-27T20:10:08Z",
-      "seen_count": 1
-    },
-    {
-      "key": "3c8c5e5da3884d694ff4a9078bf7af637a84e4ac",
-      "base": "BLY37|LFBE|EGGP|F100/M-SDFIRTWY/H",
-      "callsign": "BLY37",
-      "departure": "LFBE",
-      "destination": "EGGP",
-      "aircraft": "F100/M-SDFIRTWY/H",
-      "first_seen_utc": "2026-06-27T18:55:24Z",
-      "last_seen_utc": "2026-06-27T18:55:24Z",
       "seen_count": 1
     }
   ]
