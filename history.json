@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-07-25T11:38:52Z",
+  "updated_utc": "2026-07-25T12:44:12Z",
   "flights": [
+    {
+      "key": "2383e38319b219141244784b1ca011e055f23500",
+      "base": "BLY5276|LFBE|EGNH|F70/M-SDFIRWY/H",
+      "callsign": "BLY5276",
+      "departure": "LFBE",
+      "destination": "EGNH",
+      "aircraft": "F70/M-SDFIRWY/H",
+      "first_seen_utc": "2026-07-25T12:44:12Z",
+      "last_seen_utc": "2026-07-25T12:44:12Z",
+      "seen_count": 1
+    },
     {
       "key": "93e95a6b8e5ca410a4d074913d8c3656c035a355",
       "base": "BLY59C|EGKK|EGJJ|A320/M-SDE3FGHIRWY/LB1",
