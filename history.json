@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-07-26T09:04:27Z",
+  "updated_utc": "2026-07-26T10:51:02Z",
   "flights": [
     {
       "key": "a8991fcf38d20da8441ab8ca6a30f4d54938ee46",
@@ -516,17 +516,6 @@
       "aircraft": "F70/M-SDFIRTWY/H",
       "first_seen_utc": "2026-06-28T17:37:57Z",
       "last_seen_utc": "2026-06-28T17:37:57Z",
-      "seen_count": 1
-    },
-    {
-      "key": "2cfc899f2502e85bd2ac51bdc104c029bbd23604",
-      "base": "BLY7464|EGCC|BIKF|B772/H-SDE2E3FGHIJ5LORVWXY/LB1D1",
-      "callsign": "BLY7464",
-      "departure": "EGCC",
-      "destination": "BIKF",
-      "aircraft": "B772/H-SDE2E3FGHIJ5LORVWXY/LB1D1",
-      "first_seen_utc": "2026-06-28T09:41:29Z",
-      "last_seen_utc": "2026-06-28T09:41:29Z",
       "seen_count": 1
     }
   ]
