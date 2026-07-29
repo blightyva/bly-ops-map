@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-07-29T14:41:57Z",
+  "updated_utc": "2026-07-29T16:12:13Z",
   "flights": [
     {
       "key": "bca9743f53735a3d69fe14df743989b75e7aac53",
@@ -527,17 +527,6 @@
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-07-01T20:09:59Z",
       "last_seen_utc": "2026-07-01T20:09:59Z",
-      "seen_count": 1
-    },
-    {
-      "key": "aa0a4c9a584a0cc81ccf784c0f973c7152a59387",
-      "base": "BLY91TO|EGGP|EGSH|AT46/M-SDFGIRY/S",
-      "callsign": "BLY91TO",
-      "departure": "EGGP",
-      "destination": "EGSH",
-      "aircraft": "AT46/M-SDFGIRY/S",
-      "first_seen_utc": "2026-07-01T15:58:09Z",
-      "last_seen_utc": "2026-07-01T15:58:09Z",
       "seen_count": 1
     }
   ]
