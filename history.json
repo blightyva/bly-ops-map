@@ -1,6 +1,39 @@
 {
-  "updated_utc": "2026-07-29T17:41:52Z",
+  "updated_utc": "2026-07-29T18:43:17Z",
   "flights": [
+    {
+      "key": "6b5dae0ebbdf8ccc5e5a7218dea44db8f1f88fe4",
+      "base": "BLY3291|EGKK|LOWS|A320/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY3291",
+      "departure": "EGKK",
+      "destination": "LOWS",
+      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-07-29T18:43:17Z",
+      "last_seen_utc": "2026-07-29T18:43:17Z",
+      "seen_count": 1
+    },
+    {
+      "key": "78416e3d48affab830cf2e56a91332ca751e92ae",
+      "base": "BLY42P|EGPH|EGKK|A321/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY42P",
+      "departure": "EGPH",
+      "destination": "EGKK",
+      "aircraft": "A321/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-07-29T18:43:17Z",
+      "last_seen_utc": "2026-07-29T18:43:17Z",
+      "seen_count": 1
+    },
+    {
+      "key": "0ed69a45804ff5bace57daee9eabd4c63e734f1e",
+      "base": "BLY3121|-|-|-",
+      "callsign": "BLY3121",
+      "departure": "-",
+      "destination": "-",
+      "aircraft": "-",
+      "first_seen_utc": "2026-07-29T18:43:17Z",
+      "last_seen_utc": "2026-07-29T18:43:17Z",
+      "seen_count": 1
+    },
     {
       "key": "bacea986416951e1f52d25435ce984b9d1c3ed6f",
       "base": "BLY3291|EGKK|LOWS|A320/M-SDE3FGHIRWY/LB1",
