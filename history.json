@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-07-30T21:20:40Z",
+  "updated_utc": "2026-07-30T22:35:32Z",
   "flights": [
+    {
+      "key": "cb5be1b3370738e972aeac98061901acb6c3841f",
+      "base": "BLY3306|EKBI|EGKK|A321/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY3306",
+      "departure": "EKBI",
+      "destination": "EGKK",
+      "aircraft": "A321/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-07-30T22:35:32Z",
+      "last_seen_utc": "2026-07-30T22:35:32Z",
+      "seen_count": 1
+    },
     {
       "key": "3d417abbdb5c0dbe10bdff0197d0cc6a8e1801d5",
       "base": "BLY157|EGPH|EGNM|A320/M-VGDW/C",
