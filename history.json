@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-07-31T21:17:49Z",
+  "updated_utc": "2026-07-31T22:27:26Z",
   "flights": [
+    {
+      "key": "4d047c13952d27cd62596aed25b4e4f7e18008c1",
+      "base": "BLY7464|EGSS|EGGP|BCS3/M-SBDE2E3GIRWXY/LB1",
+      "callsign": "BLY7464",
+      "departure": "EGSS",
+      "destination": "EGGP",
+      "aircraft": "BCS3/M-SBDE2E3GIRWXY/LB1",
+      "first_seen_utc": "2026-07-31T22:27:26Z",
+      "last_seen_utc": "2026-07-31T22:27:26Z",
+      "seen_count": 1
+    },
     {
       "key": "0fd30f8dc72deff1e3b728ae29d7dddce568f286",
       "base": "BLY7464|EGSS|EGGP|BCS3/M-SBDE2E3GIRWXY/LB1",
@@ -582,28 +593,6 @@
       "aircraft": "B772/H-SDE2E3FGHIJ5LORVWXY/LB1D1",
       "first_seen_utc": "2026-07-05T21:29:33Z",
       "last_seen_utc": "2026-07-05T21:29:33Z",
-      "seen_count": 1
-    },
-    {
-      "key": "9f4bd42afd132cd93d7bc7a8ebb7ac2a5712ecee",
-      "base": "BLY867|LFBE|EGGP|B38M/M-SDE1FGHILORVWXY/HB1",
-      "callsign": "BLY867",
-      "departure": "LFBE",
-      "destination": "EGGP",
-      "aircraft": "B38M/M-SDE1FGHILORVWXY/HB1",
-      "first_seen_utc": "2026-07-03T22:15:57Z",
-      "last_seen_utc": "2026-07-03T22:15:57Z",
-      "seen_count": 1
-    },
-    {
-      "key": "d1cdc9015158e3dda94f25a8a37ace8a4dc15ae4",
-      "base": "BLY562V|LFBE|EGGP|F70/M-V/N",
-      "callsign": "BLY562V",
-      "departure": "LFBE",
-      "destination": "EGGP",
-      "aircraft": "F70/M-V/N",
-      "first_seen_utc": "2026-07-03T22:15:57Z",
-      "last_seen_utc": "2026-07-03T22:15:57Z",
       "seen_count": 1
     }
   ]
