@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-08-01T13:53:00Z",
+  "updated_utc": "2026-08-01T15:01:33Z",
   "flights": [
+    {
+      "key": "b5a3567cc0b41821c7c6f2cacd35d345ef00a496",
+      "base": "BLY7464|EGPH|EGCC|BCS3/M-SBDE2E3GIRWXY/LB1",
+      "callsign": "BLY7464",
+      "departure": "EGPH",
+      "destination": "EGCC",
+      "aircraft": "BCS3/M-SBDE2E3GIRWXY/LB1",
+      "first_seen_utc": "2026-08-01T15:01:33Z",
+      "last_seen_utc": "2026-08-01T15:01:33Z",
+      "seen_count": 1
+    },
     {
       "key": "af9d4fb6d6e43b32ab959c9d186a1e8d17008e03",
       "base": "BLY7464|EGGP|EGPH|BCS3/M-SBDE2E3GIRWXY/LB1",
