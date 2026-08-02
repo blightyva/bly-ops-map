@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-08-02T14:02:03Z",
+  "updated_utc": "2026-08-02T15:15:51Z",
   "flights": [
+    {
+      "key": "15befc885a4543a26ee5bb98163001d838668e7e",
+      "base": "BLY3117|EGAE|EGKK|A319/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY3117",
+      "departure": "EGAE",
+      "destination": "EGKK",
+      "aircraft": "A319/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-08-02T15:15:51Z",
+      "last_seen_utc": "2026-08-02T15:15:51Z",
+      "seen_count": 1
+    },
     {
       "key": "80e491949e2372e5daf7bef3d2971c20f2342b57",
       "base": "BLY3116|EGKK|EGAE|A319/M-SDE3FGHIRWY/LB1",
