@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-08-03T11:59:08Z",
+  "updated_utc": "2026-08-03T15:09:13Z",
   "flights": [
+    {
+      "key": "f76d36b6050c4f060313ced4a2ba7f7fd7546db5",
+      "base": "BLY3213|EGKK|LEPA|A320/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY3213",
+      "departure": "EGKK",
+      "destination": "LEPA",
+      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-08-03T15:09:13Z",
+      "last_seen_utc": "2026-08-03T15:09:13Z",
+      "seen_count": 1
+    },
     {
       "key": "15befc885a4543a26ee5bb98163001d838668e7e",
       "base": "BLY3117|EGAE|EGKK|A319/M-SDE3FGHIRWY/LB1",
