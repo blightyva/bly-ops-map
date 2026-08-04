@@ -1,6 +1,28 @@
 {
-  "updated_utc": "2026-08-04T15:11:58Z",
+  "updated_utc": "2026-08-04T17:07:19Z",
   "flights": [
+    {
+      "key": "90c37c4ba53504a602a252d5ce273bd276b21a71",
+      "base": "BLY3242|LPPR|EGKK|A320/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY3242",
+      "departure": "LPPR",
+      "destination": "EGKK",
+      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-08-04T17:07:19Z",
+      "last_seen_utc": "2026-08-04T17:07:19Z",
+      "seen_count": 1
+    },
+    {
+      "key": "ce5b22dbc5b28a2c0a61780a736af38a5d7e8e03",
+      "base": "BLY28C|EGPH|EGCC|A321/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY28C",
+      "departure": "EGPH",
+      "destination": "EGCC",
+      "aircraft": "A321/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-08-04T17:07:19Z",
+      "last_seen_utc": "2026-08-04T17:07:19Z",
+      "seen_count": 1
+    },
     {
       "key": "928c311adbc2005df7a7c415e2ddb3e3a05e1231",
       "base": "BLY1120|EGGP|EGPH|BCS3/M-SBDE2E3GIRWXY/LB1",
