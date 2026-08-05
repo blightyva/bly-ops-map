@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-08-05T12:12:49Z",
+  "updated_utc": "2026-08-05T14:38:16Z",
   "flights": [
+    {
+      "key": "b93b7ea95e1841287488982e93d40e978224ef4a",
+      "base": "BLY65L|EDDM|EGKK|A319/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY65L",
+      "departure": "EDDM",
+      "destination": "EGKK",
+      "aircraft": "A319/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-08-05T14:38:16Z",
+      "last_seen_utc": "2026-08-05T14:38:16Z",
+      "seen_count": 1
+    },
     {
       "key": "3df88f0159e76eaa63eca87b094f4d55ba3053ef",
       "base": "BLY3317|EGKK|EDDM|A319/M-SDE3FGHIRWY/LB1",
