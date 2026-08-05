@@ -1,6 +1,28 @@
 {
-  "updated_utc": "2026-08-05T16:20:25Z",
+  "updated_utc": "2026-08-05T18:04:42Z",
   "flights": [
+    {
+      "key": "e362f310a3059944ab1d557cc0728ac0981f77ee",
+      "base": "BLY269|EGKK|LEAL|A321/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY269",
+      "departure": "EGKK",
+      "destination": "LEAL",
+      "aircraft": "A321/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-08-05T18:04:42Z",
+      "last_seen_utc": "2026-08-05T18:04:42Z",
+      "seen_count": 1
+    },
+    {
+      "key": "62bad2fc4578acc132a80869f050b8e94bc9ced5",
+      "base": "BLY78|EICK|EGGP|BCS3/M-SBDE2E3GIRWXY/LB1",
+      "callsign": "BLY78",
+      "departure": "EICK",
+      "destination": "EGGP",
+      "aircraft": "BCS3/M-SBDE2E3GIRWXY/LB1",
+      "first_seen_utc": "2026-08-05T18:04:42Z",
+      "last_seen_utc": "2026-08-05T18:04:42Z",
+      "seen_count": 1
+    },
     {
       "key": "b93b7ea95e1841287488982e93d40e978224ef4a",
       "base": "BLY65L|EDDM|EGKK|A319/M-SDE3FGHIRWY/LB1",
