@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-08-06T10:03:54Z",
+  "updated_utc": "2026-08-06T12:15:15Z",
   "flights": [
+    {
+      "key": "8a321b175f8a51921aa668b621d9ad9d6cc63337",
+      "base": "BLY3233|EGKK|EPWA|A320/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY3233",
+      "departure": "EGKK",
+      "destination": "EPWA",
+      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-08-06T12:15:15Z",
+      "last_seen_utc": "2026-08-06T12:15:15Z",
+      "seen_count": 1
+    },
     {
       "key": "566ea1b92b91f450ca01a1d35efb8c7fd0419f34",
       "base": "BLY318|LEAL|EGKK|A321/M-SDE3FGHIRWY/LB1",
