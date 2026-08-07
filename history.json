@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-08-07T10:08:05Z",
+  "updated_utc": "2026-08-07T11:05:39Z",
   "flights": [
+    {
+      "key": "21e4afa8c29e0a56e6a98ef46a03b2a1e7716294",
+      "base": "BLY27|CYUL|EGCC|CONC/H-SDFHIRW/L",
+      "callsign": "BLY27",
+      "departure": "CYUL",
+      "destination": "EGCC",
+      "aircraft": "CONC/H-SDFHIRW/L",
+      "first_seen_utc": "2026-08-07T11:05:39Z",
+      "last_seen_utc": "2026-08-07T11:05:39Z",
+      "seen_count": 1
+    },
     {
       "key": "ba0f2f36e8fe51a4f0eb652bc0ee31c4219efad0",
       "base": "BLY3107|EGAA|EGKK|A320/M-SDE3FGHIRWY/LB1",
