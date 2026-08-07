@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-08-07T22:20:00Z",
+  "updated_utc": "2026-08-07T23:00:42Z",
   "flights": [
+    {
+      "key": "59fb3565f8dfbd17bacd70853154bb62a7daab3d",
+      "base": "BLY3226|LKPR|EGKK|A320/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY3226",
+      "departure": "LKPR",
+      "destination": "EGKK",
+      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-08-07T23:00:42Z",
+      "last_seen_utc": "2026-08-07T23:00:42Z",
+      "seen_count": 1
+    },
     {
       "key": "c20a2e92412f8a30917323f88732f0c219199752",
       "base": "BLY3226|LKPR|EGKK|A320/M-SDE3FGHIRWY/LB1",
