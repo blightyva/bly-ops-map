@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-08-08T11:47:45Z",
+  "updated_utc": "2026-08-08T12:17:01Z",
   "flights": [
     {
       "key": "4a6550496587e41f3c78032f47f8159bfcfed461",
@@ -9,8 +9,8 @@
       "destination": "EPWA",
       "aircraft": "A321/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-08-08T11:47:45Z",
-      "last_seen_utc": "2026-08-08T11:47:45Z",
-      "seen_count": 1
+      "last_seen_utc": "2026-08-08T12:17:01Z",
+      "seen_count": 2
     },
     {
       "key": "b409ed7a2fde85d47006df0257af77e9e1e176da",
