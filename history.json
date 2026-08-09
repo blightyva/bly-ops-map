@@ -1,6 +1,28 @@
 {
-  "updated_utc": "2026-08-09T12:01:05Z",
+  "updated_utc": "2026-08-09T13:12:33Z",
   "flights": [
+    {
+      "key": "535e166184ba7ae7792fd497cccb2154e9beb264",
+      "base": "BLY42UF|EGGP|EGPD|BCS3/M-SBDE2E3GIRWXY/LB1",
+      "callsign": "BLY42UF",
+      "departure": "EGGP",
+      "destination": "EGPD",
+      "aircraft": "BCS3/M-SBDE2E3GIRWXY/LB1",
+      "first_seen_utc": "2026-08-09T13:12:33Z",
+      "last_seen_utc": "2026-08-09T13:12:33Z",
+      "seen_count": 1
+    },
+    {
+      "key": "82f3fef4c9c5e06d0945fdc370401fe3c8e62572",
+      "base": "BLY3121|EGPH|EGKK|A320/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY3121",
+      "departure": "EGPH",
+      "destination": "EGKK",
+      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-08-09T13:12:33Z",
+      "last_seen_utc": "2026-08-09T13:12:33Z",
+      "seen_count": 1
+    },
     {
       "key": "c04261a47b8e33aad49059a7d5dec96179bb9c0f",
       "base": "BLY3120|EGKK|EGPH|A320/M-SDE3FGHIRWY/LB1",
