@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-08-10T11:48:22Z",
+  "updated_utc": "2026-08-10T12:35:02Z",
   "flights": [
+    {
+      "key": "698f1dd24b2a7625d85ba2a28a72abdb6c2f7391",
+      "base": "BLY3202|LFPG|EGKK|A319/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY3202",
+      "departure": "LFPG",
+      "destination": "EGKK",
+      "aircraft": "A319/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-08-10T12:35:02Z",
+      "last_seen_utc": "2026-08-10T12:35:02Z",
+      "seen_count": 1
+    },
     {
       "key": "87a5911d26378be20b845858a115f35509da6e3d",
       "base": "BLY3202|LFPG|EGKK|A319/M-SDE3FGHIRWY/LB1",
