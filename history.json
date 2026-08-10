@@ -1,6 +1,28 @@
 {
-  "updated_utc": "2026-08-10T22:38:55Z",
+  "updated_utc": "2026-08-10T23:17:54Z",
   "flights": [
+    {
+      "key": "88083235a4209b13b4c3c7fefdd121cf619a68a8",
+      "base": "BLY992|EGKK|EDDF|A320/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY992",
+      "departure": "EGKK",
+      "destination": "EDDF",
+      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-08-10T23:17:54Z",
+      "last_seen_utc": "2026-08-10T23:17:54Z",
+      "seen_count": 1
+    },
+    {
+      "key": "9f759aa9f909161075206c4300b35fa2d127ac3a",
+      "base": "BLY1303|EGGP|EINN|BCS3/M-SBDE2E3GIRWXY/LB1",
+      "callsign": "BLY1303",
+      "departure": "EGGP",
+      "destination": "EINN",
+      "aircraft": "BCS3/M-SBDE2E3GIRWXY/LB1",
+      "first_seen_utc": "2026-08-10T23:17:54Z",
+      "last_seen_utc": "2026-08-10T23:17:54Z",
+      "seen_count": 1
+    },
     {
       "key": "6ed26f8e76fbf7da5f493f38ba8ea51673f0e9bc",
       "base": "BLY992|EGKK|EDDF|A320/M-SDE3FGHIRWY/LB1",
