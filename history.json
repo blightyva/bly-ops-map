@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-08-10T19:13:59Z",
+  "updated_utc": "2026-08-10T20:04:25Z",
   "flights": [
+    {
+      "key": "0d45aef8d487a67bb8adaabdc90b82fad5d62bb5",
+      "base": "BLY7464|EGGP|LFBE|BCS3/M-SBDE2E3GIRWXY/LB1",
+      "callsign": "BLY7464",
+      "departure": "EGGP",
+      "destination": "LFBE",
+      "aircraft": "BCS3/M-SBDE2E3GIRWXY/LB1",
+      "first_seen_utc": "2026-08-10T20:04:25Z",
+      "last_seen_utc": "2026-08-10T20:04:25Z",
+      "seen_count": 1
+    },
     {
       "key": "d2e1e2945cbbae7669bcb902dd45dbaf2439152b",
       "base": "BLY1303|EGGP|EINN|BCS3/M-SBDE2E3GIRWXY/LB1",
