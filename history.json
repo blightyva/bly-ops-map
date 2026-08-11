@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-08-11T16:30:57Z",
+  "updated_utc": "2026-08-11T17:36:27Z",
   "flights": [
+    {
+      "key": "c42d918540ff4893836e3b8fc4303ae07963ce47",
+      "base": "BLY98U|EGGP|LFBL|A319/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY98U",
+      "departure": "EGGP",
+      "destination": "LFBL",
+      "aircraft": "A319/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-08-11T17:36:27Z",
+      "last_seen_utc": "2026-08-11T17:36:27Z",
+      "seen_count": 1
+    },
     {
       "key": "eb5108e0b1f721adb080ebff33abbbe686c821c6",
       "base": "BLY2213|EGCC|LEPA|A321/M-SDE3FGHIRWY/LB1",
