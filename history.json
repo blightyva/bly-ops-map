@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-08-11T23:07:13Z",
+  "updated_utc": "2026-08-11T23:57:36Z",
   "flights": [
+    {
+      "key": "248f4ffb035c924c3e7a1e6b2b956db0ff079b7c",
+      "base": "BLY3238|LFMN|EGKK|A321/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY3238",
+      "departure": "LFMN",
+      "destination": "EGKK",
+      "aircraft": "A321/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-08-11T23:57:36Z",
+      "last_seen_utc": "2026-08-11T23:57:36Z",
+      "seen_count": 1
+    },
     {
       "key": "77a7daa3e5978588f2ca0a5a3200d56f04cb6ade",
       "base": "BLY3238|LFMN|EGKK|A321/M-SDE3FGHIRWY/LB1",
