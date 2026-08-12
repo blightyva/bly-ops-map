@@ -1,6 +1,28 @@
 {
-  "updated_utc": "2026-08-12T19:48:32Z",
+  "updated_utc": "2026-08-12T20:26:46Z",
   "flights": [
+    {
+      "key": "a31520d867eb15f3f3bca7ce5ef0851f97910a4b",
+      "base": "BLY1357|EGGP|ENAL|BCS3/M-SBDE2E3GIRWXY/LB1",
+      "callsign": "BLY1357",
+      "departure": "EGGP",
+      "destination": "ENAL",
+      "aircraft": "BCS3/M-SBDE2E3GIRWXY/LB1",
+      "first_seen_utc": "2026-08-12T20:26:46Z",
+      "last_seen_utc": "2026-08-12T20:26:46Z",
+      "seen_count": 1
+    },
+    {
+      "key": "6b1f332765fb34e37583f09e1bdac07ab17cee21",
+      "base": "BLY7464|EGCC|EGSS|BCS3/M-SBDE2E3GIRWXY/LB1",
+      "callsign": "BLY7464",
+      "departure": "EGCC",
+      "destination": "EGSS",
+      "aircraft": "BCS3/M-SBDE2E3GIRWXY/LB1",
+      "first_seen_utc": "2026-08-12T20:26:46Z",
+      "last_seen_utc": "2026-08-12T20:26:46Z",
+      "seen_count": 1
+    },
     {
       "key": "4012983a2ac9cbc4476e8ae9378e2c068c5de8de",
       "base": "BLY1357|EGGP|ENAL|BCS3/M-SBDE2E3GIRWXY/LB1",
