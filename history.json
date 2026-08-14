@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-08-14T22:24:46Z",
+  "updated_utc": "2026-08-14T22:50:16Z",
   "flights": [
     {
       "key": "c7b0ebd4819d0b020bfd237d944383ec5bcb7682",
@@ -9,8 +9,8 @@
       "destination": "EHAM",
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-08-14T22:24:46Z",
-      "last_seen_utc": "2026-08-14T22:24:46Z",
-      "seen_count": 1
+      "last_seen_utc": "2026-08-14T22:50:16Z",
+      "seen_count": 2
     },
     {
       "key": "d8618ec7a56f03bd6aabd63fe31c5f2c1057a5c9",
