@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-08-14T14:55:29Z",
+  "updated_utc": "2026-08-14T15:54:29Z",
   "flights": [
     {
       "key": "c2f0b78f1700c2b3ee167a6c624756676428d2a0",
@@ -1891,17 +1891,6 @@
       "aircraft": "A319/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-07-18T07:20:40Z",
       "last_seen_utc": "2026-07-18T07:20:40Z",
-      "seen_count": 1
-    },
-    {
-      "key": "d1c43c33a0801e2e7679b72b7a5559a1cb13f60b",
-      "base": "BLY7464|EGGP|EGJJ|A319/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY7464",
-      "departure": "EGGP",
-      "destination": "EGJJ",
-      "aircraft": "A319/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-07-17T15:36:42Z",
-      "last_seen_utc": "2026-07-17T15:36:42Z",
       "seen_count": 1
     }
   ]
