@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-08-14T19:49:50Z",
+  "updated_utc": "2026-08-14T20:19:10Z",
   "flights": [
     {
       "key": "956faf29af51f4fc6542dc982613e5c78dc3043f",
@@ -9,8 +9,8 @@
       "destination": "LKPR",
       "aircraft": "BCS3/M-SBDE2E3GIRWXY/LB1",
       "first_seen_utc": "2026-08-14T19:49:50Z",
-      "last_seen_utc": "2026-08-14T19:49:50Z",
-      "seen_count": 1
+      "last_seen_utc": "2026-08-14T20:19:10Z",
+      "seen_count": 2
     },
     {
       "key": "8fc25ee7c11fac459b6b0f2d910cf3d6aab85993",
