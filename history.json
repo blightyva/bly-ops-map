@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-08-14T12:27:10Z",
+  "updated_utc": "2026-08-14T13:55:59Z",
   "flights": [
+    {
+      "key": "908bae291fe60329667c052916a244b2f71df25b",
+      "base": "BLY22NL|EGPH|EKBI|BCS3/M-SBDE2E3GIRWXY/LB1",
+      "callsign": "BLY22NL",
+      "departure": "EGPH",
+      "destination": "EKBI",
+      "aircraft": "BCS3/M-SBDE2E3GIRWXY/LB1",
+      "first_seen_utc": "2026-08-14T13:55:59Z",
+      "last_seen_utc": "2026-08-14T13:55:59Z",
+      "seen_count": 1
+    },
     {
       "key": "c06ffb6bb0dce2c193ce8a592e8dabc264f0fe34",
       "base": "BLY692T|EGCC|EGPH|BCS3/M-SBDE2E3GIRWXY/LB1",
