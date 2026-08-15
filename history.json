@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-08-15T14:28:13Z",
+  "updated_utc": "2026-08-15T14:51:10Z",
   "flights": [
     {
       "key": "d5fb5082550fc38d18928c49c73dd6d4f28b763a",
@@ -9,8 +9,8 @@
       "destination": "EGCC",
       "aircraft": "BCS3/M-SBDE2E3GIRWXY/LB1",
       "first_seen_utc": "2026-08-15T14:28:13Z",
-      "last_seen_utc": "2026-08-15T14:28:13Z",
-      "seen_count": 1
+      "last_seen_utc": "2026-08-15T14:51:10Z",
+      "seen_count": 2
     },
     {
       "key": "571539ed50384b0ddf24554cb630d0365005233b",
