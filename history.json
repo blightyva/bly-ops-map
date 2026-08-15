@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-08-15T11:23:55Z",
+  "updated_utc": "2026-08-15T11:45:07Z",
   "flights": [
+    {
+      "key": "f0ef54861811b960f3213644fd6d797f522ac212",
+      "base": "BLY2345|EGCC|LFMK|BCS3/M-SBDE2E3GIRWXY/LB1",
+      "callsign": "BLY2345",
+      "departure": "EGCC",
+      "destination": "LFMK",
+      "aircraft": "BCS3/M-SBDE2E3GIRWXY/LB1",
+      "first_seen_utc": "2026-08-15T11:45:07Z",
+      "last_seen_utc": "2026-08-15T11:45:07Z",
+      "seen_count": 1
+    },
     {
       "key": "ce2a294a25427556b7e95f117e4be27e37c410e7",
       "base": "BLY306W|EKBI|EGCC|BCS3/M-SBDE2E3GIRWXY/LB1",
