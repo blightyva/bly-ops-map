@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-08-15T07:17:30Z",
+  "updated_utc": "2026-08-15T07:47:30Z",
   "flights": [
     {
       "key": "149082eaac6525f7a8fe8519a104b0a66de834b1",
@@ -9,8 +9,8 @@
       "destination": "EGKK",
       "aircraft": "BCS3/M-SBDE2E3GIRWXY/LB1",
       "first_seen_utc": "2026-08-15T07:17:30Z",
-      "last_seen_utc": "2026-08-15T07:17:30Z",
-      "seen_count": 1
+      "last_seen_utc": "2026-08-15T07:47:30Z",
+      "seen_count": 2
     },
     {
       "key": "ac1e65362fe98755a09333a9618c25297d3b6ffd",
@@ -1968,17 +1968,6 @@
       "aircraft": "F70/M-SDFIRWY/H",
       "first_seen_utc": "2026-07-21T20:53:54Z",
       "last_seen_utc": "2026-07-21T20:53:54Z",
-      "seen_count": 1
-    },
-    {
-      "key": "10bc561600e71fc7251c02fbec13789c176ec338",
-      "base": "BLY7464|EGJJ|EGGP|A319/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY7464",
-      "departure": "EGJJ",
-      "destination": "EGGP",
-      "aircraft": "A319/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-07-18T07:20:40Z",
-      "last_seen_utc": "2026-07-18T07:20:40Z",
       "seen_count": 1
     }
   ]
