@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-08-15T06:40:23Z",
+  "updated_utc": "2026-08-15T07:17:30Z",
   "flights": [
+    {
+      "key": "149082eaac6525f7a8fe8519a104b0a66de834b1",
+      "base": "BLY7464|LKPR|EGKK|BCS3/M-SBDE2E3GIRWXY/LB1",
+      "callsign": "BLY7464",
+      "departure": "LKPR",
+      "destination": "EGKK",
+      "aircraft": "BCS3/M-SBDE2E3GIRWXY/LB1",
+      "first_seen_utc": "2026-08-15T07:17:30Z",
+      "last_seen_utc": "2026-08-15T07:17:30Z",
+      "seen_count": 1
+    },
     {
       "key": "ac1e65362fe98755a09333a9618c25297d3b6ffd",
       "base": "BLY7464|LKPR|EGKK|BCS3/M-SBDE2E3GIRWXY/LB1",
