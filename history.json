@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-08-16T12:00:41Z",
+  "updated_utc": "2026-08-16T12:57:40Z",
   "flights": [
+    {
+      "key": "5cf6442335e3261df38f6ab2e2a0dc90cdfe2a43",
+      "base": "BLY2323|EGCC|LIRP|BCS3/M-SBDE2E3GIRWXY/LB1",
+      "callsign": "BLY2323",
+      "departure": "EGCC",
+      "destination": "LIRP",
+      "aircraft": "BCS3/M-SBDE2E3GIRWXY/LB1",
+      "first_seen_utc": "2026-08-16T12:57:40Z",
+      "last_seen_utc": "2026-08-16T12:57:40Z",
+      "seen_count": 1
+    },
     {
       "key": "6945cad839c65ddff09216f8d476652401023a56",
       "base": "BLY2323|EGCC|LIRP|BCS3/M-SBDE2E3GIRWXY/LB1",
