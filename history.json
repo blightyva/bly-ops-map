@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-08-19T22:38:56Z",
+  "updated_utc": "2026-08-19T23:00:17Z",
   "flights": [
     {
       "key": "7270d839e0ced1652a3f63000de5a1ac7e8aa5c8",
@@ -9,8 +9,8 @@
       "destination": "EGAA",
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-08-19T22:38:56Z",
-      "last_seen_utc": "2026-08-19T22:38:56Z",
-      "seen_count": 1
+      "last_seen_utc": "2026-08-19T23:00:17Z",
+      "seen_count": 2
     },
     {
       "key": "7e238b63d0e2d6aa9436df318b6df8e5eabd5429",
