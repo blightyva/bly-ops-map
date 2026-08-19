@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-08-19T22:07:12Z",
+  "updated_utc": "2026-08-19T22:38:56Z",
   "flights": [
+    {
+      "key": "7270d839e0ced1652a3f63000de5a1ac7e8aa5c8",
+      "base": "BLY3106|EGKK|EGAA|A320/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY3106",
+      "departure": "EGKK",
+      "destination": "EGAA",
+      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-08-19T22:38:56Z",
+      "last_seen_utc": "2026-08-19T22:38:56Z",
+      "seen_count": 1
+    },
     {
       "key": "7e238b63d0e2d6aa9436df318b6df8e5eabd5429",
       "base": "BLY3106|EGKK|EGAA|A320/M-SDE3FGHIRWY/LB1",
