@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-08-19T21:44:05Z",
+  "updated_utc": "2026-08-19T22:07:12Z",
   "flights": [
     {
       "key": "7e238b63d0e2d6aa9436df318b6df8e5eabd5429",
@@ -9,8 +9,8 @@
       "destination": "EGAA",
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-08-19T21:44:05Z",
-      "last_seen_utc": "2026-08-19T21:44:05Z",
-      "seen_count": 1
+      "last_seen_utc": "2026-08-19T22:07:12Z",
+      "seen_count": 2
     },
     {
       "key": "9221edb3c4b4e04737752758b0d28b66bb54d39b",
@@ -2199,17 +2199,6 @@
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-07-24T15:01:37Z",
       "last_seen_utc": "2026-07-24T15:01:37Z",
-      "seen_count": 1
-    },
-    {
-      "key": "b0bb58e4ac65b2f024da49834aea7a3d9dedc1e6",
-      "base": "BLY5151|EGNT|EGNX|RJ1H/M-SDFGIRWY/LB1",
-      "callsign": "BLY5151",
-      "departure": "EGNT",
-      "destination": "EGNX",
-      "aircraft": "RJ1H/M-SDFGIRWY/LB1",
-      "first_seen_utc": "2026-07-22T21:44:33Z",
-      "last_seen_utc": "2026-07-22T21:44:33Z",
       "seen_count": 1
     }
   ]
