@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-08-21T19:54:07Z",
+  "updated_utc": "2026-08-21T20:27:19Z",
   "flights": [
+    {
+      "key": "0e46d7609ccc2a7801d6c5af8e8ef77c3dc9a798",
+      "base": "BLY702|LSGG|EGKK|A320/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY702",
+      "departure": "LSGG",
+      "destination": "EGKK",
+      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-08-21T20:27:19Z",
+      "last_seen_utc": "2026-08-21T20:27:19Z",
+      "seen_count": 1
+    },
     {
       "key": "11dd099ec256bb39edb0dbcdb75cfd88cbdf839f",
       "base": "BLY702|LSGG|EGKK|A320/M-SDE3FGHIRWY/LB1",
