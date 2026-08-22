@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-08-22T21:49:47Z",
+  "updated_utc": "2026-08-22T22:08:32Z",
   "flights": [
     {
       "key": "f73e981599a2753d675b220e2fdc1886ebb3555d",
@@ -2287,17 +2287,6 @@
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-07-26T12:04:10Z",
       "last_seen_utc": "2026-07-26T12:04:10Z",
-      "seen_count": 1
-    },
-    {
-      "key": "a8991fcf38d20da8441ab8ca6a30f4d54938ee46",
-      "base": "BLY3203|EGKK|EHAM|A319/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY3203",
-      "departure": "EGKK",
-      "destination": "EHAM",
-      "aircraft": "A319/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-07-25T22:07:43Z",
-      "last_seen_utc": "2026-07-25T22:07:43Z",
       "seen_count": 1
     }
   ]
