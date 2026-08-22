@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-08-22T15:46:58Z",
+  "updated_utc": "2026-08-22T16:00:38Z",
   "flights": [
     {
       "key": "f73e981599a2753d675b220e2fdc1886ebb3555d",
@@ -9,8 +9,8 @@
       "destination": "LDSP",
       "aircraft": "A319/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-08-22T15:22:31Z",
-      "last_seen_utc": "2026-08-22T15:46:58Z",
-      "seen_count": 2
+      "last_seen_utc": "2026-08-22T16:00:38Z",
+      "seen_count": 3
     },
     {
       "key": "5c34d06dd6b63d0d6a0c1f9fa0e96d9eea97b647",
