@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-08-23T17:21:30Z",
+  "updated_utc": "2026-08-23T17:46:52Z",
   "flights": [
     {
       "key": "905498058e8c07d7c31a768c6adec5aecf121f4c",
@@ -2309,17 +2309,6 @@
       "aircraft": "A319/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-07-26T22:07:05Z",
       "last_seen_utc": "2026-07-26T22:07:05Z",
-      "seen_count": 1
-    },
-    {
-      "key": "0fa02b981a49396d64daad11f164c3ed0f765b2b",
-      "base": "BLY3134|-|-|-",
-      "callsign": "BLY3134",
-      "departure": "-",
-      "destination": "-",
-      "aircraft": "-",
-      "first_seen_utc": "2026-07-26T17:27:38Z",
-      "last_seen_utc": "2026-07-26T17:27:38Z",
       "seen_count": 1
     }
   ]
