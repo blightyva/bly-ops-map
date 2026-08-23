@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-08-23T13:38:43Z",
+  "updated_utc": "2026-08-23T13:59:13Z",
   "flights": [
+    {
+      "key": "305b07e0265e151e09ea71dfe12c952123a425c6",
+      "base": "BLY3280|LDSP|EGKK|A319/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY3280",
+      "departure": "LDSP",
+      "destination": "EGKK",
+      "aircraft": "A319/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-08-23T13:59:13Z",
+      "last_seen_utc": "2026-08-23T13:59:13Z",
+      "seen_count": 1
+    },
     {
       "key": "f73e981599a2753d675b220e2fdc1886ebb3555d",
       "base": "BLY3279|EGKK|LDSP|A319/M-SDE3FGHIRWY/LB1",
