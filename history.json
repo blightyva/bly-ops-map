@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-08-24T09:23:17Z",
+  "updated_utc": "2026-08-24T10:10:35Z",
   "flights": [
+    {
+      "key": "d21cfd5676d08be1b2ab5aec997f6683eb1a1e65",
+      "base": "BLY3327|EGKK|LIEA|A321/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY3327",
+      "departure": "EGKK",
+      "destination": "LIEA",
+      "aircraft": "A321/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-08-24T10:10:35Z",
+      "last_seen_utc": "2026-08-24T10:10:35Z",
+      "seen_count": 1
+    },
     {
       "key": "905498058e8c07d7c31a768c6adec5aecf121f4c",
       "base": "BLY3280|LDSP|EGKK|A319/M-SDE3FGHIRWY/LB1",
