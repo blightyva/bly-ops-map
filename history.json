@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-08-24T11:33:55Z",
+  "updated_utc": "2026-08-24T11:59:03Z",
   "flights": [
     {
       "key": "2fb5a033ebde6a7ff2311d946118bbebba35b81b",
@@ -9,8 +9,8 @@
       "destination": "LIEA",
       "aircraft": "A321/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-08-24T11:33:55Z",
-      "last_seen_utc": "2026-08-24T11:33:55Z",
-      "seen_count": 1
+      "last_seen_utc": "2026-08-24T11:59:03Z",
+      "seen_count": 2
     },
     {
       "key": "132f6516463e258e6c5253d99b578dd345df1ca9",
