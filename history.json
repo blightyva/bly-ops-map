@@ -1,6 +1,28 @@
 {
-  "updated_utc": "2026-08-24T14:52:35Z",
+  "updated_utc": "2026-08-24T15:40:42Z",
   "flights": [
+    {
+      "key": "c2b502a19f290d7a13450b729f18eb17b48a9d08",
+      "base": "BLY1299|EGGP|LFBE|BCS3/M-SBDE2E3GIRWXY/LB1",
+      "callsign": "BLY1299",
+      "departure": "EGGP",
+      "destination": "LFBE",
+      "aircraft": "BCS3/M-SBDE2E3GIRWXY/LB1",
+      "first_seen_utc": "2026-08-24T15:40:42Z",
+      "last_seen_utc": "2026-08-24T15:40:42Z",
+      "seen_count": 1
+    },
+    {
+      "key": "c4487ec154a0076f58bba62216bf5e9443d39d32",
+      "base": "BLY3328|LIEA|EGKK|A321/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY3328",
+      "departure": "LIEA",
+      "destination": "EGKK",
+      "aircraft": "A321/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-08-24T15:40:42Z",
+      "last_seen_utc": "2026-08-24T15:40:42Z",
+      "seen_count": 1
+    },
     {
       "key": "2fb5a033ebde6a7ff2311d946118bbebba35b81b",
       "base": "BLY3327|EGKK|LIEA|A321/M-SDE3FGHIRWY/LB1",
