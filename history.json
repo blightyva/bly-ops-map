@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-08-24T18:03:35Z",
+  "updated_utc": "2026-08-24T18:56:27Z",
   "flights": [
+    {
+      "key": "a1f4ca223569cc27f1742bc10fee733c56828a4b",
+      "base": "BLY1300|LFBE|EGGP|BCS3/M-SBDE2E3GIRWXY/LB1",
+      "callsign": "BLY1300",
+      "departure": "LFBE",
+      "destination": "EGGP",
+      "aircraft": "BCS3/M-SBDE2E3GIRWXY/LB1",
+      "first_seen_utc": "2026-08-24T18:56:27Z",
+      "last_seen_utc": "2026-08-24T18:56:27Z",
+      "seen_count": 1
+    },
     {
       "key": "84c6244599fb87331b8a1da21c58c2112779304e",
       "base": "BLY3328|LIEA|EGKK|A321/M-SDE3FGHIRWY/LB1",
