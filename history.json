@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-08-25T16:19:41Z",
+  "updated_utc": "2026-08-25T17:01:35Z",
   "flights": [
+    {
+      "key": "fe141a053492072d4a1df4b7f992dc69785e8917",
+      "base": "BLY3500|EGKK|KJFK|A343/H-SDE2E3FGHIJ4J5M1RWXY/LB1D1",
+      "callsign": "BLY3500",
+      "departure": "EGKK",
+      "destination": "KJFK",
+      "aircraft": "A343/H-SDE2E3FGHIJ4J5M1RWXY/LB1D1",
+      "first_seen_utc": "2026-08-25T17:01:35Z",
+      "last_seen_utc": "2026-08-25T17:01:35Z",
+      "seen_count": 1
+    },
     {
       "key": "c4005e8c7a2649f42b41c3cfd7cb3c734a97e093",
       "base": "BLY3150|EGKK|EGNT|A320/M-SDE3FGHIRWY/LB1",
