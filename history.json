@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-08-25T23:12:33Z",
+  "updated_utc": "2026-08-25T23:42:21Z",
   "flights": [
     {
       "key": "216b2b7464d646ffcacb40994b62b5787c00779a",
@@ -9,8 +9,8 @@
       "destination": "KJFK",
       "aircraft": "A343/H-SDE2E3FGHIJ4J5M1RWXY/LB1D1",
       "first_seen_utc": "2026-08-25T22:48:25Z",
-      "last_seen_utc": "2026-08-25T23:12:33Z",
-      "seen_count": 2
+      "last_seen_utc": "2026-08-25T23:42:21Z",
+      "seen_count": 3
     },
     {
       "key": "6e7c8ddf049eb83fac631cad0f2795e6a9cb721d",
@@ -20,8 +20,8 @@
       "destination": "WSSS",
       "aircraft": "B703/M-SDFGHRWY/C",
       "first_seen_utc": "2026-08-25T22:48:25Z",
-      "last_seen_utc": "2026-08-25T23:12:33Z",
-      "seen_count": 2
+      "last_seen_utc": "2026-08-25T23:42:21Z",
+      "seen_count": 3
     },
     {
       "key": "c757e8d1a7d960daf89043fa52aec20785945a51",
@@ -31,8 +31,8 @@
       "destination": "EGCC",
       "aircraft": "B77W/H-SDE1E2E3FGHIJ2J3J4J5M1RWXY/LB1D1",
       "first_seen_utc": "2026-08-25T22:48:25Z",
-      "last_seen_utc": "2026-08-25T23:12:33Z",
-      "seen_count": 2
+      "last_seen_utc": "2026-08-25T23:42:21Z",
+      "seen_count": 3
     },
     {
       "key": "da08728d8d298bb20df130f4e69b9e0c466bcf25",
@@ -2529,17 +2529,6 @@
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-07-29T17:41:52Z",
       "last_seen_utc": "2026-07-29T17:41:52Z",
-      "seen_count": 1
-    },
-    {
-      "key": "bca9743f53735a3d69fe14df743989b75e7aac53",
-      "base": "BLY3220|LIME|EGKK|A321/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY3220",
-      "departure": "LIME",
-      "destination": "EGKK",
-      "aircraft": "A321/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-07-28T23:41:13Z",
-      "last_seen_utc": "2026-07-28T23:41:13Z",
       "seen_count": 1
     }
   ]
