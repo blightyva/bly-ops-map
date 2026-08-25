@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-08-25T20:49:30Z",
+  "updated_utc": "2026-08-25T21:14:35Z",
   "flights": [
     {
       "key": "e322ccbabf1ce5e237705f287dda1a559dfedc80",
@@ -9,8 +9,8 @@
       "destination": "KJFK",
       "aircraft": "A343/H-SDE2E3FGHIJ4J5M1RWXY/LB1D1",
       "first_seen_utc": "2026-08-25T20:49:30Z",
-      "last_seen_utc": "2026-08-25T20:49:30Z",
-      "seen_count": 1
+      "last_seen_utc": "2026-08-25T21:14:35Z",
+      "seen_count": 2
     },
     {
       "key": "c82c1bbdfd147502ae069054d6e310eb15b3a017",
@@ -20,8 +20,8 @@
       "destination": "WSSS",
       "aircraft": "B703/M-SDFGHRWY/C",
       "first_seen_utc": "2026-08-25T20:49:30Z",
-      "last_seen_utc": "2026-08-25T20:49:30Z",
-      "seen_count": 1
+      "last_seen_utc": "2026-08-25T21:14:35Z",
+      "seen_count": 2
     },
     {
       "key": "d2e945c27585d4788a21326f9ecc46878d7a1bfc",
