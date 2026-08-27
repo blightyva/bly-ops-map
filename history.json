@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-08-27T12:59:51Z",
+  "updated_utc": "2026-08-27T22:55:04Z",
   "flights": [
+    {
+      "key": "cc3de3182037136d4499e756b39f6fe4139f35b8",
+      "base": "BLY7464|EGCC|EDDB|BCS3/M-SBDE2E3GIRWXY/LB1",
+      "callsign": "BLY7464",
+      "departure": "EGCC",
+      "destination": "EDDB",
+      "aircraft": "BCS3/M-SBDE2E3GIRWXY/LB1",
+      "first_seen_utc": "2026-08-27T22:55:04Z",
+      "last_seen_utc": "2026-08-27T22:55:04Z",
+      "seen_count": 1
+    },
     {
       "key": "c1777de0cc176d9a1ce27a851c50772df15abf48",
       "base": "BLY40A|EIDW|EGGP|BCS3/M-SBDE2E3GIRWXY/LB1",
@@ -2452,72 +2463,6 @@
       "aircraft": "A321/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-07-31T10:16:37Z",
       "last_seen_utc": "2026-07-31T10:16:37Z",
-      "seen_count": 1
-    },
-    {
-      "key": "cb5be1b3370738e972aeac98061901acb6c3841f",
-      "base": "BLY3306|EKBI|EGKK|A321/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY3306",
-      "departure": "EKBI",
-      "destination": "EGKK",
-      "aircraft": "A321/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-07-30T22:35:32Z",
-      "last_seen_utc": "2026-07-30T22:35:32Z",
-      "seen_count": 1
-    },
-    {
-      "key": "3d417abbdb5c0dbe10bdff0197d0cc6a8e1801d5",
-      "base": "BLY157|EGPH|EGNM|A320/M-VGDW/C",
-      "callsign": "BLY157",
-      "departure": "EGPH",
-      "destination": "EGNM",
-      "aircraft": "A320/M-VGDW/C",
-      "first_seen_utc": "2026-07-30T20:07:00Z",
-      "last_seen_utc": "2026-07-30T20:07:00Z",
-      "seen_count": 1
-    },
-    {
-      "key": "82a3536b0e5ded83e1382552b6953bffb9a2f4d0",
-      "base": "BLY3305|EGKK|EKBI|A321/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY3305",
-      "departure": "EGKK",
-      "destination": "EKBI",
-      "aircraft": "A321/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-07-30T18:41:42Z",
-      "last_seen_utc": "2026-07-30T18:41:42Z",
-      "seen_count": 1
-    },
-    {
-      "key": "06b32b68f2ca48043daf989ee0ba632ce9167e89",
-      "base": "BLY18G|LFBE|EGKK|A319/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY18G",
-      "departure": "LFBE",
-      "destination": "EGKK",
-      "aircraft": "A319/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-07-30T18:41:42Z",
-      "last_seen_utc": "2026-07-30T18:41:42Z",
-      "seen_count": 1
-    },
-    {
-      "key": "035aa35e82a77fdf2f39a3c0b596dc0401570201",
-      "base": "BLY1300|LFBE|EGGP|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY1300",
-      "departure": "LFBE",
-      "destination": "EGGP",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-07-30T18:41:42Z",
-      "last_seen_utc": "2026-07-30T18:41:42Z",
-      "seen_count": 1
-    },
-    {
-      "key": "7366371c4434b0e00ea755b61cb211a500a9a76a",
-      "base": "BLY3305|EGKK|EKBI|A321/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY3305",
-      "departure": "EGKK",
-      "destination": "EKBI",
-      "aircraft": "A321/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-07-30T17:00:36Z",
-      "last_seen_utc": "2026-07-30T17:00:36Z",
       "seen_count": 1
     }
   ]
