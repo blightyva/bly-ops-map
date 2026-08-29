@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-08-28T19:04:12Z",
+  "updated_utc": "2026-08-29T02:08:38Z",
   "flights": [
     {
       "key": "7bdc1a388f5dcbd9b702a43211b75da681dfb3cb",
@@ -2419,39 +2419,6 @@
       "aircraft": "BCS3/M-SBDE2E3GIRWXY/LB1",
       "first_seen_utc": "2026-08-01T07:17:17Z",
       "last_seen_utc": "2026-08-01T07:17:17Z",
-      "seen_count": 1
-    },
-    {
-      "key": "df767897a7a6ed3b51cc64cfbf5ee0bb488b8821",
-      "base": "BLY2101|EGPD|EGCC|B738/M-SDE2E3FGHIRWXY/LB1",
-      "callsign": "BLY2101",
-      "departure": "EGPD",
-      "destination": "EGCC",
-      "aircraft": "B738/M-SDE2E3FGHIRWXY/LB1",
-      "first_seen_utc": "2026-08-01T01:10:35Z",
-      "last_seen_utc": "2026-08-01T01:10:35Z",
-      "seen_count": 1
-    },
-    {
-      "key": "4d047c13952d27cd62596aed25b4e4f7e18008c1",
-      "base": "BLY7464|EGSS|EGGP|BCS3/M-SBDE2E3GIRWXY/LB1",
-      "callsign": "BLY7464",
-      "departure": "EGSS",
-      "destination": "EGGP",
-      "aircraft": "BCS3/M-SBDE2E3GIRWXY/LB1",
-      "first_seen_utc": "2026-07-31T22:27:26Z",
-      "last_seen_utc": "2026-07-31T22:27:26Z",
-      "seen_count": 1
-    },
-    {
-      "key": "0fd30f8dc72deff1e3b728ae29d7dddce568f286",
-      "base": "BLY7464|EGSS|EGGP|BCS3/M-SBDE2E3GIRWXY/LB1",
-      "callsign": "BLY7464",
-      "departure": "EGSS",
-      "destination": "EGGP",
-      "aircraft": "BCS3/M-SBDE2E3GIRWXY/LB1",
-      "first_seen_utc": "2026-07-31T21:17:49Z",
-      "last_seen_utc": "2026-07-31T21:17:49Z",
       "seen_count": 1
     }
   ]
