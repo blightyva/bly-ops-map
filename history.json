@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-08-29T02:08:38Z",
+  "updated_utc": "2026-08-29T09:02:15Z",
   "flights": [
     {
       "key": "7bdc1a388f5dcbd9b702a43211b75da681dfb3cb",
@@ -2408,17 +2408,6 @@
       "aircraft": "BCS3/M-SBDE2E3GIRWXY/LB1",
       "first_seen_utc": "2026-08-01T10:59:53Z",
       "last_seen_utc": "2026-08-01T10:59:53Z",
-      "seen_count": 1
-    },
-    {
-      "key": "1b0584d6dfcc2a8b0a5137d37cb4d59b65cc76ca",
-      "base": "BLY7464|EGSS|EGGP|BCS3/M-SBDE2E3GIRWXY/LB1",
-      "callsign": "BLY7464",
-      "departure": "EGSS",
-      "destination": "EGGP",
-      "aircraft": "BCS3/M-SBDE2E3GIRWXY/LB1",
-      "first_seen_utc": "2026-08-01T07:17:17Z",
-      "last_seen_utc": "2026-08-01T07:17:17Z",
       "seen_count": 1
     }
   ]
