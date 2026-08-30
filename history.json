@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-08-30T18:45:00Z",
+  "updated_utc": "2026-08-30T21:38:22Z",
   "flights": [
+    {
+      "key": "929f3e9a2c3bbdf51325959f004e9ad0781914d6",
+      "base": "BLY1235|EGGP|EPKK|B38M/M-SDE1FGHILORVWXY/HB1",
+      "callsign": "BLY1235",
+      "departure": "EGGP",
+      "destination": "EPKK",
+      "aircraft": "B38M/M-SDE1FGHILORVWXY/HB1",
+      "first_seen_utc": "2026-08-30T21:38:22Z",
+      "last_seen_utc": "2026-08-30T21:38:22Z",
+      "seen_count": 1
+    },
     {
       "key": "8125e7d343cb164362c44f01e1a3d76d71390ebc",
       "base": "BLY63|YPDN|YSSY|B703/M-SDFHIYC/C",
