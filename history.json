@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-08-31T11:03:43Z",
+  "updated_utc": "2026-08-31T17:59:00Z",
   "flights": [
+    {
+      "key": "a4db8c713e122970801ce4f43ccc54e8b12de972",
+      "base": "BLY1337|EGGP|ENSB|A320/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY1337",
+      "departure": "EGGP",
+      "destination": "ENSB",
+      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-08-31T17:59:00Z",
+      "last_seen_utc": "2026-08-31T17:59:00Z",
+      "seen_count": 1
+    },
     {
       "key": "9371207505c7511cb805eabcfc03dd533d04c379",
       "base": "BLY125|RJFF|EGLL|B77W/H-SDE1E2E3FGHIJ2J3J4J5M1RWXY/LB1D1",
@@ -2419,39 +2430,6 @@
       "aircraft": "A319/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-08-03T18:59:24Z",
       "last_seen_utc": "2026-08-03T18:59:24Z",
-      "seen_count": 1
-    },
-    {
-      "key": "0905502666c413d06f917f67fb57382c66bc7944",
-      "base": "BLY3214|LEPA|EGKK|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY3214",
-      "departure": "LEPA",
-      "destination": "EGKK",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-08-03T17:18:35Z",
-      "last_seen_utc": "2026-08-03T17:18:35Z",
-      "seen_count": 1
-    },
-    {
-      "key": "777902d9b6850daf6f7c3c2b059e1bc645bd9988",
-      "base": "BLY1211|EGGP|EIDW|A319/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY1211",
-      "departure": "EGGP",
-      "destination": "EIDW",
-      "aircraft": "A319/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-08-03T17:18:35Z",
-      "last_seen_utc": "2026-08-03T17:18:35Z",
-      "seen_count": 1
-    },
-    {
-      "key": "f76d36b6050c4f060313ced4a2ba7f7fd7546db5",
-      "base": "BLY3213|EGKK|LEPA|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY3213",
-      "departure": "EGKK",
-      "destination": "LEPA",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-08-03T15:09:13Z",
-      "last_seen_utc": "2026-08-03T15:09:13Z",
       "seen_count": 1
     }
   ]
