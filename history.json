@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-08-31T22:44:42Z",
+  "updated_utc": "2026-09-01T01:25:41Z",
   "flights": [
+    {
+      "key": "0dfc856a4567ba710869ebd1f597fa9bffe95158",
+      "base": "BLY3330|LOWI|EGKK|A320/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY3330",
+      "departure": "LOWI",
+      "destination": "EGKK",
+      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-09-01T01:25:41Z",
+      "last_seen_utc": "2026-09-01T01:25:41Z",
+      "seen_count": 1
+    },
     {
       "key": "43e41d0bd07a2d40b0ce1980bb8461dceced856a",
       "base": "BLY1338|ENSB|EGGP|A320/M-SDE3FGHIRWY/LB1",
