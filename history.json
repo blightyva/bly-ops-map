@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-09-02T19:53:02Z",
+  "updated_utc": "2026-09-02T22:26:07Z",
   "flights": [
+    {
+      "key": "982cd768b7096b31979e3c512ca6e6d5a370da79",
+      "base": "BLY3120|EGKK|EGPH|A320/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY3120",
+      "departure": "EGKK",
+      "destination": "EGPH",
+      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-09-02T22:26:07Z",
+      "last_seen_utc": "2026-09-02T22:26:07Z",
+      "seen_count": 1
+    },
     {
       "key": "be6bdc65e621611324ad77057cd7de865b48c151",
       "base": "BLY3314|LFMT|EGKK|A321/M-SDE3FGHIRWY/LB1",
@@ -2254,28 +2265,6 @@
       "aircraft": "BCS3/M-SBDE2E3GIRWXY/LB1",
       "first_seen_utc": "2026-08-05T22:29:47Z",
       "last_seen_utc": "2026-08-05T22:29:47Z",
-      "seen_count": 1
-    },
-    {
-      "key": "2d5dd7cbbbada64661651a7cfb43f2974b2fcd0e",
-      "base": "BLY53G|EGGP|EGHQ|BCS3/M-SBDE2E3GIRWXY/LB1",
-      "callsign": "BLY53G",
-      "departure": "EGGP",
-      "destination": "EGHQ",
-      "aircraft": "BCS3/M-SBDE2E3GIRWXY/LB1",
-      "first_seen_utc": "2026-08-05T21:11:44Z",
-      "last_seen_utc": "2026-08-05T21:11:44Z",
-      "seen_count": 1
-    },
-    {
-      "key": "387463a97502859e6cf3251513de034851e58fc0",
-      "base": "BLY318|LEAL|EGKK|A321/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY318",
-      "departure": "LEAL",
-      "destination": "EGKK",
-      "aircraft": "A321/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-08-05T21:11:44Z",
-      "last_seen_utc": "2026-08-05T21:11:44Z",
       "seen_count": 1
     }
   ]
