@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-01T21:59:55Z",
+  "updated_utc": "2026-09-02T00:00:16Z",
   "flights": [
     {
       "key": "8d17262485253bc7d78f0ff02666db7359b73b04",
@@ -2287,28 +2287,6 @@
       "aircraft": "A319/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-08-05T14:38:16Z",
       "last_seen_utc": "2026-08-05T14:38:16Z",
-      "seen_count": 1
-    },
-    {
-      "key": "3df88f0159e76eaa63eca87b094f4d55ba3053ef",
-      "base": "BLY3317|EGKK|EDDM|A319/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY3317",
-      "departure": "EGKK",
-      "destination": "EDDM",
-      "aircraft": "A319/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-08-04T23:46:48Z",
-      "last_seen_utc": "2026-08-04T23:46:48Z",
-      "seen_count": 1
-    },
-    {
-      "key": "46ce993844cf8e3fb683ae083fac88c1eceb63ac",
-      "base": "BLY3317|EGKK|EDDM|A319/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY3317",
-      "departure": "EGKK",
-      "destination": "EDDM",
-      "aircraft": "A319/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-08-04T22:46:36Z",
-      "last_seen_utc": "2026-08-04T22:46:36Z",
       "seen_count": 1
     }
   ]
