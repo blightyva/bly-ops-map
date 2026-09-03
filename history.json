@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-09-02T22:26:07Z",
+  "updated_utc": "2026-09-03T00:31:42Z",
   "flights": [
+    {
+      "key": "d06d70529d7d0c28e9d0f55d11c32996b2b69043",
+      "base": "BLY3120|EGKK|EGPH|A320/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY3120",
+      "departure": "EGKK",
+      "destination": "EGPH",
+      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-09-03T00:31:42Z",
+      "last_seen_utc": "2026-09-03T00:31:42Z",
+      "seen_count": 1
+    },
     {
       "key": "982cd768b7096b31979e3c512ca6e6d5a370da79",
       "base": "BLY3120|EGKK|EGPH|A320/M-SDE3FGHIRWY/LB1",
@@ -2221,50 +2232,6 @@
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-08-06T12:15:15Z",
       "last_seen_utc": "2026-08-06T12:15:15Z",
-      "seen_count": 1
-    },
-    {
-      "key": "566ea1b92b91f450ca01a1d35efb8c7fd0419f34",
-      "base": "BLY318|LEAL|EGKK|A321/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY318",
-      "departure": "LEAL",
-      "destination": "EGKK",
-      "aircraft": "A321/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-08-05T23:31:09Z",
-      "last_seen_utc": "2026-08-05T23:31:09Z",
-      "seen_count": 1
-    },
-    {
-      "key": "5b9b97e1ac24bebc17708efeb7f340d45f3f7ea5",
-      "base": "BLY54G|EGHQ|EGGP|BCS3/M-SBDE2E3GIRWXY/LB1",
-      "callsign": "BLY54G",
-      "departure": "EGHQ",
-      "destination": "EGGP",
-      "aircraft": "BCS3/M-SBDE2E3GIRWXY/LB1",
-      "first_seen_utc": "2026-08-05T23:31:09Z",
-      "last_seen_utc": "2026-08-05T23:31:09Z",
-      "seen_count": 1
-    },
-    {
-      "key": "4bec6f5deb2098239f97365a724db0f41a6083d4",
-      "base": "BLY318|LEAL|EGKK|A321/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY318",
-      "departure": "LEAL",
-      "destination": "EGKK",
-      "aircraft": "A321/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-08-05T22:29:47Z",
-      "last_seen_utc": "2026-08-05T22:29:47Z",
-      "seen_count": 1
-    },
-    {
-      "key": "934fb048f3a0b450fcfc77915fb6233b45a67ce7",
-      "base": "BLY54G|EGHQ|EGGP|BCS3/M-SBDE2E3GIRWXY/LB1",
-      "callsign": "BLY54G",
-      "departure": "EGHQ",
-      "destination": "EGGP",
-      "aircraft": "BCS3/M-SBDE2E3GIRWXY/LB1",
-      "first_seen_utc": "2026-08-05T22:29:47Z",
-      "last_seen_utc": "2026-08-05T22:29:47Z",
       "seen_count": 1
     }
   ]
