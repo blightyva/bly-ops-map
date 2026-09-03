@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-09-03T17:38:16Z",
+  "updated_utc": "2026-09-03T20:07:34Z",
   "flights": [
+    {
+      "key": "93f631359bdfc03d1df8dcc82dc42fe561504d22",
+      "base": "BLY3298|EICK|EGKK|A320/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY3298",
+      "departure": "EICK",
+      "destination": "EGKK",
+      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-09-03T20:07:34Z",
+      "last_seen_utc": "2026-09-03T20:07:34Z",
+      "seen_count": 1
+    },
     {
       "key": "d06d70529d7d0c28e9d0f55d11c32996b2b69043",
       "base": "BLY3120|EGKK|EGPH|A320/M-SDE3FGHIRWY/LB1",
