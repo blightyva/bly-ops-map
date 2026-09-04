@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-04T09:26:11Z",
+  "updated_utc": "2026-09-04T13:41:48Z",
   "flights": [
     {
       "key": "93ad6c4573d957bcfa2ac69afdfc3977d939016d",
@@ -2188,39 +2188,6 @@
       "aircraft": "CONC/H-SDFHIRW/L",
       "first_seen_utc": "2026-08-07T14:17:27Z",
       "last_seen_utc": "2026-08-07T14:17:27Z",
-      "seen_count": 1
-    },
-    {
-      "key": "14a74a909da49eea0dba34033ecd2222944522cf",
-      "base": "BLY27|CYUL|EGCC|CONC/H-SDFHIRW/L",
-      "callsign": "BLY27",
-      "departure": "CYUL",
-      "destination": "EGCC",
-      "aircraft": "CONC/H-SDFHIRW/L",
-      "first_seen_utc": "2026-08-07T13:07:35Z",
-      "last_seen_utc": "2026-08-07T13:07:35Z",
-      "seen_count": 1
-    },
-    {
-      "key": "ffdaba015c0197a56142a9a0d7cc25a92dd2e94e",
-      "base": "BLY27|CYUL|EGCC|CONC/H-SDFHIRW/L",
-      "callsign": "BLY27",
-      "departure": "CYUL",
-      "destination": "EGCC",
-      "aircraft": "CONC/H-SDFHIRW/L",
-      "first_seen_utc": "2026-08-07T11:54:00Z",
-      "last_seen_utc": "2026-08-07T11:54:00Z",
-      "seen_count": 1
-    },
-    {
-      "key": "21e4afa8c29e0a56e6a98ef46a03b2a1e7716294",
-      "base": "BLY27|CYUL|EGCC|CONC/H-SDFHIRW/L",
-      "callsign": "BLY27",
-      "departure": "CYUL",
-      "destination": "EGCC",
-      "aircraft": "CONC/H-SDFHIRW/L",
-      "first_seen_utc": "2026-08-07T11:05:39Z",
-      "last_seen_utc": "2026-08-07T11:05:39Z",
       "seen_count": 1
     }
   ]
