@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-05T23:59:25Z",
+  "updated_utc": "2026-09-06T04:24:26Z",
   "flights": [
     {
       "key": "a3f808e2b1f8e372fbd976e05a926dba3334fa24",
@@ -2046,17 +2046,6 @@
       "first_seen_utc": "2026-08-09T13:12:33Z",
       "last_seen_utc": "2026-08-09T13:12:33Z",
       "seen_count": 1
-    },
-    {
-      "key": "c04261a47b8e33aad49059a7d5dec96179bb9c0f",
-      "base": "BLY3120|EGKK|EGPH|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY3120",
-      "departure": "EGKK",
-      "destination": "EGPH",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-08-08T23:30:32Z",
-      "last_seen_utc": "2026-08-08T23:59:44Z",
-      "seen_count": 2
     }
   ]
 }
