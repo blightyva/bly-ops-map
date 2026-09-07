@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-07T12:23:36Z",
+  "updated_utc": "2026-09-07T17:51:06Z",
   "flights": [
     {
       "key": "3585dac60b6f9f7ad032a41825ffc683a032e48b",
@@ -1814,39 +1814,6 @@
       "aircraft": "BCS3/M-SBDE2E3GIRWXY/LB1",
       "first_seen_utc": "2026-08-10T20:04:25Z",
       "last_seen_utc": "2026-08-10T20:04:25Z",
-      "seen_count": 1
-    },
-    {
-      "key": "d2e1e2945cbbae7669bcb902dd45dbaf2439152b",
-      "base": "BLY1303|EGGP|EINN|BCS3/M-SBDE2E3GIRWXY/LB1",
-      "callsign": "BLY1303",
-      "departure": "EGGP",
-      "destination": "EINN",
-      "aircraft": "BCS3/M-SBDE2E3GIRWXY/LB1",
-      "first_seen_utc": "2026-08-10T15:13:38Z",
-      "last_seen_utc": "2026-08-10T15:13:38Z",
-      "seen_count": 1
-    },
-    {
-      "key": "87faf97490d66d85554c2e9a302e0f46777279fe",
-      "base": "BLY550|EGKK|LOWI|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY550",
-      "departure": "EGKK",
-      "destination": "LOWI",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-08-10T15:13:38Z",
-      "last_seen_utc": "2026-08-10T15:13:38Z",
-      "seen_count": 1
-    },
-    {
-      "key": "698f1dd24b2a7625d85ba2a28a72abdb6c2f7391",
-      "base": "BLY3202|LFPG|EGKK|A319/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY3202",
-      "departure": "LFPG",
-      "destination": "EGKK",
-      "aircraft": "A319/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-08-10T12:35:02Z",
-      "last_seen_utc": "2026-08-10T12:35:02Z",
       "seen_count": 1
     }
   ]
