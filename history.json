@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-08T15:18:02Z",
+  "updated_utc": "2026-09-08T18:48:50Z",
   "flights": [
     {
       "key": "3585dac60b6f9f7ad032a41825ffc683a032e48b",
@@ -1638,72 +1638,6 @@
       "aircraft": "A319/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-08-11T19:42:18Z",
       "last_seen_utc": "2026-08-11T19:42:18Z",
-      "seen_count": 1
-    },
-    {
-      "key": "2f827ae837c2985e474744fc11c69acbf9d18d2b",
-      "base": "BLY295P|LFBL|EGGP|A319/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY295P",
-      "departure": "LFBL",
-      "destination": "EGGP",
-      "aircraft": "A319/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-08-11T18:33:04Z",
-      "last_seen_utc": "2026-08-11T18:33:04Z",
-      "seen_count": 1
-    },
-    {
-      "key": "c42d918540ff4893836e3b8fc4303ae07963ce47",
-      "base": "BLY98U|EGGP|LFBL|A319/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY98U",
-      "departure": "EGGP",
-      "destination": "LFBL",
-      "aircraft": "A319/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-08-11T17:36:27Z",
-      "last_seen_utc": "2026-08-11T17:36:27Z",
-      "seen_count": 1
-    },
-    {
-      "key": "eb5108e0b1f721adb080ebff33abbbe686c821c6",
-      "base": "BLY2213|EGCC|LEPA|A321/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY2213",
-      "departure": "EGCC",
-      "destination": "LEPA",
-      "aircraft": "A321/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-08-11T16:30:57Z",
-      "last_seen_utc": "2026-08-11T16:30:57Z",
-      "seen_count": 1
-    },
-    {
-      "key": "92ef49443259498d5390952ea5a12c4aa4103fd9",
-      "base": "BLY98U|EGGP|LFBL|A319/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY98U",
-      "departure": "EGGP",
-      "destination": "LFBL",
-      "aircraft": "A319/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-08-11T16:30:57Z",
-      "last_seen_utc": "2026-08-11T16:30:57Z",
-      "seen_count": 1
-    },
-    {
-      "key": "25506fd0c44ec7d133c9fef8fc44696683306e11",
-      "base": "BLY3237|EGKK|LFMN|A321/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY3237",
-      "departure": "EGKK",
-      "destination": "LFMN",
-      "aircraft": "A321/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-08-11T15:34:23Z",
-      "last_seen_utc": "2026-08-11T15:34:23Z",
-      "seen_count": 1
-    },
-    {
-      "key": "c4e494959b739c0eeff67686de897053d809520f",
-      "base": "BLY2213|EGCC|LEPA|A321/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY2213",
-      "departure": "EGCC",
-      "destination": "LEPA",
-      "aircraft": "A321/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-08-11T15:34:23Z",
-      "last_seen_utc": "2026-08-11T15:34:23Z",
       "seen_count": 1
     }
   ]
