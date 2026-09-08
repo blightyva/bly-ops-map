@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-08T18:48:50Z",
+  "updated_utc": "2026-09-08T21:28:48Z",
   "flights": [
     {
       "key": "3585dac60b6f9f7ad032a41825ffc683a032e48b",
@@ -1627,17 +1627,6 @@
       "aircraft": "A321/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-08-11T22:12:07Z",
       "last_seen_utc": "2026-08-11T22:12:07Z",
-      "seen_count": 1
-    },
-    {
-      "key": "98b5d9e071fcfb277eb8b2ce6bf1b4db479f8cf1",
-      "base": "BLY295P|LFBL|EGGP|A319/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY295P",
-      "departure": "LFBL",
-      "destination": "EGGP",
-      "aircraft": "A319/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-08-11T19:42:18Z",
-      "last_seen_utc": "2026-08-11T19:42:18Z",
       "seen_count": 1
     }
   ]
