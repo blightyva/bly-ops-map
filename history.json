@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-09T16:08:14Z",
+  "updated_utc": "2026-09-09T19:16:04Z",
   "flights": [
     {
       "key": "f1aea0c4dfb9753978bd8931d3a7774a5cc974db",
@@ -1528,17 +1528,6 @@
       "aircraft": "BCS3/M-SBDE2E3GIRWXY/LB1",
       "first_seen_utc": "2026-08-12T19:48:32Z",
       "last_seen_utc": "2026-08-12T19:48:32Z",
-      "seen_count": 1
-    },
-    {
-      "key": "5bbfe2305fb865d670ba8b5c47fe94fd14dcffe7",
-      "base": "BLY9L|LFBH|EGGP|F70/M-SDFIRTWY/H",
-      "callsign": "BLY9L",
-      "departure": "LFBH",
-      "destination": "EGGP",
-      "aircraft": "F70/M-SDFIRTWY/H",
-      "first_seen_utc": "2026-08-12T16:39:36Z",
-      "last_seen_utc": "2026-08-12T16:39:36Z",
       "seen_count": 1
     }
   ]
