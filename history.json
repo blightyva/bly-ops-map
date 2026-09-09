@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-09T11:52:51Z",
+  "updated_utc": "2026-09-09T16:08:14Z",
   "flights": [
     {
       "key": "f1aea0c4dfb9753978bd8931d3a7774a5cc974db",
@@ -1539,72 +1539,6 @@
       "aircraft": "F70/M-SDFIRTWY/H",
       "first_seen_utc": "2026-08-12T16:39:36Z",
       "last_seen_utc": "2026-08-12T16:39:36Z",
-      "seen_count": 1
-    },
-    {
-      "key": "15e1bddf456d6180e969f4287109fe9296621ee9",
-      "base": "BLY3351|EGKK|LDRI|A319/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY3351",
-      "departure": "EGKK",
-      "destination": "LDRI",
-      "aircraft": "A319/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-08-12T15:42:25Z",
-      "last_seen_utc": "2026-08-12T15:42:25Z",
-      "seen_count": 1
-    },
-    {
-      "key": "def39a5400232b67fea700f360913f7633429b5f",
-      "base": "BLY9L|LFBH|EGGP|F70/M-SDFIRTWY/H",
-      "callsign": "BLY9L",
-      "departure": "LFBH",
-      "destination": "EGGP",
-      "aircraft": "F70/M-SDFIRTWY/H",
-      "first_seen_utc": "2026-08-12T15:42:25Z",
-      "last_seen_utc": "2026-08-12T15:42:25Z",
-      "seen_count": 1
-    },
-    {
-      "key": "d6d3f676366e2a335c87d3d4882b4e33112a5f87",
-      "base": "BLY9K|EGGP|LFBH|F70/M-SDFIRTWY/H",
-      "callsign": "BLY9K",
-      "departure": "EGGP",
-      "destination": "LFBH",
-      "aircraft": "F70/M-SDFIRTWY/H",
-      "first_seen_utc": "2026-08-12T14:41:12Z",
-      "last_seen_utc": "2026-08-12T14:41:12Z",
-      "seen_count": 1
-    },
-    {
-      "key": "f74ac699630b503f1340f6c6f37b05374e6e319a",
-      "base": "BLY3351|EGKK|LDRI|A319/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY3351",
-      "departure": "EGKK",
-      "destination": "LDRI",
-      "aircraft": "A319/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-08-12T14:41:12Z",
-      "last_seen_utc": "2026-08-12T14:41:12Z",
-      "seen_count": 1
-    },
-    {
-      "key": "da5ec9d57bb60acb3c68e97c7871c15dff196c38",
-      "base": "BLY9K|EGGP|LFBH|F70/M-SDFIRTWY/H",
-      "callsign": "BLY9K",
-      "departure": "EGGP",
-      "destination": "LFBH",
-      "aircraft": "F70/M-SDFIRTWY/H",
-      "first_seen_utc": "2026-08-12T13:34:24Z",
-      "last_seen_utc": "2026-08-12T13:34:24Z",
-      "seen_count": 1
-    },
-    {
-      "key": "8497db7a63e753049dccd3f180ecde3989ad80a3",
-      "base": "BLY3351|EGKK|LDRI|A319/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY3351",
-      "departure": "EGKK",
-      "destination": "LDRI",
-      "aircraft": "A319/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-08-12T13:34:24Z",
-      "last_seen_utc": "2026-08-12T13:34:24Z",
       "seen_count": 1
     }
   ]
