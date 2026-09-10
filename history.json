@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-09T23:32:08Z",
+  "updated_utc": "2026-09-10T01:26:25Z",
   "flights": [
     {
       "key": "f1aea0c4dfb9753978bd8931d3a7774a5cc974db",
@@ -1418,17 +1418,6 @@
       "aircraft": "BCS3/M-SBDE2E3GIRWXY/LB1",
       "first_seen_utc": "2026-08-13T14:46:03Z",
       "last_seen_utc": "2026-08-13T14:46:03Z",
-      "seen_count": 1
-    },
-    {
-      "key": "577d737b6c31d3f171ad55c492bdeb80fda7f617",
-      "base": "BLY3352|LDRI|EGKK|A319/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY3352",
-      "departure": "LDRI",
-      "destination": "EGKK",
-      "aircraft": "A319/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-08-12T23:55:11Z",
-      "last_seen_utc": "2026-08-12T23:55:11Z",
       "seen_count": 1
     }
   ]
