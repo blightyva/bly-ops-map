@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-11T06:06:28Z",
+  "updated_utc": "2026-09-11T11:15:56Z",
   "flights": [
     {
       "key": "f1aea0c4dfb9753978bd8931d3a7774a5cc974db",
@@ -1352,17 +1352,6 @@
       "aircraft": "BCS3/M-SBDE2E3GIRWXY/LB1",
       "first_seen_utc": "2026-08-14T11:32:21Z",
       "last_seen_utc": "2026-08-14T11:32:21Z",
-      "seen_count": 1
-    },
-    {
-      "key": "a67fe6b2438127cfb9307b1f719e04cbdd322482",
-      "base": "BLY692T|EGCC|EGPH|BCS3/M-SBDE2E3GIRWXY/LB1",
-      "callsign": "BLY692T",
-      "departure": "EGCC",
-      "destination": "EGPH",
-      "aircraft": "BCS3/M-SBDE2E3GIRWXY/LB1",
-      "first_seen_utc": "2026-08-14T10:42:44Z",
-      "last_seen_utc": "2026-08-14T10:42:44Z",
       "seen_count": 1
     }
   ]
