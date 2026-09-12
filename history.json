@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-12T16:51:30Z",
+  "updated_utc": "2026-09-12T19:00:35Z",
   "flights": [
     {
       "key": "f1aea0c4dfb9753978bd8931d3a7774a5cc974db",
@@ -1100,28 +1100,6 @@
       "first_seen_utc": "2026-08-15T19:09:58Z",
       "last_seen_utc": "2026-08-15T19:33:55Z",
       "seen_count": 2
-    },
-    {
-      "key": "1813d45b132a41acdd9f2e0d80fdc098be248eee",
-      "base": "BLY1204|EHAM|EGGP|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY1204",
-      "departure": "EHAM",
-      "destination": "EGGP",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-08-15T17:49:06Z",
-      "last_seen_utc": "2026-08-15T18:08:11Z",
-      "seen_count": 2
-    },
-    {
-      "key": "a71518f66e878f6148df1ed6ef9d47df47cded17",
-      "base": "BLY29YR|EGCC|EIDW|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY29YR",
-      "departure": "EGCC",
-      "destination": "EIDW",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-08-15T16:37:17Z",
-      "last_seen_utc": "2026-08-15T17:27:50Z",
-      "seen_count": 3
     }
   ]
 }
