@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-12T10:56:08Z",
+  "updated_utc": "2026-09-12T13:55:52Z",
   "flights": [
     {
       "key": "f1aea0c4dfb9753978bd8931d3a7774a5cc974db",
@@ -1177,39 +1177,6 @@
       "first_seen_utc": "2026-08-15T13:31:11Z",
       "last_seen_utc": "2026-08-15T13:56:28Z",
       "seen_count": 2
-    },
-    {
-      "key": "c175c2fe4ea1bc63e7d88a2a59c2b4863a8df99c",
-      "base": "BLY2345|EGCC|LFMK|BCS3/M-SBDE2E3GIRWXY/LB1",
-      "callsign": "BLY2345",
-      "departure": "EGCC",
-      "destination": "LFMK",
-      "aircraft": "BCS3/M-SBDE2E3GIRWXY/LB1",
-      "first_seen_utc": "2026-08-15T12:53:41Z",
-      "last_seen_utc": "2026-08-15T12:53:41Z",
-      "seen_count": 1
-    },
-    {
-      "key": "f0ef54861811b960f3213644fd6d797f522ac212",
-      "base": "BLY2345|EGCC|LFMK|BCS3/M-SBDE2E3GIRWXY/LB1",
-      "callsign": "BLY2345",
-      "departure": "EGCC",
-      "destination": "LFMK",
-      "aircraft": "BCS3/M-SBDE2E3GIRWXY/LB1",
-      "first_seen_utc": "2026-08-15T11:45:07Z",
-      "last_seen_utc": "2026-08-15T11:59:45Z",
-      "seen_count": 2
-    },
-    {
-      "key": "ce2a294a25427556b7e95f117e4be27e37c410e7",
-      "base": "BLY306W|EKBI|EGCC|BCS3/M-SBDE2E3GIRWXY/LB1",
-      "callsign": "BLY306W",
-      "departure": "EKBI",
-      "destination": "EGCC",
-      "aircraft": "BCS3/M-SBDE2E3GIRWXY/LB1",
-      "first_seen_utc": "2026-08-15T10:35:39Z",
-      "last_seen_utc": "2026-08-15T11:23:55Z",
-      "seen_count": 3
     }
   ]
 }
