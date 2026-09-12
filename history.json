@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-12T13:55:52Z",
+  "updated_utc": "2026-09-12T16:51:30Z",
   "flights": [
     {
       "key": "f1aea0c4dfb9753978bd8931d3a7774a5cc974db",
@@ -1122,61 +1122,6 @@
       "first_seen_utc": "2026-08-15T16:37:17Z",
       "last_seen_utc": "2026-08-15T17:27:50Z",
       "seen_count": 3
-    },
-    {
-      "key": "57f810f9b90861e52b83edbce73af73bf06657cc",
-      "base": "BLY23QS|LFMK|EGCC|BCS3/M-SBDE2E3GIRWXY/LB1",
-      "callsign": "BLY23QS",
-      "departure": "LFMK",
-      "destination": "EGCC",
-      "aircraft": "BCS3/M-SBDE2E3GIRWXY/LB1",
-      "first_seen_utc": "2026-08-15T16:37:17Z",
-      "last_seen_utc": "2026-08-15T16:37:17Z",
-      "seen_count": 1
-    },
-    {
-      "key": "82655eaf5f6e1fb5d09f272ec46b1be890c76571",
-      "base": "BLY23QS|LFMK|EGCC|BCS3/M-SBDE2E3GIRWXY/LB1",
-      "callsign": "BLY23QS",
-      "departure": "LFMK",
-      "destination": "EGCC",
-      "aircraft": "BCS3/M-SBDE2E3GIRWXY/LB1",
-      "first_seen_utc": "2026-08-15T15:22:12Z",
-      "last_seen_utc": "2026-08-15T16:00:28Z",
-      "seen_count": 3
-    },
-    {
-      "key": "e961306692b2bc5fca51ba2a68ea63f9c19c0bd7",
-      "base": "BLY29YR|EGCC|EIDW|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY29YR",
-      "departure": "EGCC",
-      "destination": "EIDW",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-08-15T15:46:06Z",
-      "last_seen_utc": "2026-08-15T16:00:28Z",
-      "seen_count": 2
-    },
-    {
-      "key": "d5fb5082550fc38d18928c49c73dd6d4f28b763a",
-      "base": "BLY23QS|LFMK|EGCC|BCS3/M-SBDE2E3GIRWXY/LB1",
-      "callsign": "BLY23QS",
-      "departure": "LFMK",
-      "destination": "EGCC",
-      "aircraft": "BCS3/M-SBDE2E3GIRWXY/LB1",
-      "first_seen_utc": "2026-08-15T14:28:13Z",
-      "last_seen_utc": "2026-08-15T14:51:10Z",
-      "seen_count": 2
-    },
-    {
-      "key": "571539ed50384b0ddf24554cb630d0365005233b",
-      "base": "BLY2345|EGCC|LFMK|BCS3/M-SBDE2E3GIRWXY/LB1",
-      "callsign": "BLY2345",
-      "departure": "EGCC",
-      "destination": "LFMK",
-      "aircraft": "BCS3/M-SBDE2E3GIRWXY/LB1",
-      "first_seen_utc": "2026-08-15T13:31:11Z",
-      "last_seen_utc": "2026-08-15T13:56:28Z",
-      "seen_count": 2
     }
   ]
 }
