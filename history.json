@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-17T06:29:22Z",
+  "updated_utc": "2026-09-17T11:59:52Z",
   "flights": [
     {
       "key": "85a32cde8c0dd8a51c9ed073ce0328394b5e9c28",
@@ -968,17 +968,6 @@
       "first_seen_utc": "2026-08-20T11:37:40Z",
       "last_seen_utc": "2026-08-20T12:00:32Z",
       "seen_count": 2
-    },
-    {
-      "key": "281afd733cfbb63aa1050c70a3408ffb7bfe5f4a",
-      "base": "BLY3275|EGKK|LEMH|A321/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY3275",
-      "departure": "EGKK",
-      "destination": "LEMH",
-      "aircraft": "A321/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-08-20T11:01:13Z",
-      "last_seen_utc": "2026-08-20T11:01:13Z",
-      "seen_count": 1
     }
   ]
 }
