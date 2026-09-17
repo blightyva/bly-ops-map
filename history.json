@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-17T16:51:04Z",
+  "updated_utc": "2026-09-17T20:03:39Z",
   "flights": [
     {
       "key": "e08483a7b3cff647b4424d8aa87ca1770b30610e",
@@ -913,39 +913,6 @@
       "first_seen_utc": "2026-08-21T14:01:16Z",
       "last_seen_utc": "2026-08-21T14:01:16Z",
       "seen_count": 1
-    },
-    {
-      "key": "dd5ea20f2b4867ae71ec04dc56f29bc14f7f94d2",
-      "base": "BLY3276|LEMH|EGKK|A321/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY3276",
-      "departure": "LEMH",
-      "destination": "EGKK",
-      "aircraft": "A321/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-08-20T18:15:01Z",
-      "last_seen_utc": "2026-08-20T18:15:01Z",
-      "seen_count": 1
-    },
-    {
-      "key": "d0b9f939c24f353878214ca29adb2688893e4613",
-      "base": "BLY3276|LEMH|EGKK|A321/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY3276",
-      "departure": "LEMH",
-      "destination": "EGKK",
-      "aircraft": "A321/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-08-20T17:41:57Z",
-      "last_seen_utc": "2026-08-20T17:41:57Z",
-      "seen_count": 1
-    },
-    {
-      "key": "cf205c878dd9de62fed07ec33907c1c4f48642bb",
-      "base": "BLY3276|LEMH|EGKK|A321/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY3276",
-      "departure": "LEMH",
-      "destination": "EGKK",
-      "aircraft": "A321/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-08-20T16:36:27Z",
-      "last_seen_utc": "2026-08-20T17:04:51Z",
-      "seen_count": 2
     }
   ]
 }
