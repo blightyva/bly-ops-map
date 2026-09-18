@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-09-18T20:03:42Z",
+  "updated_utc": "2026-09-18T22:32:32Z",
   "flights": [
+    {
+      "key": "55dec9a214e72474ad6c420988510ab9db54ee3c",
+      "base": "BLY87|CYHZ|EGCC|B703/M-SDFHIY/C",
+      "callsign": "BLY87",
+      "departure": "CYHZ",
+      "destination": "EGCC",
+      "aircraft": "B703/M-SDFHIY/C",
+      "first_seen_utc": "2026-09-18T22:32:32Z",
+      "last_seen_utc": "2026-09-18T22:32:32Z",
+      "seen_count": 1
+    },
     {
       "key": "e08483a7b3cff647b4424d8aa87ca1770b30610e",
       "base": "BLY3206|LEMD|EGKK|A321/M-SDE3FGHIRWY/LB1",
@@ -846,17 +857,6 @@
       "aircraft": "A319/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-08-22T13:37:21Z",
       "last_seen_utc": "2026-08-22T13:57:12Z",
-      "seen_count": 2
-    },
-    {
-      "key": "0e46d7609ccc2a7801d6c5af8e8ef77c3dc9a798",
-      "base": "BLY702|LSGG|EGKK|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY702",
-      "departure": "LSGG",
-      "destination": "EGKK",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-08-21T20:27:19Z",
-      "last_seen_utc": "2026-08-21T20:52:04Z",
       "seen_count": 2
     }
   ]
