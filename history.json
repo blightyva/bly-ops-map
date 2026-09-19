@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-09-18T22:32:32Z",
+  "updated_utc": "2026-09-19T00:36:43Z",
   "flights": [
+    {
+      "key": "e903b3b86b31b7ad2c127db34ef367e626feabe1",
+      "base": "BLY87|CYHZ|EGCC|B703/M-SDFHIY/C",
+      "callsign": "BLY87",
+      "departure": "CYHZ",
+      "destination": "EGCC",
+      "aircraft": "B703/M-SDFHIY/C",
+      "first_seen_utc": "2026-09-19T00:36:43Z",
+      "last_seen_utc": "2026-09-19T00:36:43Z",
+      "seen_count": 1
+    },
     {
       "key": "55dec9a214e72474ad6c420988510ab9db54ee3c",
       "base": "BLY87|CYHZ|EGCC|B703/M-SDFHIY/C",
