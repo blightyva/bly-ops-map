@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-20T11:51:50Z",
+  "updated_utc": "2026-09-20T15:40:08Z",
   "flights": [
     {
       "key": "e903b3b86b31b7ad2c127db34ef367e626feabe1",
@@ -814,28 +814,6 @@
       "first_seen_utc": "2026-08-23T15:29:19Z",
       "last_seen_utc": "2026-08-23T15:51:12Z",
       "seen_count": 2
-    },
-    {
-      "key": "9061d4af382d4b0e5d2511e0ed531cb7b2c8d655",
-      "base": "BLY3280|LDSP|EGKK|A319/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY3280",
-      "departure": "LDSP",
-      "destination": "EGKK",
-      "aircraft": "A319/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-08-23T14:32:07Z",
-      "last_seen_utc": "2026-08-23T14:57:22Z",
-      "seen_count": 2
-    },
-    {
-      "key": "305b07e0265e151e09ea71dfe12c952123a425c6",
-      "base": "BLY3280|LDSP|EGKK|A319/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY3280",
-      "departure": "LDSP",
-      "destination": "EGKK",
-      "aircraft": "A319/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-08-23T13:59:13Z",
-      "last_seen_utc": "2026-08-23T13:59:13Z",
-      "seen_count": 1
     }
   ]
 }
