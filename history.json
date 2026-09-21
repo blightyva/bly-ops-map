@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-21T18:38:34Z",
+  "updated_utc": "2026-09-21T22:14:12Z",
   "flights": [
     {
       "key": "8ffed08cfe5348567a75214b26fdb45427f7baaa",
@@ -682,28 +682,6 @@
       "first_seen_utc": "2026-08-24T22:47:03Z",
       "last_seen_utc": "2026-08-24T23:10:03Z",
       "seen_count": 2
-    },
-    {
-      "key": "b4a0663a0d9f0be261b544a16384609244436540",
-      "base": "BLY3150|EGKK|EGNT|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY3150",
-      "departure": "EGKK",
-      "destination": "EGNT",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-08-24T21:47:34Z",
-      "last_seen_utc": "2026-08-24T22:10:22Z",
-      "seen_count": 2
-    },
-    {
-      "key": "a1f4ca223569cc27f1742bc10fee733c56828a4b",
-      "base": "BLY1300|LFBE|EGGP|BCS3/M-SBDE2E3GIRWXY/LB1",
-      "callsign": "BLY1300",
-      "departure": "LFBE",
-      "destination": "EGGP",
-      "aircraft": "BCS3/M-SBDE2E3GIRWXY/LB1",
-      "first_seen_utc": "2026-08-24T18:56:27Z",
-      "last_seen_utc": "2026-08-24T18:56:27Z",
-      "seen_count": 1
     }
   ]
 }
