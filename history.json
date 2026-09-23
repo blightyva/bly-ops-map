@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-22T22:07:06Z",
+  "updated_utc": "2026-09-23T00:29:24Z",
   "flights": [
     {
       "key": "c0fb82da63ec044682dbaf8527c7610d0b221266",
@@ -528,61 +528,6 @@
       "first_seen_utc": "2026-08-26T11:50:37Z",
       "last_seen_utc": "2026-08-26T11:50:37Z",
       "seen_count": 1
-    },
-    {
-      "key": "216b2b7464d646ffcacb40994b62b5787c00779a",
-      "base": "BLY3500|EGKK|KJFK|A343/H-SDE2E3FGHIJ4J5M1RWXY/LB1D1",
-      "callsign": "BLY3500",
-      "departure": "EGKK",
-      "destination": "KJFK",
-      "aircraft": "A343/H-SDE2E3FGHIJ4J5M1RWXY/LB1D1",
-      "first_seen_utc": "2026-08-25T22:48:25Z",
-      "last_seen_utc": "2026-08-26T00:02:20Z",
-      "seen_count": 4
-    },
-    {
-      "key": "6e7c8ddf049eb83fac631cad0f2795e6a9cb721d",
-      "base": "BLY61|OBBI|WSSS|B703/M-SDFGHRWY/C",
-      "callsign": "BLY61",
-      "departure": "OBBI",
-      "destination": "WSSS",
-      "aircraft": "B703/M-SDFGHRWY/C",
-      "first_seen_utc": "2026-08-25T22:48:25Z",
-      "last_seen_utc": "2026-08-26T00:02:20Z",
-      "seen_count": 4
-    },
-    {
-      "key": "c757e8d1a7d960daf89043fa52aec20785945a51",
-      "base": "BLY25|LFLL|EGCC|B77W/H-SDE1E2E3FGHIJ2J3J4J5M1RWXY/LB1D1",
-      "callsign": "BLY25",
-      "departure": "LFLL",
-      "destination": "EGCC",
-      "aircraft": "B77W/H-SDE1E2E3FGHIJ2J3J4J5M1RWXY/LB1D1",
-      "first_seen_utc": "2026-08-25T22:48:25Z",
-      "last_seen_utc": "2026-08-26T00:02:20Z",
-      "seen_count": 4
-    },
-    {
-      "key": "da08728d8d298bb20df130f4e69b9e0c466bcf25",
-      "base": "BLY3500|EGKK|KJFK|A343/H-SDE2E3FGHIJ4J5M1RWXY/LB1D1",
-      "callsign": "BLY3500",
-      "departure": "EGKK",
-      "destination": "KJFK",
-      "aircraft": "A343/H-SDE2E3FGHIJ4J5M1RWXY/LB1D1",
-      "first_seen_utc": "2026-08-25T21:47:18Z",
-      "last_seen_utc": "2026-08-25T22:10:09Z",
-      "seen_count": 2
-    },
-    {
-      "key": "8f9a325982f3aac485bf22271cfcd7005e9b3c6a",
-      "base": "BLY61|OBBI|WSSS|B703/M-SDFGHRWY/C",
-      "callsign": "BLY61",
-      "departure": "OBBI",
-      "destination": "WSSS",
-      "aircraft": "B703/M-SDFGHRWY/C",
-      "first_seen_utc": "2026-08-25T21:47:18Z",
-      "last_seen_utc": "2026-08-25T22:10:09Z",
-      "seen_count": 2
     }
   ]
 }
