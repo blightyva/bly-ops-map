@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-24T09:34:36Z",
+  "updated_utc": "2026-09-24T14:25:05Z",
   "flights": [
     {
       "key": "c0fb82da63ec044682dbaf8527c7610d0b221266",
@@ -450,17 +450,6 @@
       "aircraft": "BCS3/M-SBDE2E3GIRWXY/LB1",
       "first_seen_utc": "2026-08-27T22:55:04Z",
       "last_seen_utc": "2026-08-27T22:55:04Z",
-      "seen_count": 1
-    },
-    {
-      "key": "c1777de0cc176d9a1ce27a851c50772df15abf48",
-      "base": "BLY40A|EIDW|EGGP|BCS3/M-SBDE2E3GIRWXY/LB1",
-      "callsign": "BLY40A",
-      "departure": "EIDW",
-      "destination": "EGGP",
-      "aircraft": "BCS3/M-SBDE2E3GIRWXY/LB1",
-      "first_seen_utc": "2026-08-27T12:59:51Z",
-      "last_seen_utc": "2026-08-27T12:59:51Z",
       "seen_count": 1
     }
   ]
