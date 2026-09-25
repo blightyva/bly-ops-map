@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-25T15:13:06Z",
+  "updated_utc": "2026-09-25T19:19:00Z",
   "flights": [
     {
       "key": "c0fb82da63ec044682dbaf8527c7610d0b221266",
@@ -428,17 +428,6 @@
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-08-29T14:26:11Z",
       "last_seen_utc": "2026-08-29T14:26:11Z",
-      "seen_count": 1
-    },
-    {
-      "key": "7bdc1a388f5dcbd9b702a43211b75da681dfb3cb",
-      "base": "BLY62|WSSS|YPDN|B703/M-SDFHIYC/C",
-      "callsign": "BLY62",
-      "departure": "WSSS",
-      "destination": "YPDN",
-      "aircraft": "B703/M-SDFHIYC/C",
-      "first_seen_utc": "2026-08-28T19:04:12Z",
-      "last_seen_utc": "2026-08-28T19:04:12Z",
       "seen_count": 1
     }
   ]
