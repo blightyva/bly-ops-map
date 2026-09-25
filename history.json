@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-24T21:46:47Z",
+  "updated_utc": "2026-09-25T00:04:49Z",
   "flights": [
     {
       "key": "c0fb82da63ec044682dbaf8527c7610d0b221266",
@@ -439,17 +439,6 @@
       "aircraft": "B703/M-SDFHIYC/C",
       "first_seen_utc": "2026-08-28T19:04:12Z",
       "last_seen_utc": "2026-08-28T19:04:12Z",
-      "seen_count": 1
-    },
-    {
-      "key": "cc3de3182037136d4499e756b39f6fe4139f35b8",
-      "base": "BLY7464|EGCC|EDDB|BCS3/M-SBDE2E3GIRWXY/LB1",
-      "callsign": "BLY7464",
-      "departure": "EGCC",
-      "destination": "EDDB",
-      "aircraft": "BCS3/M-SBDE2E3GIRWXY/LB1",
-      "first_seen_utc": "2026-08-27T22:55:04Z",
-      "last_seen_utc": "2026-08-27T22:55:04Z",
       "seen_count": 1
     }
   ]
