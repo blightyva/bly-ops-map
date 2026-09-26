@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-26T11:09:50Z",
+  "updated_utc": "2026-09-26T14:58:10Z",
   "flights": [
     {
       "key": "c0fb82da63ec044682dbaf8527c7610d0b221266",
@@ -417,17 +417,6 @@
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-08-29T20:02:08Z",
       "last_seen_utc": "2026-08-29T20:02:08Z",
-      "seen_count": 1
-    },
-    {
-      "key": "efb22cd2f5ef3623803e386d697c673707fdc90c",
-      "base": "BLY3303|EGKK|EINN|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY3303",
-      "departure": "EGKK",
-      "destination": "EINN",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-08-29T14:26:11Z",
-      "last_seen_utc": "2026-08-29T14:26:11Z",
       "seen_count": 1
     }
   ]
