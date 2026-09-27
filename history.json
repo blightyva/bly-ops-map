@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-27T13:20:12Z",
+  "updated_utc": "2026-09-27T17:53:47Z",
   "flights": [
     {
       "key": "c0fb82da63ec044682dbaf8527c7610d0b221266",
@@ -384,17 +384,6 @@
       "aircraft": "B38M/M-SDE1FGHILORVWXY/HB1",
       "first_seen_utc": "2026-08-30T21:38:22Z",
       "last_seen_utc": "2026-08-30T21:38:22Z",
-      "seen_count": 1
-    },
-    {
-      "key": "8125e7d343cb164362c44f01e1a3d76d71390ebc",
-      "base": "BLY63|YPDN|YSSY|B703/M-SDFHIYC/C",
-      "callsign": "BLY63",
-      "departure": "YPDN",
-      "destination": "YSSY",
-      "aircraft": "B703/M-SDFHIYC/C",
-      "first_seen_utc": "2026-08-30T15:27:10Z",
-      "last_seen_utc": "2026-08-30T15:27:10Z",
       "seen_count": 1
     }
   ]
