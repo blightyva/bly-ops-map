@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-09-28T17:01:42Z",
+  "updated_utc": "2026-09-28T22:30:59Z",
   "flights": [
     {
       "key": "c0fb82da63ec044682dbaf8527c7610d0b221266",
@@ -329,17 +329,6 @@
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-08-31T22:44:42Z",
       "last_seen_utc": "2026-08-31T22:44:42Z",
-      "seen_count": 1
-    },
-    {
-      "key": "a4db8c713e122970801ce4f43ccc54e8b12de972",
-      "base": "BLY1337|EGGP|ENSB|A320/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY1337",
-      "departure": "EGGP",
-      "destination": "ENSB",
-      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-08-31T17:59:00Z",
-      "last_seen_utc": "2026-08-31T17:59:00Z",
       "seen_count": 1
     }
   ]
