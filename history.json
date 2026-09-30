@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-09-30T15:43:08Z",
+  "updated_utc": "2026-09-30T20:19:56Z",
   "flights": [
+    {
+      "key": "40e5ea1a203be54d95e9aa3c4a49b6965c119350",
+      "base": "BLY003|EGCC|KIAD|CONC/H-SDFHIRW/L",
+      "callsign": "BLY003",
+      "departure": "EGCC",
+      "destination": "KIAD",
+      "aircraft": "CONC/H-SDFHIRW/L",
+      "first_seen_utc": "2026-09-30T20:19:56Z",
+      "last_seen_utc": "2026-09-30T20:19:56Z",
+      "seen_count": 1
+    },
     {
       "key": "91177447d69b7175ecba565e7e8c80564266448f",
       "base": "BLY1137|EGPA|EGGP|E175/M-SDE3GILORVW/S",
@@ -274,17 +285,6 @@
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-09-02T22:26:07Z",
       "last_seen_utc": "2026-09-02T22:26:07Z",
-      "seen_count": 1
-    },
-    {
-      "key": "be6bdc65e621611324ad77057cd7de865b48c151",
-      "base": "BLY3314|LFMT|EGKK|A321/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY3314",
-      "departure": "LFMT",
-      "destination": "EGKK",
-      "aircraft": "A321/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-09-02T17:19:02Z",
-      "last_seen_utc": "2026-09-02T17:19:02Z",
       "seen_count": 1
     }
   ]
