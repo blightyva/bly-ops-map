@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-02T14:04:44Z",
+  "updated_utc": "2026-10-02T19:14:46Z",
   "flights": [
     {
       "key": "8651d958b3e90fb30a91d1dc04f09c2c2e5f7544",
@@ -230,17 +230,6 @@
       "aircraft": "A343/H-SDE2E3FGHIJ4J5M1RWXY/LB1D1",
       "first_seen_utc": "2026-09-04T19:35:34Z",
       "last_seen_utc": "2026-09-04T19:35:34Z",
-      "seen_count": 1
-    },
-    {
-      "key": "0e15cb5664cee83decdb7295b9bf2263915a0cda",
-      "base": "BLY3343|EGKK|LFBL|A319/M-SDE3FGHIRWY/LB1",
-      "callsign": "BLY3343",
-      "departure": "EGKK",
-      "destination": "LFBL",
-      "aircraft": "A319/M-SDE3FGHIRWY/LB1",
-      "first_seen_utc": "2026-09-04T17:09:20Z",
-      "last_seen_utc": "2026-09-04T17:09:20Z",
       "seen_count": 1
     }
   ]
