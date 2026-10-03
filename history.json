@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-03T12:45:44Z",
+  "updated_utc": "2026-10-03T16:46:59Z",
   "flights": [
     {
       "key": "d0d57259bb6fd2acd65c3c50a3c514171504ecfb",
@@ -186,17 +186,6 @@
       "aircraft": "A320/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-09-06T19:36:01Z",
       "last_seen_utc": "2026-09-06T19:36:01Z",
-      "seen_count": 1
-    },
-    {
-      "key": "a3f808e2b1f8e372fbd976e05a926dba3334fa24",
-      "base": "BLY7464|EGCC|EGJJ|BCS3/M-SBDE2E3GIRWXY/LB1",
-      "callsign": "BLY7464",
-      "departure": "EGCC",
-      "destination": "EGJJ",
-      "aircraft": "BCS3/M-SBDE2E3GIRWXY/LB1",
-      "first_seen_utc": "2026-09-05T13:27:06Z",
-      "last_seen_utc": "2026-09-05T13:27:06Z",
       "seen_count": 1
     }
   ]
