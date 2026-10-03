@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-02T23:02:59Z",
+  "updated_utc": "2026-10-03T01:54:25Z",
   "flights": [
     {
       "key": "d0d57259bb6fd2acd65c3c50a3c514171504ecfb",
@@ -197,28 +197,6 @@
       "aircraft": "BCS3/M-SBDE2E3GIRWXY/LB1",
       "first_seen_utc": "2026-09-05T13:27:06Z",
       "last_seen_utc": "2026-09-05T13:27:06Z",
-      "seen_count": 1
-    },
-    {
-      "key": "2b86aad1bda60bbf4f1948d308c91fedf6827e2f",
-      "base": "BLY2509|KMCO|EGCC|A343/H-SDE2E3FGHIJ4J5M1RWXY/LB1D1",
-      "callsign": "BLY2509",
-      "departure": "KMCO",
-      "destination": "EGCC",
-      "aircraft": "A343/H-SDE2E3FGHIJ4J5M1RWXY/LB1D1",
-      "first_seen_utc": "2026-09-05T01:18:07Z",
-      "last_seen_utc": "2026-09-05T01:18:07Z",
-      "seen_count": 1
-    },
-    {
-      "key": "54fd4c6278bffd312a6519039c71d0deb5fea622",
-      "base": "BLY2509|KMCO|EGCC|A343/H-SDE2E3FGHIJ4J5M1RWXY/LB1D1",
-      "callsign": "BLY2509",
-      "departure": "KMCO",
-      "destination": "EGCC",
-      "aircraft": "A343/H-SDE2E3FGHIJ4J5M1RWXY/LB1D1",
-      "first_seen_utc": "2026-09-04T23:26:10Z",
-      "last_seen_utc": "2026-09-04T23:26:10Z",
       "seen_count": 1
     }
   ]
