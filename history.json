@@ -1,6 +1,50 @@
 {
-  "updated_utc": "2026-10-03T16:46:59Z",
+  "updated_utc": "2026-10-03T19:31:59Z",
   "flights": [
+    {
+      "key": "788611f8ebe82805d4ed74060b2b387993f0b3d7",
+      "base": "BLY157|EINN|EGGP|A320/M-VGDW/C",
+      "callsign": "BLY157",
+      "departure": "EINN",
+      "destination": "EGGP",
+      "aircraft": "A320/M-VGDW/C",
+      "first_seen_utc": "2026-10-03T19:31:59Z",
+      "last_seen_utc": "2026-10-03T19:31:59Z",
+      "seen_count": 1
+    },
+    {
+      "key": "0d9d215e1b631b7c5b47dd7a104ee53bf471ddee",
+      "base": "BLY1304|EINN|EGGP|E175/M-SDE3GILORVW/S",
+      "callsign": "BLY1304",
+      "departure": "EINN",
+      "destination": "EGGP",
+      "aircraft": "E175/M-SDE3GILORVW/S",
+      "first_seen_utc": "2026-10-03T19:31:59Z",
+      "last_seen_utc": "2026-10-03T19:31:59Z",
+      "seen_count": 1
+    },
+    {
+      "key": "68693156fc0e1a851968eeb4250a9bdf5a9da466",
+      "base": "BLY670V|EINN|EGGP|F28/M-SDFIRWY/H",
+      "callsign": "BLY670V",
+      "departure": "EINN",
+      "destination": "EGGP",
+      "aircraft": "F28/M-SDFIRWY/H",
+      "first_seen_utc": "2026-10-03T19:31:59Z",
+      "last_seen_utc": "2026-10-03T19:31:59Z",
+      "seen_count": 1
+    },
+    {
+      "key": "a7b8eb146d20bd1122df730d42c9c4c6bef2eebf",
+      "base": "BLY1315|EINN|EGGP|RJ1H/M-SDFGIRWY/LB1",
+      "callsign": "BLY1315",
+      "departure": "EINN",
+      "destination": "EGGP",
+      "aircraft": "RJ1H/M-SDFGIRWY/LB1",
+      "first_seen_utc": "2026-10-03T19:31:59Z",
+      "last_seen_utc": "2026-10-03T19:31:59Z",
+      "seen_count": 1
+    },
     {
       "key": "d0d57259bb6fd2acd65c3c50a3c514171504ecfb",
       "base": "BLY125|CYYT|BIKF|B77W/H-SDE1E2E3FGHIJ2J3J4J5M1RWXY/LB1D1",
