@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-06T20:06:01Z",
+  "updated_utc": "2026-10-06T23:46:23Z",
   "flights": [
     {
       "key": "4c4ecf35a94091ab57a882c5d42e0f7543753171",
@@ -263,17 +263,6 @@
       "aircraft": "A319/M-SDE3FGHIRWY/LB1",
       "first_seen_utc": "2026-09-13T15:05:56Z",
       "last_seen_utc": "2026-09-13T15:05:56Z",
-      "seen_count": 1
-    },
-    {
-      "key": "f1aea0c4dfb9753978bd8931d3a7774a5cc974db",
-      "base": "BLY64|YSSY|NFFN|B703/M-SDFGHRWY/C",
-      "callsign": "BLY64",
-      "departure": "YSSY",
-      "destination": "NFFN",
-      "aircraft": "B703/M-SDFGHRWY/C",
-      "first_seen_utc": "2026-09-08T23:36:27Z",
-      "last_seen_utc": "2026-09-08T23:36:27Z",
       "seen_count": 1
     }
   ]
