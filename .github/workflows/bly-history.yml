@@ -118,7 +118,7 @@ jobs:
               existing["seen_count"] = int(existing.get("seen_count", 0)) + 1
               by_key[existing["key"]] = existing
 
-          # Prune anything older than 4 weeks (based on last_seen_utc)
+          # Prune anything older than 90 days (based on last_seen_utc)
           kept = []
           for item in by_key.values():
             dt = parse_iso(item.get("last_seen_utc",""))
