@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-10-10T08:53:24Z",
+  "updated_utc": "2026-10-10T15:05:40Z",
   "flights": [
+    {
+      "key": "09e0b7f9da8f80f04ade59ef0b5e351476476ab4",
+      "base": "BLY145|LFPG|EIDW|A400/H-SDE2E3FGHIJ4J5M1RWXY/LB1D1",
+      "callsign": "BLY145",
+      "departure": "LFPG",
+      "destination": "EIDW",
+      "aircraft": "A400/H-SDE2E3FGHIJ4J5M1RWXY/LB1D1",
+      "first_seen_utc": "2026-10-10T15:05:40Z",
+      "last_seen_utc": "2026-10-10T15:05:40Z",
+      "seen_count": 1
+    },
     {
       "key": "ef6b5740d953203848c28df93080cb5f9dd2d33a",
       "base": "BLY135|EIDW|EGCC|B789/H-SDE1E2E3FGHIJ2J3J4J5M1RWXY/LB1D1",
