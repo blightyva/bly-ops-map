@@ -1,6 +1,28 @@
 {
-  "updated_utc": "2026-10-14T09:27:51Z",
+  "updated_utc": "2026-10-14T14:38:00Z",
   "flights": [
+    {
+      "key": "a9ecece9340e0791e401a49444a35afb99c9417a",
+      "base": "BLY5213|EGNX|LEPA|A20N/M-SDE2E3FGHIRWXY/LB1",
+      "callsign": "BLY5213",
+      "departure": "EGNX",
+      "destination": "LEPA",
+      "aircraft": "A20N/M-SDE2E3FGHIRWXY/LB1",
+      "first_seen_utc": "2026-10-14T14:38:00Z",
+      "last_seen_utc": "2026-10-14T14:38:00Z",
+      "seen_count": 1
+    },
+    {
+      "key": "f633b4b75835568ec1ee7ce907ffe95caee323f7",
+      "base": "BLY7404|WSSS|YSSY|A388/J-ADE2E3GHIJ3J4J5LM1ORVWXY/LB1D1",
+      "callsign": "BLY7404",
+      "departure": "WSSS",
+      "destination": "YSSY",
+      "aircraft": "A388/J-ADE2E3GHIJ3J4J5LM1ORVWXY/LB1D1",
+      "first_seen_utc": "2026-10-14T14:38:00Z",
+      "last_seen_utc": "2026-10-14T14:38:00Z",
+      "seen_count": 1
+    },
     {
       "key": "3c17986ee7231ded8d30d5742fc0607571bb31eb",
       "base": "BLY5305|EGNX|EKBI|A20N/M-SDE2E3FGHIRWXY/LB1",
