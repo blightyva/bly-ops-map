@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-10-14T04:01:23Z",
+  "updated_utc": "2026-10-14T09:27:51Z",
   "flights": [
+    {
+      "key": "3c17986ee7231ded8d30d5742fc0607571bb31eb",
+      "base": "BLY5305|EGNX|EKBI|A20N/M-SDE2E3FGHIRWXY/LB1",
+      "callsign": "BLY5305",
+      "departure": "EGNX",
+      "destination": "EKBI",
+      "aircraft": "A20N/M-SDE2E3FGHIRWXY/LB1",
+      "first_seen_utc": "2026-10-14T09:27:51Z",
+      "last_seen_utc": "2026-10-14T09:27:51Z",
+      "seen_count": 1
+    },
     {
       "key": "09e0b7f9da8f80f04ade59ef0b5e351476476ab4",
       "base": "BLY145|LFPG|EIDW|A400/H-SDE2E3FGHIJ4J5M1RWXY/LB1D1",
