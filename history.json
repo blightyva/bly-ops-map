@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-10-16T09:13:33Z",
+  "updated_utc": "2026-10-16T14:01:06Z",
   "flights": [
+    {
+      "key": "32b1441f7b172964163a1bc965e5addcad9ad5c4",
+      "base": "BLY1|EGCC|KJFK|CONC/H-SDFHIRW/L",
+      "callsign": "BLY1",
+      "departure": "EGCC",
+      "destination": "KJFK",
+      "aircraft": "CONC/H-SDFHIRW/L",
+      "first_seen_utc": "2026-10-16T14:01:06Z",
+      "last_seen_utc": "2026-10-16T14:01:06Z",
+      "seen_count": 1
+    },
     {
       "key": "a9ecece9340e0791e401a49444a35afb99c9417a",
       "base": "BLY5213|EGNX|LEPA|A20N/M-SDE2E3FGHIRWXY/LB1",
