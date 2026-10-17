@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-10-17T16:53:50Z",
+  "updated_utc": "2026-10-17T19:04:03Z",
   "flights": [
+    {
+      "key": "41a86aa520b261d1196167b3e00c38099d96d4e7",
+      "base": "BLY157|EGPH|EIDW|A320/M-VGDW/C",
+      "callsign": "BLY157",
+      "departure": "EGPH",
+      "destination": "EIDW",
+      "aircraft": "A320/M-VGDW/C",
+      "first_seen_utc": "2026-10-17T19:04:03Z",
+      "last_seen_utc": "2026-10-17T19:04:03Z",
+      "seen_count": 1
+    },
     {
       "key": "32b1441f7b172964163a1bc965e5addcad9ad5c4",
       "base": "BLY1|EGCC|KJFK|CONC/H-SDFHIRW/L",
