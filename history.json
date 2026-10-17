@@ -1,6 +1,28 @@
 {
-  "updated_utc": "2026-10-17T19:04:03Z",
+  "updated_utc": "2026-10-17T21:24:47Z",
   "flights": [
+    {
+      "key": "b982f61eabbebef5c0da986487df5d970666828f",
+      "base": "BLY1212|EIDW|EGGP|BCS3/M-SBDE2E3GIRWXY/LB1",
+      "callsign": "BLY1212",
+      "departure": "EIDW",
+      "destination": "EGGP",
+      "aircraft": "BCS3/M-SBDE2E3GIRWXY/LB1",
+      "first_seen_utc": "2026-10-17T21:24:47Z",
+      "last_seen_utc": "2026-10-17T21:24:47Z",
+      "seen_count": 1
+    },
+    {
+      "key": "9c3ba175243d622848ec3225dc7252b3d3c4805f",
+      "base": "BLY157|EIDW|EGGP|A320/M-L/LB1",
+      "callsign": "BLY157",
+      "departure": "EIDW",
+      "destination": "EGGP",
+      "aircraft": "A320/M-L/LB1",
+      "first_seen_utc": "2026-10-17T21:24:47Z",
+      "last_seen_utc": "2026-10-17T21:24:47Z",
+      "seen_count": 1
+    },
     {
       "key": "41a86aa520b261d1196167b3e00c38099d96d4e7",
       "base": "BLY157|EGPH|EIDW|A320/M-VGDW/C",
