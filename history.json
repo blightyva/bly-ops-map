@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-10-18T10:57:40Z",
+  "updated_utc": "2026-10-18T14:27:48Z",
   "flights": [
+    {
+      "key": "da1d665ad47f726265c84d7d24b9fe657c21c7ea",
+      "base": "BLY143|EGCC|EGHH|A343/H-SDE2E3FGHIJ4J5M1RWXY/LB1D1",
+      "callsign": "BLY143",
+      "departure": "EGCC",
+      "destination": "EGHH",
+      "aircraft": "A343/H-SDE2E3FGHIJ4J5M1RWXY/LB1D1",
+      "first_seen_utc": "2026-10-18T14:27:48Z",
+      "last_seen_utc": "2026-10-18T14:27:48Z",
+      "seen_count": 1
+    },
     {
       "key": "b982f61eabbebef5c0da986487df5d970666828f",
       "base": "BLY1212|EIDW|EGGP|BCS3/M-SBDE2E3GIRWXY/LB1",
