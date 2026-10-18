@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-10-18T19:35:25Z",
+  "updated_utc": "2026-10-18T21:51:18Z",
   "flights": [
+    {
+      "key": "b6b6dd3752357a94cc2461c02d303cf7230d1915",
+      "base": "BLY155|EGFF|EICK|A359/H-SDE2E3GHIJ3J4J5LM1ORWXY/LB1D1",
+      "callsign": "BLY155",
+      "departure": "EGFF",
+      "destination": "EICK",
+      "aircraft": "A359/H-SDE2E3GHIJ3J4J5LM1ORWXY/LB1D1",
+      "first_seen_utc": "2026-10-18T21:51:18Z",
+      "last_seen_utc": "2026-10-18T21:51:18Z",
+      "seen_count": 1
+    },
     {
       "key": "da1d665ad47f726265c84d7d24b9fe657c21c7ea",
       "base": "BLY143|EGCC|EGHH|A343/H-SDE2E3FGHIJ4J5M1RWXY/LB1D1",
