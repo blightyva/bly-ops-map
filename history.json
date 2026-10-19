@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-10-19T04:25:34Z",
+  "updated_utc": "2026-10-19T10:09:12Z",
   "flights": [
+    {
+      "key": "c60c07afe2a58daa292867f96ec810ce94cd4365",
+      "base": "BLY3214|LEPA|EGKK|A20N/M-SDE2E3FGHIRWXY/LB1",
+      "callsign": "BLY3214",
+      "departure": "LEPA",
+      "destination": "EGKK",
+      "aircraft": "A20N/M-SDE2E3FGHIRWXY/LB1",
+      "first_seen_utc": "2026-10-19T10:09:12Z",
+      "last_seen_utc": "2026-10-19T10:09:12Z",
+      "seen_count": 1
+    },
     {
       "key": "b6b6dd3752357a94cc2461c02d303cf7230d1915",
       "base": "BLY155|EGFF|EICK|A359/H-SDE2E3GHIJ3J4J5LM1ORWXY/LB1D1",
