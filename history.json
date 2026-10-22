@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-10-22T20:02:10Z",
+  "updated_utc": "2026-10-22T23:18:33Z",
   "flights": [
+    {
+      "key": "10132cf5667899940afe5f61267c3388295c0c59",
+      "base": "BLY1149|EGHQ|EGGP|A320/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY1149",
+      "departure": "EGHQ",
+      "destination": "EGGP",
+      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-10-22T23:18:33Z",
+      "last_seen_utc": "2026-10-22T23:18:33Z",
+      "seen_count": 1
+    },
     {
       "key": "a34b328d406669766c5acf9c96868b4c57a308c0",
       "base": "BLY86|EGGP|EGHQ|A320/M-SDE3FGHIRWY/LB1",
