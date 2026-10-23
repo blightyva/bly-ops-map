@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-10-23T06:29:02Z",
+  "updated_utc": "2026-10-23T11:58:47Z",
   "flights": [
+    {
+      "key": "a79dc1ab6279c379d364a8561d6f757bfd6a830a",
+      "base": "BLY212|EGPH|EGFF|A319/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY212",
+      "departure": "EGPH",
+      "destination": "EGFF",
+      "aircraft": "A319/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-10-23T11:58:47Z",
+      "last_seen_utc": "2026-10-23T11:58:47Z",
+      "seen_count": 1
+    },
     {
       "key": "10132cf5667899940afe5f61267c3388295c0c59",
       "base": "BLY1149|EGHQ|EGGP|A320/M-SDE3FGHIRWY/LB1",
