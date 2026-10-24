@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-10-24T06:32:12Z",
+  "updated_utc": "2026-10-24T11:36:06Z",
   "flights": [
+    {
+      "key": "1d6559aa5c34137913978400d588ece93499dbc1",
+      "base": "BLY4216|EDDB|EGPH|A20N/M-SDE2E3FGHIRWXY/LB1",
+      "callsign": "BLY4216",
+      "departure": "EDDB",
+      "destination": "EGPH",
+      "aircraft": "A20N/M-SDE2E3FGHIRWXY/LB1",
+      "first_seen_utc": "2026-10-24T11:36:06Z",
+      "last_seen_utc": "2026-10-24T11:36:06Z",
+      "seen_count": 1
+    },
     {
       "key": "a1c37a5e3f5983ad717d7c3057e7d49d89588380",
       "base": "BLY2234|EGCC|ENBR|L101/H-SDFHIRW/S",
