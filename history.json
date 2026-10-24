@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-10-24T14:52:21Z",
+  "updated_utc": "2026-10-24T17:56:06Z",
   "flights": [
+    {
+      "key": "b698d70736ff7e09faa21c0d96609597a2a85bc7",
+      "base": "BLY1218|LEMG|EGGP|F70/M-SDFIRTWY/H",
+      "callsign": "BLY1218",
+      "departure": "LEMG",
+      "destination": "EGGP",
+      "aircraft": "F70/M-SDFIRTWY/H",
+      "first_seen_utc": "2026-10-24T17:56:06Z",
+      "last_seen_utc": "2026-10-24T17:56:06Z",
+      "seen_count": 1
+    },
     {
       "key": "2328142cc1778ba5a6577e0be095af9ed8636873",
       "base": "BLY144|EGCC|EDDM|B748/H-SDE3FGHIM1M2RWXY/LB1",
