@@ -1,6 +1,50 @@
 {
-  "updated_utc": "2026-10-24T11:36:06Z",
+  "updated_utc": "2026-10-24T14:52:21Z",
   "flights": [
+    {
+      "key": "2328142cc1778ba5a6577e0be095af9ed8636873",
+      "base": "BLY144|EGCC|EDDM|B748/H-SDE3FGHIM1M2RWXY/LB1",
+      "callsign": "BLY144",
+      "departure": "EGCC",
+      "destination": "EDDM",
+      "aircraft": "B748/H-SDE3FGHIM1M2RWXY/LB1",
+      "first_seen_utc": "2026-10-24T14:52:21Z",
+      "last_seen_utc": "2026-10-24T14:52:21Z",
+      "seen_count": 1
+    },
+    {
+      "key": "1de45651fae5e0066e29c713be8aa91d3bff9bbd",
+      "base": "BLY4329|EGPH|LOWI|A20N/M-SDE2E3FGHIRWXY/LB1",
+      "callsign": "BLY4329",
+      "departure": "EGPH",
+      "destination": "LOWI",
+      "aircraft": "A20N/M-SDE2E3FGHIRWXY/LB1",
+      "first_seen_utc": "2026-10-24T14:52:21Z",
+      "last_seen_utc": "2026-10-24T14:52:21Z",
+      "seen_count": 1
+    },
+    {
+      "key": "0aefe430700d546a43fd9624ac48a1d8ac6f44c5",
+      "base": "BLY84FF|LEMG|EGKK|A320/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY84FF",
+      "departure": "LEMG",
+      "destination": "EGKK",
+      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-10-24T14:52:21Z",
+      "last_seen_utc": "2026-10-24T14:52:21Z",
+      "seen_count": 1
+    },
+    {
+      "key": "b9b7d42335e083ce2c5e3b6a410f0d79f3eebd8b",
+      "base": "BLY1218|LEMG|EGGP|F70/M-SDFIRTWY/H",
+      "callsign": "BLY1218",
+      "departure": "LEMG",
+      "destination": "EGGP",
+      "aircraft": "F70/M-SDFIRTWY/H",
+      "first_seen_utc": "2026-10-24T14:52:21Z",
+      "last_seen_utc": "2026-10-24T14:52:21Z",
+      "seen_count": 1
+    },
     {
       "key": "1d6559aa5c34137913978400d588ece93499dbc1",
       "base": "BLY4216|EDDB|EGPH|A20N/M-SDE2E3FGHIRWXY/LB1",
