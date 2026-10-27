@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-10-26T21:47:28Z",
+  "updated_utc": "2026-10-27T00:54:58Z",
   "flights": [
+    {
+      "key": "057508a92724939d9c10a1a09ce68e72f0381f7f",
+      "base": "BLY4GT|EGGP|LFBE|B752/M-SDE2E3FGHIJ4J7M3P2RWXYZ/LB1D1",
+      "callsign": "BLY4GT",
+      "departure": "EGGP",
+      "destination": "LFBE",
+      "aircraft": "B752/M-SDE2E3FGHIJ4J7M3P2RWXYZ/LB1D1",
+      "first_seen_utc": "2026-10-27T00:54:58Z",
+      "last_seen_utc": "2026-10-27T00:54:58Z",
+      "seen_count": 1
+    },
     {
       "key": "7dbd465df584dca0921b2a27ef0828267d076ed9",
       "base": "BLY28C|EGKK|EIDW|A321/M-SDE3FGHIRWY/LB1",
