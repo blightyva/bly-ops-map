@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-10-31T18:42:25Z",
+  "updated_utc": "2026-10-31T21:56:02Z",
   "flights": [
+    {
+      "key": "f64156caa17c7d6ae044f4c69f80c01f325d3e94",
+      "base": "BLY80V|YSSY|WAAA|A320/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY80V",
+      "departure": "YSSY",
+      "destination": "WAAA",
+      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-10-31T21:56:02Z",
+      "last_seen_utc": "2026-10-31T21:56:02Z",
+      "seen_count": 1
+    },
     {
       "key": "29b66af244f54ade30ded805096abfc9a83529e2",
       "base": "BLY212|EPWA|EGKK|A321/M-SDE3FGHIRWY/LB1",
