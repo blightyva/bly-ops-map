@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-11-01T06:57:21Z",
+  "updated_utc": "2026-11-01T14:12:24Z",
   "flights": [
+    {
+      "key": "634f2673a4e22562a293ea06b3163b34f7205df5",
+      "base": "BLY4222|LSGG|EGPH|A20N/M-SDE2E3FGHIRWXY/LB1",
+      "callsign": "BLY4222",
+      "departure": "LSGG",
+      "destination": "EGPH",
+      "aircraft": "A20N/M-SDE2E3FGHIRWXY/LB1",
+      "first_seen_utc": "2026-11-01T14:12:24Z",
+      "last_seen_utc": "2026-11-01T14:12:24Z",
+      "seen_count": 1
+    },
     {
       "key": "76da66ab6b802398e1916bddd5968495615c87e9",
       "base": "BLY80V|YSSY|WAAA|A320/M-SDE3FGHIRWY/LB1",
