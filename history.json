@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-11-03T08:38:12Z",
+  "updated_utc": "2026-11-03T16:34:05Z",
   "flights": [
+    {
+      "key": "b2e228b7dbff634eb0c8e1c9cfec8c352323d384",
+      "base": "BLY80V|TTPP|GVSV|CONC/H-SDFHIRW/L",
+      "callsign": "BLY80V",
+      "departure": "TTPP",
+      "destination": "GVSV",
+      "aircraft": "CONC/H-SDFHIRW/L",
+      "first_seen_utc": "2026-11-03T16:34:05Z",
+      "last_seen_utc": "2026-11-03T16:34:05Z",
+      "seen_count": 1
+    },
     {
       "key": "634f2673a4e22562a293ea06b3163b34f7205df5",
       "base": "BLY4222|LSGG|EGPH|A20N/M-SDE2E3FGHIRWXY/LB1",
