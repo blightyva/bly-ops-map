@@ -1,6 +1,39 @@
 {
-  "updated_utc": "2026-11-08T16:17:38Z",
+  "updated_utc": "2026-11-08T20:37:12Z",
   "flights": [
+    {
+      "key": "138f543a6ec1a0fefa4e6b91d135d5aea8cbc2df",
+      "base": "BLY5537|EGGP|EGJJ|A320/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY5537",
+      "departure": "EGGP",
+      "destination": "EGJJ",
+      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-11-08T20:37:12Z",
+      "last_seen_utc": "2026-11-08T20:37:12Z",
+      "seen_count": 1
+    },
+    {
+      "key": "1daca2770041d17f52a276fb237f85c77c255ab5",
+      "base": "BLY125|EGGP|EGJJ|A319/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY125",
+      "departure": "EGGP",
+      "destination": "EGJJ",
+      "aircraft": "A319/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-11-08T20:37:12Z",
+      "last_seen_utc": "2026-11-08T20:37:12Z",
+      "seen_count": 1
+    },
+    {
+      "key": "4e48c387dfc6cff05cda12d294680534b0ed4982",
+      "base": "BLY86NE|EGJJ|EGGP|F28/M-SDFIRWY/H",
+      "callsign": "BLY86NE",
+      "departure": "EGJJ",
+      "destination": "EGGP",
+      "aircraft": "F28/M-SDFIRWY/H",
+      "first_seen_utc": "2026-11-08T20:37:12Z",
+      "last_seen_utc": "2026-11-08T20:37:12Z",
+      "seen_count": 1
+    },
     {
       "key": "b2e228b7dbff634eb0c8e1c9cfec8c352323d384",
       "base": "BLY80V|TTPP|GVSV|CONC/H-SDFHIRW/L",
