@@ -1,6 +1,50 @@
 {
-  "updated_utc": "2026-11-11T08:08:10Z",
+  "updated_utc": "2026-11-11T16:08:26Z",
   "flights": [
+    {
+      "key": "2ac415d4f0980b51369da957af784cd8251f67a8",
+      "base": "BLY2151|EGGP|EGPL|F70/M-SDFIRWY/H",
+      "callsign": "BLY2151",
+      "departure": "EGGP",
+      "destination": "EGPL",
+      "aircraft": "F70/M-SDFIRWY/H",
+      "first_seen_utc": "2026-11-11T16:08:26Z",
+      "last_seen_utc": "2026-11-11T16:08:26Z",
+      "seen_count": 1
+    },
+    {
+      "key": "fb68f31f5f6b4f60f3ae9707ff82db04eee64d01",
+      "base": "BLY1329|EGGP|LOWI|A20N/M-SDE2E3FGHIRWXY/LB1",
+      "callsign": "BLY1329",
+      "departure": "EGGP",
+      "destination": "LOWI",
+      "aircraft": "A20N/M-SDE2E3FGHIRWXY/LB1",
+      "first_seen_utc": "2026-11-11T16:08:26Z",
+      "last_seen_utc": "2026-11-11T16:08:26Z",
+      "seen_count": 1
+    },
+    {
+      "key": "f1a8a9329f95b52d7920a2511610b617978e99a9",
+      "base": "BLY55B|EGGP|EGPL|F100/M-SDFIRWY/H",
+      "callsign": "BLY55B",
+      "departure": "EGGP",
+      "destination": "EGPL",
+      "aircraft": "F100/M-SDFIRWY/H",
+      "first_seen_utc": "2026-11-11T16:08:26Z",
+      "last_seen_utc": "2026-11-11T16:08:26Z",
+      "seen_count": 1
+    },
+    {
+      "key": "1bdd15b5d9305f2f338610577d80fd1ed513209e",
+      "base": "BLY5537|-|-|-",
+      "callsign": "BLY5537",
+      "departure": "-",
+      "destination": "-",
+      "aircraft": "-",
+      "first_seen_utc": "2026-11-11T16:08:26Z",
+      "last_seen_utc": "2026-11-11T16:08:26Z",
+      "seen_count": 1
+    },
     {
       "key": "138f543a6ec1a0fefa4e6b91d135d5aea8cbc2df",
       "base": "BLY5537|EGGP|EGJJ|A320/M-SDE3FGHIRWY/LB1",
