@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-11-12T11:41:40Z",
+  "updated_utc": "2026-11-12T19:11:28Z",
   "flights": [
+    {
+      "key": "71d2592f407a71c138248a5008c820c26fffa9a8",
+      "base": "BLY9542|-|-|-",
+      "callsign": "BLY9542",
+      "departure": "-",
+      "destination": "-",
+      "aircraft": "-",
+      "first_seen_utc": "2026-11-12T19:11:28Z",
+      "last_seen_utc": "2026-11-12T19:11:28Z",
+      "seen_count": 1
+    },
     {
       "key": "2ac415d4f0980b51369da957af784cd8251f67a8",
       "base": "BLY2151|EGGP|EGPL|F70/M-SDFIRWY/H",
