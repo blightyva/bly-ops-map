@@ -1,6 +1,28 @@
 {
-  "updated_utc": "2026-11-12T19:11:28Z",
+  "updated_utc": "2026-11-13T00:33:13Z",
   "flights": [
+    {
+      "key": "e701b1298f7332f9bb6d47aef7e1934b560609ad",
+      "base": "BLY625I|EGGP|EGJJ|F70/M-SDFIRWY/H",
+      "callsign": "BLY625I",
+      "departure": "EGGP",
+      "destination": "EGJJ",
+      "aircraft": "F70/M-SDFIRWY/H",
+      "first_seen_utc": "2026-11-13T00:33:13Z",
+      "last_seen_utc": "2026-11-13T00:33:13Z",
+      "seen_count": 1
+    },
+    {
+      "key": "5482935657cfa94991251b85aa7ca3fda8b00c8f",
+      "base": "BLY5537|EGGP|EGJJ|A320/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY5537",
+      "departure": "EGGP",
+      "destination": "EGJJ",
+      "aircraft": "A320/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-11-13T00:33:13Z",
+      "last_seen_utc": "2026-11-13T00:33:13Z",
+      "seen_count": 1
+    },
     {
       "key": "71d2592f407a71c138248a5008c820c26fffa9a8",
       "base": "BLY9542|-|-|-",
