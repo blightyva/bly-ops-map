@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-11-14T08:06:35Z",
+  "updated_utc": "2026-11-14T15:00:45Z",
   "flights": [
+    {
+      "key": "cd26f36113f8aaaf2d6937acb3e086af412bb119",
+      "base": "BLY2241|EGCC|LPPR|A20N/M-SDE2E3FGHIRWXY/LB1",
+      "callsign": "BLY2241",
+      "departure": "EGCC",
+      "destination": "LPPR",
+      "aircraft": "A20N/M-SDE2E3FGHIRWXY/LB1",
+      "first_seen_utc": "2026-11-14T15:00:45Z",
+      "last_seen_utc": "2026-11-14T15:00:45Z",
+      "seen_count": 1
+    },
     {
       "key": "4fbb06aa94bb41443fd19162c512d51a321fc592",
       "base": "BLY12|EINN|EINN|A319",
