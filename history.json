@@ -1,6 +1,28 @@
 {
-  "updated_utc": "2026-11-22T18:40:29Z",
+  "updated_utc": "2026-11-22T23:53:17Z",
   "flights": [
+    {
+      "key": "ff141740b6b1f10bbf7015a6bf4b650baf143242",
+      "base": "BLY1164|EGGP|EGJJ|BCS3/M-SBDE2E3GIRWXY/LB1",
+      "callsign": "BLY1164",
+      "departure": "EGGP",
+      "destination": "EGJJ",
+      "aircraft": "BCS3/M-SBDE2E3GIRWXY/LB1",
+      "first_seen_utc": "2026-11-22T23:53:17Z",
+      "last_seen_utc": "2026-11-22T23:53:17Z",
+      "seen_count": 1
+    },
+    {
+      "key": "5c8b340fc47e64acc8036ffacb0621a0a5bdf435",
+      "base": "BLY84V|EINN|EGGP|A319/M-SDE3FGHIRWY/LB1",
+      "callsign": "BLY84V",
+      "departure": "EINN",
+      "destination": "EGGP",
+      "aircraft": "A319/M-SDE3FGHIRWY/LB1",
+      "first_seen_utc": "2026-11-22T23:53:17Z",
+      "last_seen_utc": "2026-11-22T23:53:17Z",
+      "seen_count": 1
+    },
     {
       "key": "f0f5a9114e6c601f025ec42a0089cb374d9614f0",
       "base": "BLY2252|BIKF|EGCC|B772/H-SDE2E3FGHIJ5LORVWXY/LB1D1",
