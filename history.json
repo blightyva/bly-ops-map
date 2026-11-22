@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-11-22T03:16:19Z",
+  "updated_utc": "2026-11-22T11:40:07Z",
   "flights": [
+    {
+      "key": "f0f5a9114e6c601f025ec42a0089cb374d9614f0",
+      "base": "BLY2252|BIKF|EGCC|B772/H-SDE2E3FGHIJ5LORVWXY/LB1D1",
+      "callsign": "BLY2252",
+      "departure": "BIKF",
+      "destination": "EGCC",
+      "aircraft": "B772/H-SDE2E3FGHIJ5LORVWXY/LB1D1",
+      "first_seen_utc": "2026-11-22T11:40:07Z",
+      "last_seen_utc": "2026-11-22T11:40:07Z",
+      "seen_count": 1
+    },
     {
       "key": "af96153c36adaef513a926ddfc2336d4c1e45ccc",
       "base": "BLY1117|EGAE|EGGP|A20N/M-SDE2E3FGHIRWXY/LB1",
