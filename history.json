@@ -1,6 +1,17 @@
 {
-  "updated_utc": "2026-11-25T05:40:45Z",
+  "updated_utc": "2026-11-25T16:09:33Z",
   "flights": [
+    {
+      "key": "d6714df55f1fff52d3ac128d8bcbbb8da07055e8",
+      "base": "BLY5329|EGNX|LOWI|A20N/M-SDE2E3FGHIRWXY/LB1",
+      "callsign": "BLY5329",
+      "departure": "EGNX",
+      "destination": "LOWI",
+      "aircraft": "A20N/M-SDE2E3FGHIRWXY/LB1",
+      "first_seen_utc": "2026-11-25T16:09:33Z",
+      "last_seen_utc": "2026-11-25T16:09:33Z",
+      "seen_count": 1
+    },
     {
       "key": "ff141740b6b1f10bbf7015a6bf4b650baf143242",
       "base": "BLY1164|EGGP|EGJJ|BCS3/M-SBDE2E3GIRWXY/LB1",
